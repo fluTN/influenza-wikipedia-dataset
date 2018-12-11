@@ -1,45 +1,40 @@
-# Data Description
+# Influenza and Wikipedia Dataset
 
-This directory contains data which record ILI activity levels in Italy, starting from the 2006-2007 season to the 2015-2016 one.  
-The data are taken from two different sources, Influnet and Influweb. All these information are available
-online as convenient PDF files that can be freely downloaded.
-[Tabula](http://tabula.technology) software was used to extract data tables from the aforementioned PDF files.
+## Data Description
 
-There are also the Wikipedia data used to train and validate the model. The `wikipedia` directory contains the page views
-of the 470 feature (Wikipedia's pages) used and the `wikipedia_random` directory contains the data of the random
-Wikipedia's pages used to validate our model and confirm our hypothesis.
+This dataset contains data which record ILI activity levels in several european conutries, starting from the 2006-2007 influenza season to the 2017-2018 one. It comprises also Wikipedia's pageviews and pagecounts data extracted for several
+specific pages.
 
-The `keywords` directory contains the lists of Wikipedia's pages selected.
+The directories are named in such way:
+   * `wikipedia_{country}`: they contain the pageviews/pagecounts data for the selected Wikipedia's pages. The pageviews are divided by year and the pageviews/pagecounts are aggregated for each week. Each file contains the following columns:
+      * `week`: a string composed by `year`-`week_number`;
+      * Several other columns which are named as the Wikipedia's page monitored;
+   * `{country}`: they contains the influenza incidence data for the specified country. The incidence information is divided for each influenza seasons (which spans over two years). The file are thus named `{year}_{year+1}.csv`.
+   Each file contains the following columns:
+      * `week`: a string composed by `year`-`week_number`;
+      * `incidence`: the incidence of influenza cases over 100000 people in that speficic week;
 
-## Influnet
-Influnet (http://www.iss.it/iflu/) is an Italian epidemiological surveillance program which monitors ILI activity on a nation-wide
-basis by using data provided by sentinel physicians. The data are published weekly, in the form of bulletins, that
-can be viewed by visiting the Italian Department of Health website (http://www.salute.gov.it/portale/influenza/homeInfluenza.jsp).
+Moreover, inside each `wikipedia_{country}` directory there is another layer of division (this division is present also inside the `{country}` directories, but it matters only for the Wikipedia's pageviews since for the incidence data the division was done only for improve the usability):
+   * `complete`: contains the entire dataset, done by merging the pageviews and pagecounts data;
+   * `pageviews`: contains only the data from the pageviews (they are available only from May 2015);
+   * `pagecounts`: contains only the data from the pagecounts (it was the first method used to analyze traffic on
+        Wikipedia's pages). The data here ranges from the 2007 to the 2016.
 
-## Influweb
-Influweb (https://www.influweb.it/) is an epidemiological surveillance program, which is part of a larger European organization
-called InfluenzaNet (http://www.influenzanet.eu/). In contrast with the traditional system of sentinel networks of mainly primary
-care physicians, Influeweb obtains its data directly from the population. Any resident of a country in which InfluenzaNet is
-implemented can register to the program. The participants are asked to monitor their health and report any symptoms they have
-experienced since their last visit.
+### Other Directories
 
-The data provided here were taken from the official Italian Influweb website (https://www.influweb.it/it/dati/)
-and from the Influnet archives (http://www.iss.it/flue/index.php?id=138&tipo=13&lang=1).
+The `keywords` directory contains the lists of Wikipedia's pages selected. Each file is named `keywords_{country}.csv`
+and it contains a simple list of all pages monitored.
 
-## Data format
+## License
 
-#### Influnet
-Each row gives these information:
-* **Settimana**: year and week in which the data were recorded;
-* **Totale Medici**: total number of sentinel physicians who reported patients with ILI symptoms;
-* **Totale Casi**: total number of ILI cases on that week;
-* **Totale Assistiti**: total number of patients who were monitored by the sentinel physicians on that week;
-* **Incidenza Totale**: total incidence of ILI cases on that week;
+The influenza incidence values where extracted from several sources. Italy's data comes
+from the [InfluNet service](https://old.iss.it/site/RMI/influnet/Default.aspx). Influenza seasons of Belgium,
+Austria and Netherlands were extracted from the [FluNet surveillance tool](https://extranet.who.int/sree/Reports?op=vs&path=/WHO_HQ_Reports/G5/PROD/EXT/Influenza%20Surveillance+Report+by+Country). Gemany's influenza seasons were extracted from the [Survstat](https://survstat.rki.de/Content/Query/Create.aspx) application of the Robert Koch Institute.
+The pageviews dataset have been extracted from Wikipedia's dumps and they have the same
+license (Creative Commons Attribution-Share-Alike 3.0).
 
-#### Influweb
-Each row gives these information:
-* **yearweek**: year and week in which the data were recorded;
-* **incidence**: total incidence of ILI cases on that week;
+## How to cite
 
-### Wikipedia
-Each row consists of data regarding all the feauture for a specific week. cd
+## Questions?
+
+For further infos [send me an email](mailto:giovanni.det@gmail.com).
