@@ -20,6 +20,9 @@ Moreover, inside each `wikipedia_{country}` directory there is another layer of 
    * `pagecounts`: contains only the data from the pagecounts (it was the first method used to analyze traffic on
         Wikipedia's pages). The data here ranges from the 2007 to the 2016.
 
+The only difference is the `USA` directory in which the incidence data are provided in one unique
+file called `2007_2013.csv`. Moreover, for the USA, only the pagecounts data were extracted.
+
 ### Other Directories
 
 The `keywords` directory contains the lists of Wikipedia's pages selected. Each file is named `keywords_{country}.csv`
@@ -37,4 +40,4 @@ license (Creative Commons Attribution-Share-Alike 3.0).
 
 ## Questions?
 
-For further infos [send me an email](mailto:giovanni.det@gmail.com).
+For further infos [send us an email](mailto:giovanni.det@gmail.com,cristian.consonni@unitn.it).
