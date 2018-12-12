@@ -37,6 +37,7 @@ The influenza incidence values where extracted from several sources:
   - Italy's data comes from the [InfluNet service](https://old.iss.it/site/RMI/influnet/Default.aspx).
   - Influenza seasons of Belgium, Austria and Netherlands were extracted from the [FluNet surveillance tool](https://extranet.who.int/sree/Reports?op=vs&path=/WHO_HQ_Reports/G5/PROD/EXT/Influenza%20Surveillance+Report+by+Country).
   - Germany's influenza seasons were extracted from the [Survstat](https://survstat.rki.de/Content/Query/Create.aspx) application of the Robert Koch Institute. «Robert Koch Institute: SurvStat@RKI 2.0, https://survstat.rki.de, deadline: 2018-03-31» ([data usage policy](https://survstat.rki.de/Content/Instruction/DataUsage.aspx))
+  - USA's influenza seasons were extracted from the [FluView](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) application of the [Centers for Disease Control and Prevention](https://www.cdc.gov/)
 
 Licensing information about these datasets is unclear, while the copyright on these data lies with the institution that produced them, we believe that we can share this data for research purposes. Please refer to the original websites for futher information.
 
