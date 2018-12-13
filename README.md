@@ -50,7 +50,7 @@ The pageviews dataset have been extracted from Wikimedia's [`pagecounts-raw`](ht
 
 [![DOI](https://zenodo.org/badge/161251223.svg)](https://zenodo.org/badge/latestdoi/161251223)
 
-* De Toni, Giovanni, Consonni, Cristian, and Montresor, Alberto. “Influenza activity levels and Wikipedia pageviews 2007-2018.” https://doi.org/10.5281/zenodo.2248501
+* De Toni, Giovanni, Consonni, Cristian, and Montresor, Alberto. “Influenza activity levels and Wikipedia pageviews 2007-2018.” [doi: 10.5281/zenodo.2248501](https://doi.org/10.5281/zenodo.2248501).
 
 ## Questions?
 
