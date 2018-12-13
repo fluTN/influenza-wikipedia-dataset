@@ -1,5 +1,7 @@
 # Influenza and Wikipedia Dataset
 
+[![DOI](https://zenodo.org/badge/161251223.svg)](https://zenodo.org/badge/latestdoi/161251223)
+
 ## Data Description
 
 This dataset contains data which record ILI activity levels in several european conutries, starting from the 2006-2007 influenza season to the 2017-2018 one. It comprises also Wikipedia's pageviews and pagecounts data extracted for several
@@ -44,6 +46,11 @@ Licensing information about these datasets is unclear, while the copyright on th
 The pageviews dataset have been extracted from Wikimedia's [`pagecounts-raw`](https://dumps.wikimedia.org/other/pagecounts-raw/) dataset, which is released in the Public Domain.
 
 ## How to cite
+
+
+[![DOI](https://zenodo.org/badge/161251223.svg)](https://zenodo.org/badge/latestdoi/161251223)
+
+* De Toni, Giovanni, Consonni, Cristian, and Montresor, Alberto. “Influenza activity levels and Wikipedia pageviews 2007-2018.” https://doi.org/10.5281/zenodo.2248501
 
 ## Questions?
 
