@@ -1,3 +1,0 @@
-score(Epidemie):	0.04979
-score(Krankheit):	0.04979
-score(Influenza):	0.04979

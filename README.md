@@ -2,8 +2,7 @@
 
 ## Data Description
 
-This dataset contains data which record ILI activity levels in several european conutries, starting from the 2006-2007 influenza season to the 2017-2018 one. It comprises also Wikipedia's pageviews and pagecounts data extracted for several
-specific pages.
+This dataset contains data which record ILI activity levels in several european conutries, starting from the 2007-2008 influenza season to the 2018-2019 one. It comprises also Wikipedia's pageviews and pagecounts data extracted for several specific pages.
 
 The directories are named in such way:
 
@@ -21,6 +20,8 @@ Moreover, inside each `wikipedia_{country}` directory there is another layer of 
    * `pageviews`: contains only the data from the pageviews (they are available only from May 2015);
    * `pagecounts`: contains only the data from the pagecounts (it was the first method used to analyze traffic on
         Wikipedia's pages). The data here ranges from the 2007 to the 2016.
+   * `cyclerank/pagerank`: they contains the complete dataset, but the data refer to a set of specific pages selected by using the CycleRank or the PageRank algorithm.
+   * `cyclerank_pageviews/pagerank_pageviews`: contains only the data from the pageviews (they are available only from May 2015), but the data refer to a set of specific pages selected by using the CycleRank or the PageRank algorithm.
 
 The only difference is the `USA` directory in which the incidence data are provided in one unique
 file called `2007_2013.csv`. Moreover, for the USA, only the pagecounts data were extracted.
@@ -29,6 +30,7 @@ file called `2007_2013.csv`. Moreover, for the USA, only the pagecounts data wer
 
 The `keywords` directory contains the lists of Wikipedia's pages selected.
 Each file is named `keywords_{country}.csv` and it contains a simple list of all pages monitored.
+There are also other files called `keywords_{method}_{country}.csv` in which there is a simple list of all the pages monitored that were choose by using the given `{method}` (e.g. CycleRank or PageRank).
 
 ## License
 
