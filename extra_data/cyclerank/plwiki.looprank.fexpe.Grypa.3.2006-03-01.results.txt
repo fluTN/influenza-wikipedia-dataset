@@ -1,0 +1,30 @@
+score(Grypa):	3.47781
+score(1957):	0.58342
+score(1918):	0.53363
+score(1968):	0.43406
+score(Epidemia):	0.43406
+score(1919):	0.33448
+score(1889):	0.2847
+score(Pandemia):	0.2847
+score(Ptasia grypa):	0.23491
+score(Zapalenie płuc):	0.18512
+score(Choroby zakaźne):	0.14936
+score(1900):	0.14936
+score(1958):	0.14936
+score(Jan Paweł II):	0.14936
+score(1978):	0.14936
+score(Medycyna):	0.09957
+score(1970):	0.09957
+score(1977):	0.09957
+score(1891):	0.09957
+score(I wojna światowa):	0.04979
+score(1997):	0.04979
+score(Śmierć):	0.04979
+score(Boston):	0.04979
+score(Szczepionka):	0.04979
+score(Ebola):	0.04979
+score(Hipokrates):	0.04979
+score(Zapalenie):	0.04979
+score(Leczenie):	0.04979
+score(Gorączka krwotoczna Ebola):	0.04979
+score(Borelioza):	0.04979

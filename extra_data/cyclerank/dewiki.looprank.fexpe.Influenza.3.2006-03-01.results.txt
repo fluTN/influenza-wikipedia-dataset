@@ -1,0 +1,75 @@
+score(Influenza):	11.23335
+score(Pandemie):	0.88214
+score(Spanische Grippe):	0.88214
+score(Virusinfektion):	0.88214
+score(1918):	0.63321
+score(Tröpfcheninfektion):	0.58342
+score(Oseltamivir):	0.58342
+score(Neuraminidase):	0.58342
+score(Infektion):	0.54766
+score(Impfung):	0.54766
+score(Lungenentzündung):	0.53363
+score(Grippeimpfung):	0.53363
+score(Neuraminidase-Hemmer):	0.53363
+score(Epidemie):	0.48384
+score(Weltgesundheitsorganisation):	0.48384
+score(Geflügelpest):	0.48384
+score(Influenzapandemie):	0.48384
+score(Asiatische Grippe):	0.48384
+score(14. Februar):	0.44808
+score(1968):	0.43406
+score(Antigendrift):	0.43406
+score(Enzephalitis):	0.38427
+score(1919):	0.34851
+score(Zanamivir):	0.33448
+score(Antigenshift):	0.33448
+score(Viren):	0.24894
+score(Infektionskrankheit):	0.24894
+score(Rhinitis):	0.23491
+score(Myokarditis):	0.23491
+score(Schüttelfrost):	0.23491
+score(Immunsystem):	0.19915
+score(1969):	0.19915
+score(Impfstoff):	0.19915
+score(Virostatikum):	0.19915
+score(HIV):	0.19915
+score(Masern):	0.19915
+score(Amantadin):	0.18512
+score(Fieber):	0.14936
+score(Hygiene):	0.14936
+score(1999):	0.14936
+score(Husten):	0.14936
+score(Tollwut):	0.14936
+score(Erkältung):	0.14936
+score(Pneumokokken):	0.14936
+score(2005):	0.14936
+score(1977):	0.09957
+score(1958):	0.09957
+score(Antibiotikum):	0.09957
+score(Antikörper):	0.09957
+score(Robert Koch-Institut):	0.09957
+score(1920):	0.09957
+score(Europäische Schlafkrankheit):	0.09957
+score(Zecken):	0.04979
+score(1933):	0.04979
+score(1957):	0.04979
+score(1976):	0.04979
+score(West-Nil-Virus):	0.04979
+score(Inkubationszeit):	0.04979
+score(Frühsommer-Meningoenzephalitis):	0.04979
+score(Impfen):	0.04979
+score(Proteomik):	0.04979
+score(Zervixkarzinom):	0.04979
+score(Zytokin):	0.04979
+score(Franz Schönhuber):	0.04979
+score(Immunisierung):	0.04979
+score(Allen Welsh Dulles):	0.04979
+score(Infektionsepidemiologisches Jahrbuch):	0.04979
+score(Hausmittel):	0.04979
+score(Schmierinfektion):	0.04979
+score(Charles Tomlinson Griffes):	0.04979
+score(Nationaler Pandemieplan):	0.04979
+score(Epidemien):	0.04979
+score(Geflügelpestschutzverordnung):	0.04979
+score(Coxsackie-Virus):	0.04979
+score(Protein):	0.04979

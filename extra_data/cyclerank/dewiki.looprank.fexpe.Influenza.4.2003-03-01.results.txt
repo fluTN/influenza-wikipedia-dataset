@@ -1,0 +1,6 @@
+score(Krankheit):	0.10473
+score(Influenza):	0.10473
+score(Epidemie):	0.08642
+score(Pandemie):	0.03663
+score(Pest):	0.01832
+score(Infektionskrankheit):	0.01832

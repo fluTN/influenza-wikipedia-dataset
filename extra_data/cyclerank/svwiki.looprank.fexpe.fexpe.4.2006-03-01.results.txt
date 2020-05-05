@@ -1,0 +1,64 @@
+score(Influensa):	3.17772
+score(Spanska sjukan):	0.84216
+score(Pandemi):	0.80037
+score(Virus):	0.78205
+score(Epidemi):	0.50964
+score(Asiaten):	0.44954
+score(1918):	0.39778
+score(Hjalmar Branting):	0.32968
+score(Förkylning):	0.30817
+score(1957):	0.23294
+score(Inkubationstid):	0.14137
+score(Infektion):	0.14137
+score(Smittkoppor):	0.14137
+score(Ryska snuvan):	0.13534
+score(Lunginflammation):	0.12305
+score(1889):	0.10989
+score(Fågelinfluensa):	0.10989
+score(2003):	0.09158
+score(1970):	0.07326
+score(Alexander III av Ryssland):	0.07326
+score(24 februari):	0.05495
+score(Första världskriget):	0.03663
+score(Victoria av Baden):	0.03663
+score(1953):	0.03663
+score(1969):	0.03663
+score(10 mars):	0.03663
+score(1917):	0.03663
+score(1907):	0.03663
+score(1905):	0.03663
+score(1920):	0.03663
+score(18 oktober):	0.03663
+score(Sverige under mellankrigstiden):	0.03663
+score(Syfilis):	0.03663
+score(Olympiska vinterspelen 1960):	0.03663
+score(Pest):	0.03663
+score(Människa):	0.01832
+score(Zoonos):	0.01832
+score(2002):	0.01832
+score(Oscar II):	0.01832
+score(Nils Edén):	0.01832
+score(Olympiska spelen):	0.01832
+score(Digerdöden):	0.01832
+score(24 januari):	0.01832
+score(1963):	0.01832
+score(1 november):	0.01832
+score(23 november):	0.01832
+score(1968):	0.01832
+score(Veikko Hakulinen):	0.01832
+score(Nikolaj II av Ryssland):	0.01832
+score(Vattkoppor):	0.01832
+score(Prostitution):	0.01832
+score(Sverige under första världskriget):	0.01832
+score(Polio):	0.01832
+score(Mikroorganism):	0.01832
+score(Smittämne):	0.01832
+score(Migration):	0.01832
+score(Gula febern):	0.01832
+score(Mässling):	0.01832
+score(Original Dixieland Jazz Band):	0.01832
+score(Nick LaRocca):	0.01832
+score(Hjärninflammation):	0.01832
+score(Hosta):	0.01832
+score(Endemi):	0.01832
+score(Sverige):	0.01832

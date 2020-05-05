@@ -1,0 +1,22 @@
+score(Influenza):	0.55427
+score(Pandemia):	0.51764
+score(Influenza aviaria):	0.10473
+score(Influenza di Hong Kong):	0.08642
+score(Influenza asiatica):	0.0681
+score(Influenza spagnola):	0.04979
+score(Vienna):	0.03663
+score(2003):	0.03663
+score(Farmaco):	0.03663
+score(Papa Giovanni Paolo II):	0.03663
+score(Anni 1980):	0.01832
+score(1970):	0.01832
+score(1969):	0.01832
+score(1966):	0.01832
+score(180):	0.01832
+score(Allen Welsh Dulles):	0.01832
+score(Prima crociata):	0.01832
+score(Alberto Tomba):	0.01832
+score(Influenza spagnola pandemica):	0.01832
+score(Evoluzione):	0.01832
+score(Bertrand Russell):	0.01832
+score(Crociata):	0.01832

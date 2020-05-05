@@ -1,0 +1,92 @@
+score(Grippe):	13.12762
+score(Virus):	1.57916
+score(Grippe aviaire):	1.33022
+score(Risque pandémique lié à la grippe aviaire):	1.28044
+score(Influenzavirus A):	1.08129
+score(Maladie infectieuse):	0.98172
+score(Grippe de 1918):	0.93193
+score(Plan de crise pour une pandémie):	0.78257
+score(Oseltamivir):	0.73278
+score(Institut Pasteur):	0.68299
+score(Histoire des épizooties de grippe aviaire):	0.63321
+score(Hygiène):	0.58342
+score(Neuraminidase):	0.58342
+score(Grippe équine):	0.58342
+score(Virus à ARN):	0.53363
+score(Hémagglutinine):	0.48384
+score(Épidémie):	0.44808
+score(Génome):	0.43406
+score(Influenza):	0.43406
+score(Orthomyxoviridae):	0.38427
+score(17 janvier):	0.34851
+score(2006):	0.34851
+score(Maladie virale):	0.33448
+score(Acide sialique):	0.33448
+score(Syndrome grippal):	0.33448
+score(Poliomyélite):	0.29872
+score(Pandémie de la grippe de 1918):	0.29872
+score(Oscillococcinum):	0.2847
+score(Amantadine):	0.2847
+score(1743):	0.23491
+score(Asthénie):	0.23491
+score(Grippe saisonnière):	0.23491
+score(Bactérie):	0.19915
+score(Maladie):	0.19915
+score(Congo belge):	0.19915
+score(Myxovirus influenzae):	0.19915
+score(1957):	0.14936
+score(Infection nosocomiale):	0.14936
+score(Belgique):	0.09957
+score(1940):	0.09957
+score(1933):	0.09957
+score(1919):	0.09957
+score(Années 1750):	0.09957
+score(1733):	0.09957
+score(Liste de maladies):	0.09957
+score(Dengue):	0.09957
+score(Fièvre):	0.09957
+score(Pandémie):	0.09957
+score(Classification des virus):	0.09957
+score(Antiviral):	0.09957
+score(Maladie de Newcastle):	0.09957
+score(Comportements-barrière):	0.09957
+score(Maladie émergente):	0.09957
+score(Vaccination):	0.09957
+score(Rhume):	0.09957
+score(Borréliose):	0.09957
+score(1968):	0.04979
+score(1981):	0.04979
+score(1852):	0.04979
+score(Acide ribonucléique):	0.04979
+score(Protéine):	0.04979
+score(Acide acétylsalicylique):	0.04979
+score(Conquistador):	0.04979
+score(Cheval):	0.04979
+score(Anticorps):	0.04979
+score(Prévention):	0.04979
+score(Légionellose):	0.04979
+score(Froid):	0.04979
+score(Chronologie des vaccins):	0.04979
+score(Céphalée):	0.04979
+score(Virus de la grippe):	0.04979
+score(Rotavirus):	0.04979
+score(Jonas Salk):	0.04979
+score(Désinfectant):	0.04979
+score(Arenaviridae):	0.04979
+score(Groupe régional d'observation de la grippe):	0.04979
+score(Zanamivir):	0.04979
+score(Octobre 2005):	0.04979
+score(Myxovirus influenza):	0.04979
+score(Éternuement):	0.04979
+score(Virion):	0.04979
+score(Idée reçue):	0.04979
+score(Rimantadine):	0.04979
+score(Lavage broncho-alvéolaire):	0.04979
+score(Fomite):	0.04979
+score(Écoépidémiologique rétrospective de la grippe aviaire):	0.04979
+score(Prévalence de la grippe aviaire chez les animaux):	0.04979
+score(Diagnostics et prophylaxie de la grippe aviaire):	0.04979
+score(Glissement génétique):	0.04979
+score(Éléments d'épidémiologie concernant la grippe):	0.04979
+score(Norbert Gualde):	0.04979
+score(Douleur):	0.04979

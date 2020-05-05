@@ -1,0 +1,65 @@
+score(Grippe):	2.17195
+score(Maladie infectieuse):	0.72427
+score(Virus):	0.68764
+score(Vaccination):	0.41094
+score(Épidémie):	0.39975
+score(Poliomyélite):	0.34284
+score(Grippe aviaire):	0.25838
+score(Pandémie):	0.15968
+score(Santé):	0.14653
+score(Syndrome d'immunodéficience acquise):	0.10989
+score(1743):	0.10989
+score(1957):	0.09158
+score(Fièvre):	0.09158
+score(Cancer):	0.07326
+score(Liste de maladies):	0.07326
+score(Prévention):	0.07326
+score(Chronologie des vaccins):	0.0681
+score(1918):	0.05495
+score(Épizootie):	0.05495
+score(Cheval):	0.05495
+score(Variole):	0.05495
+score(1968):	0.03663
+score(1919):	0.03663
+score(28 octobre):	0.03663
+score(Antibiotique):	0.03663
+score(Infection):	0.03663
+score(Années 1950):	0.03663
+score(Acide acétylsalicylique):	0.03663
+score(Organisation mondiale de la santé):	0.03663
+score(Asthénie):	0.03663
+score(Oreillons):	0.03663
+score(Vaccination préventive):	0.03663
+score(Rubéole):	0.03663
+score(Céphalée):	0.03663
+score(Système immunitaire):	0.01832
+score(2001):	0.01832
+score(1952):	0.01832
+score(1955):	0.01832
+score(19 février):	0.01832
+score(26 mars):	0.01832
+score(13 avril):	0.01832
+score(10 octobre):	0.01832
+score(30 mai):	0.01832
+score(1822):	0.01832
+score(Sang):	0.01832
+score(Oiseau):	0.01832
+score(Varicelle):	0.01832
+score(Aide médicale urgente):	0.01832
+score(Parasite):	0.01832
+score(Allèle):	0.01832
+score(Philadelphie):	0.01832
+score(Inflammation):	0.01832
+score(Tétanos):	0.01832
+score(Antipyrétique):	0.01832
+score(Médecine générale):	0.01832
+score(Diphtérie):	0.01832
+score(Fémur):	0.01832
+score(Taxonomie):	0.01832
+score(Acide désoxyribonucléique):	0.01832
+score(Tumeur):	0.01832
+score(Hépatite virale):	0.01832
+score(2005 en santé et médecine):	0.01832
+score(Méningite):	0.01832
+score(Février 2005):	0.01832
+score(Maladie d'Alzheimer):	0.01832

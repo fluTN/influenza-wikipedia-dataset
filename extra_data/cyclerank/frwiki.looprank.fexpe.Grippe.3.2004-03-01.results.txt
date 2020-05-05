@@ -1,0 +1,3 @@
+score(Grippe):	0.27067
+score(Virus):	0.13534
+score(Grippe aviaire):	0.13534

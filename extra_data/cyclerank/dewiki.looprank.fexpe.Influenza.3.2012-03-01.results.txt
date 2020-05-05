@@ -1,0 +1,126 @@
+score(Influenza):	19.24907
+score(Viren):	2.32597
+score(Influenzavirus):	1.87788
+score(Pandemie):	1.23065
+score(Virusinfektion):	1.23065
+score(Oseltamivir):	1.18086
+score(Influenza-A-Virus H1N1):	1.13108
+score(Erkältung):	1.08129
+score(Lungenentzündung):	1.0315
+score(Spanische Grippe):	1.0315
+score(Neuraminidase):	0.88214
+score(Neuraminidase-Hemmer):	0.83235
+score(Infektionskrankheit):	0.74681
+score(Epidemie):	0.73278
+score(Grippeimpfung):	0.73278
+score(Gelbfieber):	0.73278
+score(Zanamivir):	0.68299
+score(Impfung):	0.59744
+score(Meningitis):	0.59744
+score(Amantadin):	0.58342
+score(Zytokin):	0.53363
+score(Asiatische Grippe):	0.53363
+score(Virostatikum):	0.49787
+score(Infektion):	0.44808
+score(Impfstoff):	0.3983
+score(AIDS):	0.3983
+score(Sekundärinfektion):	0.38427
+score(Schüttelfrost):	0.38427
+score(Rimantadin):	0.38427
+score(Immunsystem):	0.34851
+score(Grippe (Begriffsklärung)):	0.33448
+score(Fieber):	0.29872
+score(Russische Grippe):	0.29872
+score(HIV):	0.29872
+score(Influenza-Schnelltest):	0.2847
+score(Polymerase-Kettenreaktion):	0.24894
+score(Robert Koch):	0.24894
+score(Respiratory-Syncytial-Virus):	0.24894
+score(Pest):	0.19915
+score(Cholera):	0.19915
+score(Grippe):	0.19915
+score(RNA-Virus):	0.19915
+score(Geflügelpest):	0.19915
+score(Schwangerschaft):	0.19915
+score(Cholecalciferol):	0.19915
+score(Husten):	0.19915
+score(Sialinsäuren):	0.19915
+score(Enzephalitis):	0.19915
+score(Myokarditis):	0.19915
+score(Antigendrift):	0.19915
+score(Staphylococcus aureus):	0.19915
+score(Multiple Sklerose):	0.19915
+score(European Influenza Surveillance Scheme):	0.18512
+score(Denguefieber):	0.14936
+score(Virologie):	0.14936
+score(Akute Bronchitis):	0.14936
+score(Zervixkarzinom):	0.14936
+score(Pneumokokken):	0.14936
+score(GlaxoSmithKline):	0.14936
+score(Hoffmann-La Roche):	0.14936
+score(Gastroenteritis):	0.14936
+score(Hämagglutinin (Influenzavirus A)):	0.14936
+score(Coxsackie-Virus):	0.14936
+score(Myositis):	0.14936
+score(Orthomyxoviridae):	0.14936
+score(Allergie):	0.09957
+score(Nosokomiale Infektion):	0.09957
+score(Pfeiffer-Drüsenfieber):	0.09957
+score(Immunisierung):	0.09957
+score(Theoretische Biologie):	0.09957
+score(Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme):	0.09957
+score(Ribavirin):	0.09957
+score(Adamantan):	0.09957
+score(Hantaviren):	0.09957
+score(Zellkultur):	0.09957
+score(Europäische Schlafkrankheit):	0.09957
+score(Influenza-A-Virus H5N1):	0.09957
+score(Lymphozytäre Choriomeningitis):	0.09957
+score(Biologische Schutzstufe):	0.09957
+score(Antigenerbsünde):	0.09957
+score(Robert Webster (Virologe)):	0.09957
+score(Pandemie H1N1 2009/10):	0.09957
+score(Acetylsalicylsäure):	0.09957
+score(Antigen):	0.04979
+score(Hygiene):	0.04979
+score(Mittelalter):	0.04979
+score(Bakterien):	0.04979
+score(Antibiotikum):	0.04979
+score(Symptom):	0.04979
+score(Elektronenmikroskop):	0.04979
+score(Robert Koch-Institut):	0.04979
+score(Inkubationszeit):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Rifttalfieber):	0.04979
+score(Wirt (Biologie)):	0.04979
+score(Theophyllin):	0.04979
+score(Stammzelltransplantation):	0.04979
+score(Impfkalender):	0.04979
+score(Generikum):	0.04979
+score(Shikimisäure):	0.04979
+score(Selbstmedikation):	0.04979
+score(Gendrift):	0.04979
+score(Reye-Syndrom):	0.04979
+score(Dilatative Kardiomyopathie):	0.04979
+score(Leitsymptom):	0.04979
+score(Charles Tomlinson Griffes):	0.04979
+score(Nationaler Pandemieplan):	0.04979
+score(Pharyngitis):	0.04979
+score(Pseudokrupp):	0.04979
+score(Myalgie):	0.04979
+score(Pferdeinfluenza):	0.04979
+score(Hit and Run (Medizin)):	0.04979
+score(Mundschutz (Medizin)):	0.04979
+score(Intercell):	0.04979
+score(Stomatitis vesicularis):	0.04979
+score(Listeria monocytogenes):	0.04979
+score(Halsschmerzen):	0.04979
+score(Gilead Sciences):	0.04979
+score(Zytomegalie):	0.04979
+score(Adolf Mayer (Agronom)):	0.04979
+score(Richard Shope):	0.04979
+score(Liste der unentbehrlichen Arzneimittel der Weltgesundheitsorganisation):	0.04979
+score(Liste der Krankheiten des Atmungssystems nach ICD-10):	0.04979
+score(Schweinegrippe-Impfung):	0.04979
+score(Hämagglutination):	0.04979
+score(Biologische Sicherheitsstufe):	0.04979

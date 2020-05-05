@@ -1,0 +1,10 @@
+score(Gripe):	0.61918
+score(Virus):	0.23491
+score(Pandemia):	0.18512
+score(Enfermedad infecciosa):	0.14936
+score(Epidemiología):	0.09957
+score(Epidemia):	0.09957
+score(Neumonía):	0.04979
+score(Antígeno):	0.04979
+score(Enfermedad):	0.04979
+score(Infección):	0.04979

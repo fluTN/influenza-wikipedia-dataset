@@ -1,0 +1,7 @@
+score(Griep):	0.46982
+score(Virus (biologie)):	0.2847
+score(Vaccin):	0.13534
+score(SARS):	0.09957
+score(Vogelpest):	0.04979
+score(Opportunistische infectie):	0.04979
+score(Wereldgezondheidsorganisatie):	0.04979

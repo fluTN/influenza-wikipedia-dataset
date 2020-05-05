@@ -1,0 +1,20 @@
+score(Griep):	2.17563
+score(Virus (biologie)):	0.33448
+score(Oseltamivir):	0.33448
+score(Spaanse griep):	0.33448
+score(H5N1):	0.24894
+score(Vaccin):	0.23491
+score(Vogelpest):	0.19915
+score(Hongkonggriep):	0.18512
+score(Aziatische griep):	0.18512
+score(Eiwitmantel):	0.14936
+score(Epidemie):	0.09957
+score(Neuraminidase):	0.09957
+score(1960-1969):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Opportunistische infectie):	0.04979
+score(Borstvoeding):	0.04979
+score(Vogelgriep):	0.04979
+score(Symptoom):	0.04979
+score(H1N1):	0.04979
+score(Hemagglutinine):	0.04979

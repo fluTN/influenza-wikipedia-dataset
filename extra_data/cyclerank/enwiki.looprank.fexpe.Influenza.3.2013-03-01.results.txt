@@ -1,0 +1,443 @@
+score(Influenza):	84.96233
+score(Virus):	5.81106
+score(Pandemic):	2.92341
+score(Vaccine):	2.92341
+score(Influenza pandemic):	2.87362
+score(Infectious disease):	2.67448
+score(Centers for Disease Control and Prevention):	2.47533
+score(Fever):	2.47533
+score(Common cold):	2.47533
+score(Influenza vaccine):	2.47533
+score(Disease):	2.27618
+score(Influenza A virus subtype H5N1):	2.17661
+score(Avian influenza):	2.07703
+score(Antiviral drug):	1.97746
+score(Oseltamivir):	1.97746
+score(2009 flu pandemic):	1.97746
+score(Zoonosis):	1.92767
+score(Swine influenza):	1.92767
+score(Enzyme):	1.79233
+score(Human flu):	1.67873
+score(Orthomyxoviridae):	1.62895
+score(Neuraminidase):	1.62895
+score(Influenza A virus subtype H1N1):	1.62895
+score(Epidemic):	1.57916
+score(Interferon):	1.52937
+score(RNA virus):	1.47959
+score(Rhinovirus):	1.4298
+score(Gastroenteritis):	1.38001
+score(Influenza-like illness):	1.38001
+score(Antigenic shift):	1.33022
+score(Influenza research):	1.28044
+score(Zanamivir):	1.23065
+score(Flu season):	1.23065
+score(Pneumonia):	1.19489
+score(Influenza A virus subtype H3N2):	1.18086
+score(Historical annual reformulations of the influenza vaccine):	1.18086
+score(HIV/AIDS):	1.1451
+score(Smallpox):	1.1451
+score(Transmission and infection of H5N1):	1.13108
+score(Host (biology)):	1.08129
+score(Mucus):	1.08129
+score(Sialic acid):	1.08129
+score(Influenzavirus B):	1.08129
+score(Paracetamol):	0.98172
+score(Malaise):	0.98172
+score(Bronchitis):	0.98172
+score(Viral neuraminidase):	0.98172
+score(Immune system):	0.94595
+score(Malaria):	0.94595
+score(Headache):	0.93193
+score(Myalgia):	0.93193
+score(Hand washing):	0.93193
+score(Adverse effect):	0.93193
+score(Global spread of H5N1):	0.88214
+score(Fujian flu):	0.88214
+score(Microorganism):	0.84638
+score(Canada):	0.84638
+score(Pig):	0.83235
+score(European colonization of the Americas):	0.83235
+score(Influenzavirus C):	0.83235
+score(Measles):	0.69702
+score(Virus classification):	0.69702
+score(Severe acute respiratory syndrome):	0.69702
+score(Ferret):	0.68299
+score(Hemagglutinin (influenza)):	0.68299
+score(Strain (biology)):	0.68299
+score(Human parainfluenza viruses):	0.64723
+score(World Health Organization):	0.59744
+score(Infection):	0.59744
+score(Influenza A virus):	0.59744
+score(Aspirin):	0.54766
+score(Sense (molecular biology)):	0.54766
+score(Bacteria):	0.54766
+score(Myocardial infarction):	0.54766
+score(Frank Macfarlane Burnet):	0.53363
+score(Epizootic):	0.53363
+score(Walter Fiers):	0.53363
+score(Airborne disease):	0.53363
+score(Black Death):	0.49787
+score(Virology):	0.49787
+score(Hepatitis):	0.49787
+score(Biosafety level):	0.49787
+score(Epidemiology):	0.49787
+score(Amantadine):	0.49787
+score(United States):	0.49787
+score(Ebola virus disease):	0.49787
+score(Croup):	0.48384
+score(Chills):	0.48384
+score(Vitamin D and influenza):	0.48384
+score(Yellow fever):	0.44808
+score(Multiple sclerosis):	0.44808
+score(Incubation period):	0.44808
+score(Cancer):	0.44808
+score(Cough):	0.44808
+score(Immunity (medical)):	0.44808
+score(Meningitis):	0.44808
+score(Peter Palese):	0.44808
+score(Cholera):	0.3983
+score(Evolution):	0.3983
+score(HIV):	0.3983
+score(South America):	0.3983
+score(Chicken):	0.3983
+score(Dengue fever):	0.3983
+score(Allergy):	0.3983
+score(Rotavirus):	0.3983
+score(1918 flu pandemic):	0.3983
+score(Mathematical modelling of infectious disease):	0.3983
+score(National Institute of Allergy and Infectious Diseases):	0.3983
+score(Innate immune system):	0.3983
+score(Disease surveillance):	0.3983
+score(Nasal congestion):	0.38427
+score(Influenza prevention):	0.38427
+score(Cocaine):	0.34851
+score(Diarrhea):	0.34851
+score(Domestication):	0.34851
+score(Fatigue (medical)):	0.34851
+score(Virulence):	0.34851
+score(Disinfectant):	0.34851
+score(Antigenic drift):	0.34851
+score(Haemophilus influenzae):	0.34851
+score(Cell culture):	0.34851
+score(Cytokine storm):	0.34851
+score(Indigenous peoples of the Americas):	0.34851
+score(Respiratory disease):	0.34851
+score(Peramivir):	0.34851
+score(RNA interference):	0.34851
+score(Protein):	0.29872
+score(Asthma):	0.29872
+score(Inflammation):	0.29872
+score(Pharyngitis):	0.29872
+score(Bronchiole):	0.29872
+score(Glucocorticoid):	0.29872
+score(Petechia):	0.29872
+score(Neuraminidase inhibitor):	0.29872
+score(Influenza A virus subtype H2N2):	0.29872
+score(European Centre for Disease Prevention and Control):	0.29872
+score(Influenza Genome Sequencing Project):	0.29872
+score(World War I):	0.29872
+score(Nausea):	0.29872
+score(Pandemic H1N1/09 virus):	0.29872
+score(Adamantane):	0.2847
+score(M1 protein):	0.2847
+score(Xavier Saelens):	0.2847
+score(Antibody):	0.24894
+score(Bioterrorism):	0.24894
+score(Genome):	0.24894
+score(Hawaii):	0.24894
+score(RNA):	0.24894
+score(Ribavirin):	0.24894
+score(Infectious mononucleosis):	0.24894
+score(Hygiene):	0.24894
+score(Tobacco mosaic virus):	0.24894
+score(Pertussis):	0.24894
+score(Otitis media):	0.24894
+score(Clinical trial):	0.24894
+score(Hepatitis A):	0.24894
+score(Transmission (medicine)):	0.24894
+score(Rimantadine):	0.24894
+score(Massachusetts):	0.24894
+score(George W. Bush):	0.24894
+score(Gene):	0.24894
+score(Feline viral rhinotracheitis):	0.24894
+score(Diabetes mellitus):	0.24894
+score(Cat flu):	0.23491
+score(Inca Empire):	0.19915
+score(Lung):	0.19915
+score(Arctic):	0.19915
+score(Diabetic ketoacidosis):	0.19915
+score(Toxoplasmosis):	0.19915
+score(Green fluorescent protein):	0.19915
+score(Sore throat):	0.19915
+score(Pharmaceutical industry):	0.19915
+score(Abdominal pain):	0.19915
+score(Upper respiratory tract infection):	0.19915
+score(Surgical mask):	0.19915
+score(Pasteur Institute):	0.19915
+score(List of epidemics):	0.19915
+score(Newcastle disease):	0.19915
+score(Reassortment):	0.19915
+score(Syndemic):	0.19915
+score(Canine influenza):	0.19915
+score(Probenecid):	0.19915
+score(H5N1 genetic structure):	0.19915
+score(Feline calicivirus):	0.19915
+score(Gerald Ford):	0.19915
+score(Neuraminic acid):	0.19915
+score(Vomiting):	0.19915
+score(Guillain–Barré syndrome):	0.19915
+score(Alzheimer's disease):	0.19915
+score(World population):	0.19915
+score(New England):	0.19915
+score(Particulates):	0.19915
+score(Alcohol):	0.14936
+score(Antigen):	0.14936
+score(Bird):	0.14936
+score(Bertrand Russell):	0.14936
+score(Christopher Columbus):	0.14936
+score(Camel):	0.14936
+score(Cat):	0.14936
+score(Colonialism):	0.14936
+score(Proteolysis):	0.14936
+score(Sunlight):	0.14936
+score(United Kingdom):	0.14936
+score(Ultraviolet):	0.14936
+score(Anorexia (symptom)):	0.14936
+score(Genomics):	0.14936
+score(Protease):	0.14936
+score(Intestine):	0.14936
+score(Hypothyroidism):	0.14936
+score(Tobacco smoking):	0.14936
+score(Cytokine):	0.14936
+score(Mink):	0.14936
+score(Glycoprotein):	0.14936
+score(Drug resistance):	0.14936
+score(Sneeze):	0.14936
+score(Respiratory tract):	0.14936
+score(Lymphocyte):	0.14936
+score(Acute bronchitis):	0.14936
+score(Bronchiectasis):	0.14936
+score(Atypical pneumonia):	0.14936
+score(Flushing (physiology)):	0.14936
+score(Viral hepatitis):	0.14936
+score(Lytic cycle):	0.14936
+score(Breast milk):	0.14936
+score(Tonsillitis):	0.14936
+score(Bismuth subsalicylate):	0.14936
+score(Lower respiratory tract infection):	0.14936
+score(Bacterial pneumonia):	0.14936
+score(Chemokine):	0.14936
+score(Kawasaki disease):	0.14936
+score(Population history of indigenous peoples of the Americas):	0.14936
+score(Ganglioside):	0.14936
+score(Arenavirus):	0.14936
+score(Maurice Hilleman):	0.14936
+score(Dextromethorphan):	0.14936
+score(International Partnership on Avian and Pandemic Influenza):	0.14936
+score(Case fatality rate):	0.14936
+score(Icahn School of Medicine at Mount Sinai):	0.14936
+score(Dog):	0.14936
+score(RNA-dependent RNA polymerase):	0.14936
+score(Viral shedding):	0.14936
+score(Inuit):	0.14936
+score(1976 swine flu outbreak):	0.14936
+score(Chronic obstructive pulmonary disease):	0.14936
+score(Azerbaijan):	0.09957
+score(Cell (biology)):	0.09957
+score(Biological warfare):	0.09957
+score(Hippocrates):	0.09957
+score(History of medicine):	0.09957
+score(Italian language):	0.09957
+score(Mammal):	0.09957
+score(Mutation):	0.09957
+score(Nucleic acid):	0.09957
+score(Northern Hemisphere):	0.09957
+score(World Organisation for Animal Health):	0.09957
+score(Pope John Paul II):	0.09957
+score(President of the United States):	0.09957
+score(Victorian era):	0.09957
+score(Whale):	0.09957
+score(DNA vaccination):	0.09957
+score(Intensive farming):	0.09957
+score(Lipid bilayer):	0.09957
+score(Mortality rate):	0.09957
+score(Heart failure):	0.09957
+score(European polecat):	0.09957
+score(Pacific Islands):	0.09957
+score(Intramuscular injection):	0.09957
+score(Cortisol):	0.09957
+score(Acetylcysteine):	0.09957
+score(Mastitis):	0.09957
+score(Viral evolution):	0.09957
+score(Carbon monoxide poisoning):	0.09957
+score(Pathogenesis):	0.09957
+score(Cell adhesion):	0.09957
+score(Cipla):	0.09957
+score(Pathophysiology):	0.09957
+score(Leptospirosis):	0.09957
+score(Phage therapy):	0.09957
+score(Basic reproduction number):	0.09957
+score(Gilead Sciences):	0.09957
+score(Live attenuated influenza vaccine):	0.09957
+score(Shivering):	0.09957
+score(Mutation rate):	0.09957
+score(Molecular virology):	0.09957
+score(Ernest William Goodpasture):	0.09957
+score(Serotype):	0.09957
+score(Otitis):	0.09957
+score(Vertigo):	0.09957
+score(Homologous recombination):	0.09957
+score(Culling):	0.09957
+score(Gargling):	0.09957
+score(Respiratory tract infection):	0.09957
+score(Thiomersal controversy):	0.09957
+score(Immunogenicity):	0.09957
+score(Influenza A virus subtype H5N9):	0.09957
+score(Emerging infectious disease):	0.09957
+score(Acute myeloid leukemia):	0.09957
+score(Waterborne diseases):	0.09957
+score(Viral envelope):	0.09957
+score(Venezuelan equine encephalitis virus):	0.09957
+score(Viral culture):	0.09957
+score(Elk):	0.09957
+score(NMDA receptor antagonist):	0.09957
+score(Post-viral cough):	0.09957
+score(Robert Edgar Hope-Simpson):	0.09957
+score(Neurotropic virus):	0.09957
+score(Liver):	0.09957
+score(Sexually transmitted infection):	0.09957
+score(Lipid bilayer fusion):	0.09957
+score(Species):	0.09957
+score(History of Rome):	0.09957
+score(Māori people):	0.09957
+score(Rapid influenza diagnostic test):	0.09957
+score(Cytoplasm):	0.04979
+score(Cell nucleus):	0.04979
+score(Capsid):	0.04979
+score(Horse):	0.04979
+score(Hawaiian language):	0.04979
+score(List of infectious diseases):	0.04979
+score(Microtubule):	0.04979
+score(Metabolic pathway):	0.04979
+score(Nucleotide):	0.04979
+score(Research):	0.04979
+score(Smog):	0.04979
+score(Stevens–Johnson syndrome):	0.04979
+score(University of Michigan):	0.04979
+score(United States Congress):	0.04979
+score(United States Army):	0.04979
+score(Universal precautions):	0.04979
+score(Yasser Arafat):	0.04979
+score(Death rates in the 20th century):	0.04979
+score(Infectious disease in the 20th century):	0.04979
+score(Chicken soup):	0.04979
+score(Mood disorder):	0.04979
+score(Abenaki):	0.04979
+score(Aerosol):	0.04979
+score(Adrenocorticotropic hormone):	0.04979
+score(California Gold Rush):	0.04979
+score(Pinniped):	0.04979
+score(Mucous membrane):	0.04979
+score(Developed country):	0.04979
+score(Prevalence):	0.04979
+score(Tears):	0.04979
+score(National Center for Biotechnology Information):	0.04979
+score(Intensive pig farming):	0.04979
+score(Indian independence movement):	0.04979
+score(Macrophage):	0.04979
+score(Coccidioidomycosis):	0.04979
+score(Edmund Allenby, 1st Viscount Allenby):	0.04979
+score(Transmission electron microscopy):	0.04979
+score(Acting President of the United States):	0.04979
+score(Southern Hemisphere):	0.04979
+score(Translation (biology)):	0.04979
+score(The Stand):	0.04979
+score(Conquistador):	0.04979
+score(Encephalitis lethargica):	0.04979
+score(Pilot whale):	0.04979
+score(Interferon beta-1a):	0.04979
+score(Lifestyle disease):	0.04979
+score(Folding@home):	0.04979
+score(Lectin):	0.04979
+score(Baylor College of Medicine):	0.04979
+score(Bronchiolitis):	0.04979
+score(Death by natural causes):	0.04979
+score(Photophobia):	0.04979
+score(Borna disease):	0.04979
+score(Columbian Exchange):	0.04979
+score(Neolithic Revolution):	0.04979
+score(Native Hawaiians):	0.04979
+score(Cancer vaccine):	0.04979
+score(Risk factor):	0.04979
+score(Walter and Eliza Hall Institute of Medical Research):	0.04979
+score(Medical classification):	0.04979
+score(Night sweats):	0.04979
+score(Coats Island):	0.04979
+score(Recombinant DNA):	0.04979
+score(Viral shift):	0.04979
+score(Emergency management):	0.04979
+score(Pepto-Bismol):	0.04979
+score(Kennel cough):	0.04979
+score(Sadlermiut):	0.04979
+score(1925 serum run to Nome):	0.04979
+score(Spitting):	0.04979
+score(Sociology of health and illness):	0.04979
+score(Fluzone):	0.04979
+score(List of vaccine topics):	0.04979
+score(Triethylene glycol):	0.04979
+score(Crimean–Congo hemorrhagic fever):	0.04979
+score(Wistar Institute):	0.04979
+score(Quinic acid):	0.04979
+score(Interferon beta-1b):	0.04979
+score(Viral matrix protein):	0.04979
+score(Freshers' Flu):	0.04979
+score(Robert Webster (virologist)):	0.04979
+score(Community-acquired pneumonia):	0.04979
+score(Flu pandemic):	0.04979
+score(Bronchoalveolar lavage):	0.04979
+score(Dog flu):	0.04979
+score(Michael Osterholm):	0.04979
+score(Real-time polymerase chain reaction):	0.04979
+score(Meningococcal disease):	0.04979
+score(Symptomatic treatment):	0.04979
+score(Photic sneeze reflex):	0.04979
+score(International Committee on Taxonomy of Viruses):	0.04979
+score(Sanofi Pasteur):	0.04979
+score(Influenza treatment):	0.04979
+score(Eucalyptus oil):	0.04979
+score(Coronary disease):	0.04979
+score(NS1 influenza protein):	0.04979
+score(Selective sweep):	0.04979
+score(Richard Friedrich Johannes Pfeiffer):	0.04979
+score(Negative-sense):	0.04979
+score(Camp Funston):	0.04979
+score(Levamisole):	0.04979
+score(Hospital-acquired pneumonia):	0.04979
+score(Gordon Ada):	0.04979
+score(N-Acetylneuraminic acid):	0.04979
+score(Patrick Laidlaw):	0.04979
+score(2007 Bernard Matthews H5N1 outbreak):	0.04979
+score(Hepatitis A vaccine):	0.04979
+score(Avian flu):	0.04979
+score(Interferon alfa-2b):	0.04979
+score(Viral disease):	0.04979
+score(Economic epidemiology):	0.04979
+score(Chamberland filter):	0.04979
+score(Seaweed):	0.04979
+score(United States dollar):	0.04979
+score(Law):	0.04979
+score(Medical conditions):	0.04979
+score(History of Brazil):	0.04979
+score(Richard Shope):	0.04979
+score(Hemagglutinin-neuraminidase):	0.04979
+score(2009 flu pandemic in Mexico):	0.04979
+score(Protein Sciences):	0.04979
+score(Swine flu):	0.04979
+score(Influenzavirus A):	0.04979
+score(Biosafety cabinet):	0.04979
+score(Lewis Carroll):	0.04979
+score(Antiviral protein):	0.04979
+score(Influenza virus nucleoprotein):	0.04979
+score(Viktor Zhdanov):	0.04979
+score(Nuku Hiva):	0.04979
+score(NS1 Influenza Protein):	0.04979

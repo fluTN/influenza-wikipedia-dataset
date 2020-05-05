@@ -1,0 +1,137 @@
+score(Grippe):	19.40218
+score(Influenzavirus A sous-type H5N1):	1.77831
+score(Maladie infectieuse):	1.72852
+score(Grippe aviaire):	1.47959
+score(Virus):	1.39404
+score(Risque pandémique lié à la grippe aviaire):	1.33022
+score(Épidémie):	1.18086
+score(Grippe de 1918):	0.93193
+score(Institut Pasteur):	0.83235
+score(Oseltamivir):	0.83235
+score(Hygiène):	0.78257
+score(Vaccination):	0.78257
+score(Virus à ARN):	0.73278
+score(Plan de crise pour une pandémie):	0.73278
+score(Myxovirus influenzae):	0.73278
+score(Génome):	0.68299
+score(Prévention):	0.68299
+score(Grippe équine):	0.68299
+score(Neuraminidase):	0.63321
+score(Histoire des épizooties de grippe aviaire):	0.63321
+score(Syndrome d'immunodéficience acquise):	0.59744
+score(Dengue):	0.58342
+score(Hémagglutinine):	0.48384
+score(17 janvier):	0.44808
+score(Influenza):	0.44808
+score(Orthomyxoviridae):	0.43406
+score(Syndrome grippal):	0.43406
+score(Asthénie):	0.38427
+score(Acide sialique):	0.38427
+score(Éternuement):	0.38427
+score(Rhume):	0.38427
+score(Poliomyélite):	0.34851
+score(Oscillococcinum):	0.33448
+score(Amantadine):	0.33448
+score(Pandémie de la grippe de 1918):	0.29872
+score(Antiviral):	0.29872
+score(Réseau Sentinelles):	0.2847
+score(Antibiotique):	0.24894
+score(Bactérie):	0.24894
+score(Congo belge):	0.24894
+score(Infection nosocomiale):	0.24894
+score(Grippe saisonnière):	0.23491
+score(Acide acétylsalicylique):	0.19915
+score(Gastro-entérite):	0.19915
+score(Mucus):	0.19915
+score(Comportements-barrière):	0.19915
+score(1743):	0.18512
+score(Groupe régional d'observation de la grippe):	0.18512
+score(Sang):	0.14936
+score(Maladie virale):	0.14936
+score(Organisation mondiale de la santé):	0.14936
+score(Typhus):	0.14936
+score(Pandémie):	0.14936
+score(Hémorragie):	0.14936
+score(Streptocoque):	0.14936
+score(Haemophilus influenzae):	0.14936
+score(Fomite):	0.14936
+score(Virus de la mosaïque du tabac):	0.14936
+score(Hippocrate):	0.13534
+score(Europe):	0.09957
+score(1944):	0.09957
+score(1931):	0.09957
+score(1933):	0.09957
+score(1957):	0.09957
+score(Oiseau):	0.09957
+score(Fièvre typhoïde):	0.09957
+score(Fièvre):	0.09957
+score(Anticorps):	0.09957
+score(Recombinaison génétique):	0.09957
+score(Choléra):	0.09957
+score(Diphtérie):	0.09957
+score(Cytokine):	0.09957
+score(Inhibiteur de la neuraminidase):	0.09957
+score(Maladie de Newcastle):	0.09957
+score(Surinfection):	0.09957
+score(Lavage broncho-alvéolaire):	0.09957
+score(Influenzavirus A):	0.09957
+score(Tests médicaux rapides):	0.09957
+score(Borréliose):	0.09957
+score(Belgique):	0.04979
+score(France):	0.04979
+score(Homo sapiens):	0.04979
+score(1968):	0.04979
+score(1981):	0.04979
+score(1997):	0.04979
+score(1919):	0.04979
+score(Acide ribonucléique):	0.04979
+score(Protéine):	0.04979
+score(Cellule (biologie)):	0.04979
+score(New Jersey):	0.04979
+score(1733):	0.04979
+score(1347):	0.04979
+score(Liste de maladies):	0.04979
+score(Saturnisme):	0.04979
+score(Aide médicale urgente):	0.04979
+score(Peste bubonique):	0.04979
+score(Vaccin):	0.04979
+score(Gastroentérite):	0.04979
+score(Volaille):	0.04979
+score(Légionellose):	0.04979
+score(Froid):	0.04979
+score(Détergent):	0.04979
+score(Vomissement):	0.04979
+score(Chronologie des vaccins):	0.04979
+score(Matière fécale):	0.04979
+score(Santé publique):	0.04979
+score(Céphalée):	0.04979
+score(Virus de la grippe):	0.04979
+score(Classification des virus):	0.04979
+score(Maladie nosocomiale):	0.04979
+score(Jonas Salk):	0.04979
+score(Désinfectant):	0.04979
+score(Hygiène des mains):	0.04979
+score(Arenaviridae):	0.04979
+score(Nausée):	0.04979
+score(Zanamivir):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Octobre 2005):	0.04979
+score(Virion):	0.04979
+score(Grippe féline):	0.04979
+score(Rimantadine):	0.04979
+score(Pharyngite):	0.04979
+score(Grippe canine):	0.04979
+score(H7N1):	0.04979
+score(Écoépidémiologique rétrospective de la grippe aviaire):	0.04979
+score(Prévalence de la grippe aviaire chez les animaux):	0.04979
+score(Diagnostics et prophylaxie de la grippe aviaire):	0.04979
+score(Glissement génétique):	0.04979
+score(Glissement antigénique):	0.04979
+score(Éléments d'épidémiologie concernant la grippe):	0.04979
+score(Otorragie):	0.04979
+score(Migration des oiseaux):	0.04979
+score(Influenzavirus B):	0.04979
+score(Frank Macfarlane Burnet):	0.04979
+score(Norbert Gualde):	0.04979
+score(Shoah):	0.04979
+score(Douleur):	0.04979

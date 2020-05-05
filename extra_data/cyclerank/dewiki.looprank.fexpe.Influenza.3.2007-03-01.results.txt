@@ -1,0 +1,92 @@
+score(Influenza):	15.11674
+score(Viren):	2.07703
+score(Infektionskrankheit):	1.38001
+score(Pandemie):	1.23065
+score(Erkältung):	0.98172
+score(Spanische Grippe):	0.93193
+score(Influenzavirus):	0.93193
+score(Lungenentzündung):	0.83235
+score(Epidemie):	0.78257
+score(Oseltamivir):	0.73278
+score(Tröpfcheninfektion):	0.68299
+score(Neuraminidase):	0.68299
+score(Impfung):	0.64723
+score(Influenzapandemie):	0.63321
+score(Inkubationszeit):	0.58342
+score(Neuraminidase-Hemmer):	0.58342
+score(Asiatische Grippe):	0.58342
+score(Infektion):	0.54766
+score(Virusinfektion):	0.49787
+score(Grippeimpfung):	0.48384
+score(Enzephalitis):	0.48384
+score(Weltgesundheitsorganisation):	0.3983
+score(Masern):	0.3983
+score(Zanamivir):	0.38427
+score(Immunsystem):	0.34851
+score(HIV):	0.34851
+score(Myokarditis):	0.33448
+score(Cholera):	0.29872
+score(AIDS):	0.29872
+score(Schüttelfrost):	0.2847
+score(Amantadin):	0.2847
+score(Gliederschmerz):	0.2847
+score(Fieber):	0.24894
+score(Geflügelpest):	0.24894
+score(Rhinitis):	0.24894
+score(Russische Grippe):	0.24894
+score(Meningitis):	0.24894
+score(Reye-Syndrom):	0.23491
+score(Hygiene):	0.19915
+score(Husten):	0.19915
+score(Virostatikum):	0.19915
+score(European Influenza Surveillance Scheme):	0.18512
+score(1968):	0.14936
+score(Desinfektion):	0.14936
+score(Antibiotikum):	0.14936
+score(Impfstoff):	0.14936
+score(Virologie):	0.14936
+score(Tollwut):	0.14936
+score(Pneumokokken):	0.14936
+score(1918):	0.14936
+score(Superinfektion):	0.14936
+score(Antigenerbsünde):	0.14936
+score(Robert Koch-Institut):	0.09957
+score(Zervixkarzinom):	0.09957
+score(Zytokin):	0.09957
+score(Nosokomiale Infektion):	0.09957
+score(Gelbfieber):	0.09957
+score(Immunisierung):	0.09957
+score(Kapsid):	0.09957
+score(Zellkultur):	0.09957
+score(Hoffmann-La Roche):	0.09957
+score(Antigendrift):	0.09957
+score(Europäische Schlafkrankheit):	0.09957
+score(Allergie):	0.04979
+score(Antigen):	0.04979
+score(Bakterien):	0.04979
+score(West-Nil-Virus):	0.04979
+score(Symptom):	0.04979
+score(Elektronenmikroskop):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Erkrankungen des Atmungssystems):	0.04979
+score(Haemophilus):	0.04979
+score(Pfeiffer-Drüsenfieber):	0.04979
+score(Infektionsepidemiologisches Jahrbuch):	0.04979
+score(Sekundärinfektion):	0.04979
+score(Adamantan):	0.04979
+score(Jakow Michailowitsch Swerdlow):	0.04979
+score(1919):	0.04979
+score(Gastroenteritis):	0.04979
+score(Leitsymptom):	0.04979
+score(Hausmittel):	0.04979
+score(Schmierinfektion):	0.04979
+score(Charles Tomlinson Griffes):	0.04979
+score(Nationaler Pandemieplan):	0.04979
+score(Hit and Run (Medizin)):	0.04979
+score(Coxsackie-Virus):	0.04979
+score(Trinkwasser):	0.04979
+score(Lymphozytäre Choriomeningitis):	0.04979
+score(Stomatitis vesicularis):	0.04979
+score(Listeria monocytogenes):	0.04979
+score(Zytomegalie):	0.04979
+score(Acetylsalicylsäure):	0.04979

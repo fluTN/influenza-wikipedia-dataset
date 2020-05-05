@@ -1,0 +1,59 @@
+score(Influenza):	1.30521
+score(XX secolo):	0.78757
+score(Pandemia):	0.49932
+score(Vienna):	0.45789
+score(Bertrand Russell):	0.14653
+score(Alberto Tomba):	0.09158
+score(Anni 1980):	0.07326
+score(Evoluzione):	0.07326
+score(Influenza asiatica):	0.0681
+score(Influenza di Hong Kong):	0.0681
+score(Farmaco):	0.05495
+score(Zoonosi):	0.04979
+score(Influenza spagnola):	0.04979
+score(Kurt Gödel):	0.03663
+score(1970):	0.03663
+score(1969):	0.03663
+score(1966):	0.03663
+score(Ludwig Wittgenstein):	0.03663
+score(Franz Kafka):	0.03663
+score(Allen Welsh Dulles):	0.03663
+score(César Franck):	0.03663
+score(Psicoanalisi):	0.03663
+score(Zinco):	0.03663
+score(Prima guerra mondiale):	0.01832
+score(1979):	0.01832
+score(1941):	0.01832
+score(1945):	0.01832
+score(1924):	0.01832
+score(2003):	0.01832
+score(XVIII secolo):	0.01832
+score(II millennio):	0.01832
+score(Conseguenze della prima guerra mondiale):	0.01832
+score(Le Corbusier):	0.01832
+score(Edmund Husserl):	0.01832
+score(Jean-Paul Sartre):	0.01832
+score(Carl Gustav Jung):	0.01832
+score(Franklin Delano Roosevelt):	0.01832
+score(Alban Berg):	0.01832
+score(Prima crociata):	0.01832
+score(Fritz Lang):	0.01832
+score(Billy Wilder):	0.01832
+score(Claude Debussy):	0.01832
+score(Erich von Stroheim):	0.01832
+score(Arnold Schönberg):	0.01832
+score(Olivier Messiaen):	0.01832
+score(György Ligeti):	0.01832
+score(Gustav Mahler):	0.01832
+score(Guerra Iran-Iraq):	0.01832
+score(Gertrude Stein):	0.01832
+score(Anton Webern):	0.01832
+score(Perù):	0.01832
+score(Stati Uniti d'America):	0.01832
+score(Bologna):	0.01832
+score(Che Guevara):	0.01832
+score(Sigmund Freud):	0.01832
+score(Nazionalsocialismo):	0.01832
+score(Crociata):	0.01832
+score(Albert Einstein):	0.01832
+score(Adolf Hitler):	0.01832

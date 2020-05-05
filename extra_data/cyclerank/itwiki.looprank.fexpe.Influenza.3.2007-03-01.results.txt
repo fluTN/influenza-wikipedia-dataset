@@ -1,0 +1,6 @@
+score(Pandemia):	0.33448
+score(Influenza):	0.33448
+score(Zoonosi):	0.04979
+score(Influenza asiatica):	0.04979
+score(Influenza di Hong Kong):	0.04979
+score(Influenza spagnola):	0.04979

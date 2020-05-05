@@ -1,0 +1,138 @@
+score(Influenza):	17.99904
+score(Virus (biologia)):	1.44382
+score(Raffreddore comune):	1.33022
+score(Pandemia):	1.13108
+score(Orthomyxoviridae):	0.98172
+score(Epidemia):	0.94595
+score(Cefalea):	0.83235
+score(Polmonite):	0.74681
+score(Zoonosi):	0.68299
+score(Bronchite):	0.68299
+score(Pandemia influenzale):	0.68299
+score(Influenzavirus A):	0.64723
+score(Virus a RNA):	0.63321
+score(Virus parainfluenzali umani):	0.63321
+score(AIDS):	0.59744
+score(Espettorato):	0.58342
+score(Morbillo):	0.54766
+score(Vaccinazione):	0.54766
+score(Influenza di Hong Kong):	0.53363
+score(Influenza spagnola):	0.53363
+score(Mialgia):	0.53363
+score(Influenza suina):	0.53363
+score(Nausea):	0.53363
+score(Vaccino antinfluenzale):	0.53363
+score(Dengue):	0.49787
+score(Influenza asiatica):	0.48384
+score(Zanamivir):	0.48384
+score(Difterite):	0.44808
+score(Zinco):	0.44808
+score(Sindrome di Reye):	0.43406
+score(Faringite):	0.43406
+score(Influenzavirus A sottotipo H1N1):	0.3983
+score(Apparato respiratorio):	0.3983
+score(Emoagglutinina):	0.38427
+score(Enzima):	0.34851
+score(Sistema immunitario):	0.34851
+score(Asma):	0.34851
+score(XIX secolo):	0.29872
+score(Vaiolo):	0.29872
+score(Gastroenterite):	0.29872
+score(Febbre):	0.24894
+score(Tosse):	0.24894
+score(Antivirale):	0.24894
+score(Rinite):	0.24894
+score(Tonsillite):	0.23491
+score(Influenzavirus C):	0.23491
+score(XVIII secolo):	0.19915
+score(Yasser Arafat):	0.19915
+score(Acido acetilsalicilico):	0.19915
+score(George Washington):	0.19915
+score(Periodo di incubazione):	0.19915
+score(Peste nera):	0.19915
+score(Evoluzione):	0.19915
+score(Meningite):	0.19915
+score(SARS):	0.19915
+score(Pandemia influenzale del 2009):	0.19915
+score(Peste):	0.14936
+score(Organizzazione mondiale della sanità):	0.14936
+score(Poliomielite):	0.14936
+score(Influenza aviaria):	0.14936
+score(Oseltamivir):	0.14936
+score(Vitamina D):	0.14936
+score(Bronchite acuta):	0.14936
+score(Croup):	0.14936
+score(Inghilterra):	0.14936
+score(Epatite A):	0.14936
+score(Cheratite):	0.14936
+score(Virus respiratorio sinciziale umano):	0.14936
+score(Prima guerra mondiale):	0.09957
+score(1918):	0.09957
+score(Oceano Pacifico):	0.09957
+score(2005):	0.09957
+score(Bacteria):	0.09957
+score(Sclerosi multipla):	0.09957
+score(Leptospirosi):	0.09957
+score(Antrace):	0.09957
+score(Malattia infettiva):	0.09957
+score(Salasso):	0.09957
+score(Vomito):	0.09957
+score(Febbre tifoide):	0.09957
+score(Pertosse):	0.09957
+score(Acido sialico):	0.09957
+score(Omeopatia):	0.09957
+score(Neoplasia):	0.09957
+score(Italia):	0.09957
+score(Königsberg):	0.09957
+score(Dottrina miasmatico-umorale):	0.09957
+score(Anni 2000):	0.04979
+score(Vietnam):	0.04979
+score(1997):	0.04979
+score(1969):	0.04979
+score(2004):	0.04979
+score(Statunitensi):	0.04979
+score(New Jersey):	0.04979
+score(Epidemiologia):	0.04979
+score(Auguste Rodin):	0.04979
+score(Paracetamolo):	0.04979
+score(Tifo esantematico):	0.04979
+score(Toxoplasma gondii):	0.04979
+score(Malattia di Lyme):	0.04979
+score(Damiano de Veuster):	0.04979
+score(Febbre Q):	0.04979
+score(Rabbia):	0.04979
+score(Malattia):	0.04979
+score(Insufficienza cardiaca):	0.04979
+score(Sequenziamento del DNA):	0.04979
+score(Réseau Sentinelles):	0.04979
+score(Amantadina):	0.04979
+score(Antivirali):	0.04979
+score(Contagiosità):	0.04979
+score(Seni paranasali):	0.04979
+score(Isola di Pasqua):	0.04979
+score(Rinorrea):	0.04979
+score(Fotofobia):	0.04979
+score(Starnuto):	0.04979
+score(Endo-alfa-sialidasi):	0.04979
+score(Fattore di rischio):	0.04979
+score(Cina):	0.04979
+score(L'ombra dello scorpione (miniserie televisiva)):	0.04979
+score(Subsalicilato di bismuto):	0.04979
+score(Epatopatia):	0.04979
+score(Edmund Allenby):	0.04979
+score(Quadro clinico):	0.04979
+score(Febbre suina):	0.04979
+score(Selezione naturale):	0.04979
+score(Classificazione ICD):	0.04979
+score(Tosse post-virale):	0.04979
+score(Ipoclorito di sodio):	0.04979
+score(Genoma):	0.04979
+score(Tahiti):	0.04979
+score(Rinofaringite):	0.04979
+score(Mineral Miracle Solution):	0.04979
+score(Vaccino influenza stagionale):	0.04979
+score(Contagion (film 2011)):	0.04979
+score(Vaccino influenzale):	0.04979
+score(Sindrome influenzale):	0.04979
+score(Sputo):	0.04979
+score(Charles Griffes):	0.04979

@@ -1,0 +1,6 @@
+score(Influensa):	0.42003
+score(Virus):	0.2847
+score(Epidemi):	0.13534
+score(Inkubationstid):	0.04979
+score(Infektion):	0.04979
+score(Smittkoppor):	0.04979

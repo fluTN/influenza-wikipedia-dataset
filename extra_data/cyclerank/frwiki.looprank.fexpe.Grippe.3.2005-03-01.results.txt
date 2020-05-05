@@ -1,0 +1,9 @@
+score(Grippe):	0.88985
+score(Virus):	0.2847
+score(Maladie infectieuse):	0.2847
+score(Épidémie):	0.23491
+score(Grippe aviaire):	0.18512
+score(Vaccination):	0.09957
+score(Poliomyélite):	0.04979
+score(Pandémie):	0.04979
+score(Chronologie des vaccins):	0.04979

@@ -1,0 +1,100 @@
+score(Grypa):	15.01953
+score(Wirusy):	1.18086
+score(1918):	1.08129
+score(1957):	1.08129
+score(1900):	0.93193
+score(Świńska grypa):	0.88214
+score(1919):	0.83235
+score(Pandemia):	0.83235
+score(1889):	0.78257
+score(Ptasia grypa):	0.78257
+score(1968):	0.73278
+score(Szczepionka):	0.68299
+score(Epidemia):	0.58342
+score(Przewlekła obturacyjna choroba płuc):	0.58342
+score(Zapalenie płuc):	0.53363
+score(Choroba):	0.49787
+score(XX wiek):	0.49787
+score(Jan Paweł II):	0.49787
+score(Choroby zakaźne):	0.44808
+score(Światowa Organizacja Zdrowia):	0.44808
+score(2009):	0.44808
+score(Zapalenie):	0.44808
+score(Ortomyksowirusy):	0.43406
+score(1922):	0.3983
+score(11 czerwca):	0.3983
+score(Grypa azjatycka):	0.38427
+score(H1N1):	0.38427
+score(H2N2):	0.38427
+score(Amantadyna):	0.33448
+score(Skok antygenowy):	0.33448
+score(Rymantadyna):	0.33448
+score(1927):	0.29872
+score(Haemophilus influenzae):	0.29872
+score(Droga szerzenia się zakażenia):	0.2847
+score(Oseltamiwir):	0.2847
+score(Przesunięcie antygenowe):	0.2847
+score(Zapalenie osierdzia):	0.2847
+score(Zapalenie spojówek):	0.2847
+score(1958):	0.24894
+score(1977):	0.24894
+score(1978):	0.24894
+score(Zapalenie opon mózgowo-rdzeniowych):	0.24894
+score(1891):	0.19915
+score(Ból głowy):	0.19915
+score(Borelioza):	0.19915
+score(Zapalenie mięśnia sercowego):	0.19915
+score(Wirus grypy):	0.19915
+score(Szczepionka przeciw grypie):	0.19915
+score(Hawaje):	0.14936
+score(Lata 50. XX wieku):	0.14936
+score(Stany Zjednoczone):	0.14936
+score(1970):	0.14936
+score(1833):	0.14936
+score(Neuraminidaza):	0.14936
+score(Zapalenie mózgu):	0.14936
+score(Enzymy):	0.14936
+score(Bolesław Bierut):	0.09957
+score(I wojna światowa):	0.09957
+score(Kwasy rybonukleinowe):	0.09957
+score(Lata 60. XX wieku):	0.09957
+score(Lata 80. XX wieku):	0.09957
+score(Śmierć):	0.09957
+score(Genom):	0.09957
+score(Gorączka):	0.09957
+score(Cukrzyca):	0.09957
+score(Zapalenie zatok przynosowych):	0.09957
+score(Adamantan):	0.09957
+score(Przeziębienie):	0.09957
+score(Światłowstręt):	0.09957
+score(Kaszel):	0.09957
+score(Hemaglutynina):	0.09957
+score(Lata 90. XX wieku):	0.04979
+score(Paracetamol):	0.04979
+score(Ptaki):	0.04979
+score(SARS):	0.04979
+score(Gen):	0.04979
+score(WHO):	0.04979
+score(Hipokrates):	0.04979
+score(Życie):	0.04979
+score(Malaria):	0.04979
+score(Bez czarny):	0.04979
+score(Odporność immunologiczna):	0.04979
+score(Broń biologiczna):	0.04979
+score(Leczenie):	0.04979
+score(Zespół Downa):	0.04979
+score(Materiał genetyczny):	0.04979
+score(Kleszczowe zapalenie mózgu):	0.04979
+score(Szczepionki DNA):	0.04979
+score(Powikłanie):	0.04979
+score(John Bodkin Adams):	0.04979
+score(Drgawki gorączkowe):	0.04979
+score(Gronkowiec złocisty):	0.04979
+score(Zarostowe zapalenie oskrzelików):	0.04979
+score(Przyzakaźne zapalenie mózgu):	0.04979
+score(Szczepionka przeciw grypie pandemicznej):	0.04979
+score(Immunomodulacja):	0.04979
+score(Ostre zapalenie krtani):	0.04979
+score(Listeria monocytogenes):	0.04979
+score(Zapalenie zatok obocznych nosa):	0.04979
+score(Astma oskrzelowa):	0.04979

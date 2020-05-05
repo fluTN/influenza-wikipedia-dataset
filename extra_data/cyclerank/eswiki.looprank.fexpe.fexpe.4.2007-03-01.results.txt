@@ -1,0 +1,123 @@
+score(Gripe):	6.68183
+score(Gripe aviaria):	1.45741
+score(Virus):	1.37935
+score(Pandemia):	1.36816
+score(Antibiótico):	0.83417
+score(Tos):	0.80872
+score(Epidemia):	0.78721
+score(Neumonía):	0.73546
+score(Virus ARN):	0.65101
+score(Enfermedad infecciosa):	0.57062
+score(Gripe de Hong Kong):	0.47585
+score(Orthomyxoviridae):	0.46785
+score(Hemaglutinina):	0.37627
+score(Epidemiología):	0.35599
+score(Enfermedad):	0.30621
+score(Influenza):	0.28273
+score(Vacuna):	0.27473
+score(Resfriado común):	0.26957
+score(Antígeno):	0.19631
+score(Oseltamivir):	0.19631
+score(Gripe asiática):	0.178
+score(Paracetamol):	0.14137
+score(Cefalea):	0.14137
+score(Japón):	0.12821
+score(Tos ferina):	0.12821
+score(Síndrome respiratorio agudo severo):	0.10989
+score(Tuberculosis):	0.10989
+score(Fibrosis quística):	0.10989
+score(Bronconeumonía):	0.10473
+score(Infección):	0.10473
+score(Estornudo):	0.09158
+score(Fiebre):	0.09158
+score(Nueva Caledonia):	0.09158
+score(Medicina):	0.07326
+score(Cáncer):	0.07326
+score(Peste negra):	0.07326
+score(Astenia):	0.07326
+score(Imperialismo):	0.07326
+score(Tifus):	0.07326
+score(Inmunidad):	0.07326
+score(1991):	0.05495
+score(Sarampión):	0.05495
+score(Sistema inmunitario):	0.05495
+score(Célula):	0.05495
+score(Esclerosis múltiple):	0.05495
+score(Hepatitis):	0.05495
+score(Bronquiectasia):	0.05495
+score(Rimantadina):	0.05495
+score(Instituto Pasteur):	0.05495
+score(Europa):	0.03663
+score(Francia):	0.03663
+score(Fármaco):	0.03663
+score(Síndrome de Goodpasture):	0.03663
+score(1952):	0.03663
+score(Cáncer de pulmón):	0.03663
+score(Anticuerpo monoclonal):	0.03663
+score(Chlamydia):	0.03663
+score(Demografía):	0.03663
+score(Microorganismo):	0.03663
+score(Cólera):	0.03663
+score(Dengue):	0.03663
+score(Viruela):	0.03663
+score(Patología):	0.03663
+score(Acupuntura):	0.03663
+score(Jonas Salk):	0.03663
+score(Absceso pulmonar):	0.03663
+score(Hepatitis B):	0.03663
+score(Fiebre amarilla):	0.03663
+score(Amantadina):	0.03663
+score(Serotipo):	0.03663
+score(Lupus eritematoso):	0.03663
+score(Enfermedad aguda):	0.03663
+score(Virus sincitial respiratorio):	0.03663
+score(Bronquiolitis):	0.03663
+score(Salud pública):	0.03663
+score(Hemoptisis):	0.03663
+score(Australia):	0.03663
+score(Océano Pacífico):	0.03663
+score(Tabaquismo):	0.03663
+score(Enfermedad de Alzheimer):	0.01832
+score(Perú):	0.01832
+score(Suecia):	0.01832
+score(Unión Europea):	0.01832
+score(1995):	0.01832
+score(Genoma):	0.01832
+score(Ser vivo):	0.01832
+score(Apoptosis):	0.01832
+score(Difteria):	0.01832
+score(Penicilina):	0.01832
+score(Anticuerpo):	0.01832
+score(1941):	0.01832
+score(Rabia):	0.01832
+score(1918):	0.01832
+score(Bertolt Brecht):	0.01832
+score(1542):	0.01832
+score(Vida):	0.01832
+score(Endemia):	0.01832
+score(Virus ADN):	0.01832
+score(Malaria):	0.01832
+score(Lesión):	0.01832
+score(Sarcoidosis):	0.01832
+score(Zoonosis):	0.01832
+score(Virus (biología)):	0.01832
+score(Hepatitis A):	0.01832
+score(Imperio español):	0.01832
+score(Hepatitis C):	0.01832
+score(Enfermedad de Lyme):	0.01832
+score(Agua potable):	0.01832
+score(Desastre natural):	0.01832
+score(Citomegalovirus):	0.01832
+score(Conquistadores):	0.01832
+score(Mycoplasma):	0.01832
+score(Transición demográfica):	0.01832
+score(Cefalea tensional):	0.01832
+score(Peste antonina):	0.01832
+score(Catarro):	0.01832
+score(Leucemia mieloide aguda):	0.01832
+score(Haemophilus):	0.01832
+score(Mutación):	0.01832
+score(Ornitosis):	0.01832
+score(Virus del Nilo Occidental):	0.01832
+score(Rhabdoviridae):	0.01832
+score(Biología):	0.01832

@@ -1,0 +1,213 @@
+score(Griep):	31.07782
+score(H5N1):	7.73038
+score(Hongkonggriep):	6.3224
+score(Spaanse griep):	5.3122
+score(Hemagglutinine):	5.2441
+score(Antigene shift):	5.03747
+score(H2N2):	4.8961
+score(Virus (biologie)):	4.828
+score(H1N1):	4.44853
+score(Antigene drift):	4.19211
+score(Neuraminidase):	3.88591
+score(Aziatische griep):	2.58782
+score(Eiwitmantel):	2.37639
+score(Vogelpest):	1.73766
+score(Epidemie):	1.5625
+score(Infectie):	1.54419
+score(Pandemie):	1.33472
+score(Aids):	1.22482
+score(Oseltamivir):	1.06711
+score(Aviaire influenza):	1.05998
+score(Immuundeficiëntie):	0.82188
+score(Pathogeen):	0.79041
+score(SARS):	0.72231
+score(Symptoom):	0.69367
+score(Eerste Wereldoorlog):	0.47105
+score(Opportunistische infectie):	0.46589
+score(Virulentie):	0.46589
+score(Ebola):	0.43442
+score(H3N2):	0.39778
+score(Infectieziekte):	0.37947
+score(Vogelgriep):	0.37947
+score(Marburgvirus):	0.36115
+score(Mutatie (biologie)):	0.34284
+score(1997):	0.32968
+score(Koorts):	0.32452
+score(Virologie):	0.32452
+score(Diabetes mellitus):	0.30621
+score(Endemie (geneeskunde)):	0.30621
+score(Wereldgezondheidsorganisatie):	0.28789
+score(Buikgriep):	0.28273
+score(Verenigde Staten):	0.27473
+score(Spierpijn):	0.2461
+score(Hoest):	0.2381
+score(Bloedtransfusie):	0.23294
+score(Hongkong):	0.23294
+score(2005):	0.20147
+score(Dominica):	0.20147
+score(1999):	0.18316
+score(Verkoudheid):	0.178
+score(Volksrepubliek China):	0.16484
+score(Mens):	0.16484
+score(Hiv):	0.14653
+score(Malaria):	0.14653
+score(Pest (ziekte)):	0.14653
+score(Auckland):	0.12821
+score(Hoofdpijn):	0.12821
+score(Ziekte):	0.10989
+score(Longontsteking):	0.10989
+score(Gezondheid van A tot Z):	0.10989
+score(Koude rilling):	0.10473
+score(Darminfectie):	0.10473
+score(Immuunsysteem):	0.09158
+score(Zoönose):	0.09158
+score(Landbouw):	0.07326
+score(Verenigde Naties):	0.07326
+score(Geneesmiddel):	0.07326
+score(Mond-en-klauwzeer):	0.07326
+score(Februari 2005):	0.07326
+score(Griepprik):	0.07326
+score(Ettore Sottsass):	0.07326
+score(Koude rillingen):	0.0681
+score(Biologie):	0.05495
+score(Kanker):	0.05495
+score(Bevalling):	0.05495
+score(Nieuw-Spanje):	0.05495
+score(Amantadine):	0.05495
+score(Verklikkerkip):	0.05495
+score(Duizeligheid):	0.05495
+score(Februari 2007):	0.05495
+score(20e eeuw):	0.03663
+score(1917):	0.03663
+score(1995):	0.03663
+score(2004):	0.03663
+score(2007):	0.03663
+score(12 maart):	0.03663
+score(31 oktober):	0.03663
+score(14 november):	0.03663
+score(Bof):	0.03663
+score(Diarree):	0.03663
+score(Ab Osterhaus):	0.03663
+score(Gen):	0.03663
+score(Baby):	0.03663
+score(Herpesvirussen):	0.03663
+score(Albert I van België):	0.03663
+score(Mortaliteit):	0.03663
+score(Ontsteking (geneeskunde)):	0.03663
+score(Witte bloedcel):	0.03663
+score(Lymfeklier):	0.03663
+score(Werelderfgoedlijst):	0.03663
+score(Evolutietheorie):	0.03663
+score(Aandoening):	0.03663
+score(Brisbane):	0.03663
+score(Slijmvlies):	0.03663
+score(Cerebrovasculair accident):	0.03663
+score(Filovirussen):	0.03663
+score(Zonnesteek):	0.03663
+score(Neel Doff):	0.03663
+score(ICD-10):	0.03663
+score(Paramyxovirus):	0.03663
+score(Reassortment):	0.03663
+score(NK-cel):	0.03663
+score(Complicatie (medisch)):	0.03663
+score(Immuunsuppressivum):	0.03663
+score(Aardappel):	0.01832
+score(Eiland):	0.01832
+score(Noord-Amerika):	0.01832
+score(Nieuw-Zeeland):	0.01832
+score(2001):	0.01832
+score(1918):	0.01832
+score(1942):	0.01832
+score(1861):	0.01832
+score(27 januari):	0.01832
+score(4 februari):	0.01832
+score(15 maart):	0.01832
+score(22 mei):	0.01832
+score(18 juni):	0.01832
+score(28 juni):	0.01832
+score(14 december):	0.01832
+score(5 oktober):	0.01832
+score(14 september):	0.01832
+score(20 augustus):	0.01832
+score(31 december):	0.01832
+score(Engels):	0.01832
+score(Salomonseilanden):	0.01832
+score(Waterpokken):	0.01832
+score(Bloed):	0.01832
+score(Bacteriën):	0.01832
+score(Carlo Urbani):	0.01832
+score(Leukemie):	0.01832
+score(Texas (staat)):	0.01832
+score(Pest):	0.01832
+score(Lindsay Davenport):	0.01832
+score(Kip (vogel)):	0.01832
+score(Borstvoeding):	0.01832
+score(Mexico (land)):	0.01832
+score(Slavernij):	0.01832
+score(Mazelen):	0.01832
+score(Fred Hoyle):	0.01832
+score(Organisme):	0.01832
+score(Koortslip):	0.01832
+score(Celmembraan):	0.01832
+score(Cholera):	0.01832
+score(Boviene spongiforme encefalopathie):	0.01832
+score(FC Barcelona):	0.01832
+score(Teflon):	0.01832
+score(Gerst):	0.01832
+score(Sikkelcelanemie):	0.01832
+score(Hu Jintao):	0.01832
+score(Biologie van A tot Z):	0.01832
+score(J. Slauerhoff):	0.01832
+score(Afweer):	0.01832
+score(Geiser (bron)):	0.01832
+score(Aangeboren afwijking):	0.01832
+score(Antigeen):	0.01832
+score(Bloed-hersenbarrière):	0.01832
+score(Radiotherapie):	0.01832
+score(Oktober 2004):	0.01832
+score(Coma (geneeskunde)):	0.01832
+score(Wen Jiabao):	0.01832
+score(Exponentiële groei):	0.01832
+score(Chiapas):	0.01832
+score(Recombinatie (genetica)):	0.01832
+score(Immunoglobuline):	0.01832
+score(T-cel):	0.01832
+score(Britse Rijk):	0.01832
+score(Geschiedenis van Mexico):	0.01832
+score(China van A tot Z):	0.01832
+score(Macrofaag):	0.01832
+score(Infecties):	0.01832
+score(Maligne lymfoom):	0.01832
+score(Hong Kong griep):	0.01832
+score(Isabel (provincie)):	0.01832
+score(Intraveneus):	0.01832
+score(Stephanie van Hohenzollern-Sigmaringen):	0.01832
+score(Peter Piot):	0.01832
+score(Blaasontsteking):	0.01832
+score(Rhinovirus):	0.01832
+score(Diabetische retinopathie):	0.01832
+score(Polyurie):	0.01832
+score(Koortsstuip):	0.01832
+score(Hepatitis A):	0.01832
+score(Thai Airways International):	0.01832
+score(Boudewijn van België (1869-1891)):	0.01832
+score(Talg (sebum)):	0.01832
+score(Steenpuist):	0.01832
+score(Besmettelijke ziekte):	0.01832
+score(Albert Jorquera):	0.01832
+score(Eerste Wereldoorlog in Nederland):	0.01832
+score(Reproductiegetal):	0.01832
+score(Basis-reproductiegetal):	0.01832
+score(NHG-standaard):	0.01832
+score(Riftdalkoorts):	0.01832
+score(Metformine):	0.01832
+score(Anopheles):	0.01832
+score(Enteritis):	0.01832
+score(Norovirus):	0.01832
+score(Overtraining):	0.01832
+score(ICD10 Hoofdstuk X):	0.01832
+score(Immuunsuppressiva):	0.01832
+score(Picornavirus):	0.01832
+score(Opportunistische infecties):	0.01832
+score(Los Angeles):	0.01832
+score(Geschiedenis):	0.01832

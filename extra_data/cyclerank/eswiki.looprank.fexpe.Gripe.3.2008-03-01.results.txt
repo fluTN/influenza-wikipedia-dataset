@@ -1,0 +1,32 @@
+score(Gripe):	3.35886
+score(Neumonía):	0.53363
+score(Enfermedad infecciosa):	0.53363
+score(Virus):	0.44808
+score(Vacuna):	0.43406
+score(Pandemia):	0.33448
+score(Gripe de Hong Kong):	0.33448
+score(Bacteria):	0.29872
+score(Antibiótico):	0.2847
+score(Hemaglutinina):	0.2847
+score(Virus ARN):	0.23491
+score(Orthomyxoviridae):	0.23491
+score(Tos):	0.19915
+score(Epidemiología):	0.09957
+score(Resfriado común):	0.09957
+score(Hepatitis A):	0.09957
+score(Influenza):	0.09957
+score(Enfermedad de Lyme):	0.09957
+score(Rubéola):	0.09957
+score(Haemophilus influenzae):	0.09957
+score(Tabaquismo):	0.09957
+score(Antígeno):	0.04979
+score(Estornudo):	0.04979
+score(Fiebre):	0.04979
+score(Epidemia):	0.04979
+score(Astenia):	0.04979
+score(Síndrome de fatiga crónica):	0.04979
+score(Gripe asiática):	0.04979
+score(Neuraminidasa):	0.04979
+score(Influenzavirus C):	0.04979
+score(Mastitis):	0.04979
+score(Infección):	0.04979

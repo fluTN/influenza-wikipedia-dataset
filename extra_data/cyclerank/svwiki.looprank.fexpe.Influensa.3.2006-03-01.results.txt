@@ -1,0 +1,14 @@
+score(Influensa):	1.69415
+score(Virus):	0.43406
+score(Pandemi):	0.43406
+score(Spanska sjukan):	0.38427
+score(Asiaten):	0.2847
+score(Epidemi):	0.23491
+score(Förkylning):	0.23491
+score(Ryska snuvan):	0.13534
+score(Inkubationstid):	0.04979
+score(1918):	0.04979
+score(1957):	0.04979
+score(Infektion):	0.04979
+score(Lunginflammation):	0.04979
+score(Smittkoppor):	0.04979

@@ -1,0 +1,30 @@
+score(Influensa):	3.66529
+score(Virus):	0.73278
+score(Pandemi):	0.63321
+score(Spanska sjukan):	0.58342
+score(Fågelinfluensa):	0.43406
+score(Asiaten):	0.43406
+score(1957):	0.38427
+score(Influensavirus typ A):	0.33448
+score(Inkubationstid):	0.2847
+score(Epidemi):	0.2847
+score(Förkylning):	0.2847
+score(Ryska snuvan):	0.18512
+score(Zoonos):	0.14936
+score(Hästinfluensa):	0.13534
+score(Smittkoppor):	0.09957
+score(Hund):	0.04979
+score(Katt):	0.04979
+score(Marsvin):	0.04979
+score(1918):	0.04979
+score(1970):	0.04979
+score(Infektion):	0.04979
+score(Mutation):	0.04979
+score(Lunginflammation):	0.04979
+score(Syfilis):	0.04979
+score(Hosta):	0.04979
+score(Denguefeber):	0.04979
+score(Hongkonginfluensan):	0.04979
+score(Lassafeber):	0.04979
+score(Orthomyxoviridae):	0.04979
+score(Q-feber):	0.04979

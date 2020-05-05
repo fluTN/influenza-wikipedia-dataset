@@ -1,0 +1,23 @@
+score(Griep):	0.72624
+score(Virus (biologie)):	0.44954
+score(Vaccin):	0.28186
+score(SARS):	0.13621
+score(Vogelpest):	0.0681
+score(Wereldgezondheidsorganisatie):	0.0681
+score(Infectieziekte):	0.05495
+score(Opportunistische infectie):	0.04979
+score(1999):	0.03663
+score(Ziekte):	0.03663
+score(Waterpokken):	0.03663
+score(1914):	0.01832
+score(2003):	0.01832
+score(Eerste Wereldoorlog):	0.01832
+score(Pokken):	0.01832
+score(Kinderziekte):	0.01832
+score(Bof):	0.01832
+score(Carlo Urbani):	0.01832
+score(Kanker):	0.01832
+score(Mortaliteit):	0.01832
+score(Organisme):	0.01832
+score(Ontsteking (geneeskunde)):	0.01832
+score(Koorts):	0.01832

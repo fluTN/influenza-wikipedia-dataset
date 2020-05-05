@@ -1,0 +1,90 @@
+score(Influenza):	11.25606
+score(Raffreddore comune):	1.08129
+score(Pandemia):	0.93193
+score(Orthomyxoviridae):	0.83235
+score(Cefalea):	0.73278
+score(Pandemia influenzale):	0.68299
+score(Influenzavirus A):	0.59744
+score(Vaccino antinfluenzale):	0.53363
+score(AIDS):	0.49787
+score(Zoonosi):	0.48384
+score(Influenza di Hong Kong):	0.48384
+score(Influenza suina):	0.48384
+score(Virus a RNA):	0.48384
+score(Virus parainfluenzali umani):	0.48384
+score(Oseltamivir):	0.43406
+score(Influenza asiatica):	0.43406
+score(Influenza spagnola):	0.43406
+score(Bronchite):	0.43406
+score(Faringite):	0.43406
+score(Difterite):	0.3983
+score(Zanamivir):	0.38427
+score(Emoagglutinina):	0.38427
+score(Dengue):	0.34851
+score(Vaccinazione):	0.34851
+score(Sindrome di Reye):	0.33448
+score(Vaiolo):	0.29872
+score(Nausea):	0.29872
+score(Apparato respiratorio):	0.29872
+score(Enzima):	0.24894
+score(Tonsillite):	0.23491
+score(Influenzavirus C):	0.23491
+score(Febbre):	0.19915
+score(Influenza aviaria):	0.19915
+score(Tosse):	0.19915
+score(Pandemia influenzale del 2009):	0.19915
+score(Zinco):	0.19915
+score(XIX secolo):	0.14936
+score(Acido acetilsalicilico):	0.14936
+score(Periodo di incubazione):	0.14936
+score(Mialgia):	0.14936
+score(Croup):	0.14936
+score(Espettorato):	0.14936
+score(Meningite):	0.14936
+score(SARS):	0.14936
+score(Morbillo):	0.14936
+score(Oceano Pacifico):	0.09957
+score(XVIII secolo):	0.09957
+score(George Washington):	0.09957
+score(Sclerosi multipla):	0.09957
+score(Poliomielite):	0.09957
+score(Peste nera):	0.09957
+score(Paracetamolo):	0.09957
+score(Vitamina D):	0.09957
+score(Inghilterra):	0.09957
+score(Evoluzione):	0.09957
+score(Antivirale):	0.09957
+score(Cheratite):	0.09957
+score(Acido sialico):	0.09957
+score(Italia):	0.09957
+score(Königsberg):	0.09957
+score(Virus respiratorio sinciziale umano):	0.09957
+score(Prima guerra mondiale):	0.04979
+score(Vietnam):	0.04979
+score(1918):	0.04979
+score(Bacteria):	0.04979
+score(New Jersey):	0.04979
+score(Epidemiologia):	0.04979
+score(Organizzazione mondiale della sanità):	0.04979
+score(Antrace):	0.04979
+score(Malattia infettiva):	0.04979
+score(Malattia di Lyme):	0.04979
+score(Febbre Q):	0.04979
+score(Epatite C):	0.04979
+score(Bronchite acuta):	0.04979
+score(Febbre tifoide):	0.04979
+score(Réseau Sentinelles):	0.04979
+score(Contagiosità):	0.04979
+score(Seni paranasali):	0.04979
+score(Isola di Pasqua):	0.04979
+score(Endo-alfa-sialidasi):	0.04979
+score(Edmund Allenby):	0.04979
+score(Mohammed Abdullah Hassan):	0.04979
+score(Neoplasia):	0.04979
+score(Febbre suina):	0.04979
+score(Selezione naturale):	0.04979
+score(Tosse post-virale):	0.04979
+score(Tahiti):	0.04979
+score(Rinofaringite):	0.04979
+score(Vaccino influenzale):	0.04979
+score(Sindrome influenzale):	0.04979

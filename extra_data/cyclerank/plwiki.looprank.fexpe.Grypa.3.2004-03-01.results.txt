@@ -1,0 +1,6 @@
+score(Grypa):	0.37024
+score(Choroby zakaźne):	0.18512
+score(Pandemia):	0.13534
+score(Choroba):	0.04979
+score(Medycyna):	0.04979
+score(Wirusy):	0.04979

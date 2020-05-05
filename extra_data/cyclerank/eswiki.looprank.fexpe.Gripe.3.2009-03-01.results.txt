@@ -1,0 +1,141 @@
+score(Gripe):	16.09943
+score(Virus):	2.58893
+score(Antibiótico):	1.72852
+score(Neumonía):	1.18086
+score(Vacuna):	1.08129
+score(Enfermedad infecciosa):	0.88214
+score(Resfriado común):	0.83235
+score(Haemophilus influenzae):	0.78257
+score(Ácido acetilsalicílico):	0.73278
+score(Pandemia):	0.73278
+score(Dengue):	0.68299
+score(Paracetamol):	0.63321
+score(Oseltamivir):	0.63321
+score(Meningitis):	0.59744
+score(Estornudo):	0.58342
+score(Gripe aviaria):	0.53363
+score(Hemaglutinina):	0.48384
+score(Orthomyxoviridae):	0.43406
+score(Influenzavirus C):	0.43406
+score(Rhinovirus):	0.43406
+score(Bacteria):	0.34851
+score(Influenza):	0.34851
+score(Gripe de Hong Kong):	0.33448
+score(Infección respiratoria alta):	0.33448
+score(Enfermedad de Lyme):	0.29872
+score(Rubéola):	0.29872
+score(Industria farmacéutica):	0.29872
+score(Influenzavirus B):	0.29872
+score(Miocarditis):	0.29872
+score(Neumonía bacteriana):	0.29872
+score(Reacción adversa a medicamento):	0.29872
+score(Serotipo):	0.2847
+score(Sarampión):	0.24894
+score(Tos ferina):	0.24894
+score(Influenzavirus A):	0.24894
+score(Antiviral):	0.24894
+score(Cerebro):	0.19915
+score(Enfermedad de Alzheimer):	0.19915
+score(Asma):	0.19915
+score(Tos):	0.19915
+score(Hepatitis C):	0.19915
+score(Fiebre tifoidea):	0.19915
+score(Rimantadina):	0.19915
+score(Siglo XX):	0.14936
+score(Síndrome respiratorio agudo severo):	0.14936
+score(2005):	0.14936
+score(Nueva Caledonia):	0.14936
+score(Vitamina C):	0.14936
+score(Heroína):	0.14936
+score(Hepatitis A):	0.14936
+score(Gastroenteritis):	0.14936
+score(Arbovirus):	0.14936
+score(Thogotovirus):	0.14936
+score(Alergia):	0.09957
+score(Enzima):	0.09957
+score(Genoma):	0.09957
+score(Aparato respiratorio):	0.09957
+score(Enfermedad pulmonar obstructiva crónica):	0.09957
+score(Anticuerpo):	0.09957
+score(1918):	0.09957
+score(Bertolt Brecht):	0.09957
+score(Hígado):	0.09957
+score(Samoa):	0.09957
+score(Sordera):	0.09957
+score(Virus ARN):	0.09957
+score(Vitamina D):	0.09957
+score(Cólera):	0.09957
+score(Síndrome de fatiga crónica):	0.09957
+score(Faringitis):	0.09957
+score(Síndrome de Reye):	0.09957
+score(Hemisferio sur):	0.09957
+score(Amantadina):	0.09957
+score(Streptococcus pneumoniae):	0.09957
+score(Laringotraqueobronquitis):	0.09957
+score(Interferón):	0.09957
+score(Neuraminidasa):	0.09957
+score(Antisentido):	0.09957
+score(Síndrome de Guillain-Barré):	0.09957
+score(Viremia):	0.09957
+score(Sibilancia):	0.09957
+score(Océano Pacífico):	0.09957
+score(Staphylococcus aureus):	0.09957
+score(Virología):	0.09957
+score(Idioma francés):	0.04979
+score(Teatro):	0.04979
+score(28 de agosto):	0.04979
+score(1982):	0.04979
+score(Insuficiencia respiratoria):	0.04979
+score(Bronquitis crónica):	0.04979
+score(Difteria):	0.04979
+score(Antígeno):	0.04979
+score(Ácido nucleico):	0.04979
+score(2006):	0.04979
+score(Inyección (medicina)):	0.04979
+score(Rinitis):	0.04979
+score(Fiebre):	0.04979
+score(Inflamación):	0.04979
+score(Benedicto XV):	0.04979
+score(Ganglio linfático):	0.04979
+score(Peste negra):	0.04979
+score(Epidemia):	0.04979
+score(Toxoplasma gondii):	0.04979
+score(Hemorragia):	0.04979
+score(Virión):	0.04979
+score(Astenia):	0.04979
+score(Metrorragia):	0.04979
+score(Otitis):	0.04979
+score(Insuficiencia cardíaca):	0.04979
+score(Propóleos):	0.04979
+score(Desastre natural):	0.04979
+score(Aerosol):	0.04979
+score(Tifus):	0.04979
+score(Gripe asiática):	0.04979
+score(Automedicación):	0.04979
+score(Administración de desastres):	0.04979
+score(Enfermedad aguda):	0.04979
+score(Anacleto Angelini):	0.04979
+score(Litzy):	0.04979
+score(Catarro):	0.04979
+score(Antitusígeno):	0.04979
+score(Bradicardia):	0.04979
+score(Inmunidad celular):	0.04979
+score(Haemophilus):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Pasteurellaceae):	0.04979
+score(Pericarditis):	0.04979
+score(Exploración física):	0.04979
+score(Hemocultivo):	0.04979
+score(Virulencia):	0.04979
+score(Mastitis):	0.04979
+score(Comité Internacional de Taxonomía de Virus):	0.04979
+score(Virus ARN monocatenario negativo):	0.04979
+score(D. H. Lawrence):	0.04979
+score(Carbacefem):	0.04979
+score(Infectividad):	0.04979
+score(Nucleoproteína):	0.04979
+score(Lectina):	0.04979
+score(Coriza):	0.04979
+score(Antibiograma):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Adenoviridae):	0.04979

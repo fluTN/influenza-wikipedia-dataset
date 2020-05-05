@@ -1,0 +1,50 @@
+score(Griep):	10.1313
+score(H5N1):	1.38001
+score(Virus (biologie)):	1.23065
+score(Hongkonggriep):	1.23065
+score(Spaanse griep):	1.18086
+score(Hemagglutinine):	1.18086
+score(H1N1):	1.13108
+score(Antigene shift):	1.0315
+score(H2N2):	1.0315
+score(Neuraminidase):	0.88214
+score(Antigene drift):	0.88214
+score(Varkensgriep):	0.78257
+score(Aziatische griep):	0.73278
+score(Influenza):	0.69702
+score(Verkoudheid):	0.38427
+score(Epidemie):	0.34851
+score(Orthomyxovirus):	0.33448
+score(Mexicaanse griep):	0.29872
+score(Oseltamivir):	0.24894
+score(Symptoom):	0.24894
+score(Pandemie):	0.24894
+score(Hoofdpijn):	0.23491
+score(Aviaire influenza):	0.19915
+score(Ziekte):	0.14936
+score(Pathogeen):	0.14936
+score(Hoest):	0.14936
+score(Immuundeficiëntie):	0.14936
+score(Griepprik):	0.13534
+score(Genetica):	0.09957
+score(Pokken):	0.09957
+score(Opportunistische infectie):	0.09957
+score(Infectieziekte):	0.09957
+score(Virologie):	0.09957
+score(Virulentie):	0.09957
+score(Influenzavirus A):	0.09957
+score(Aids):	0.04979
+score(Eerste Wereldoorlog):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Mutatie (biologie)):	0.04979
+score(Mortaliteit):	0.04979
+score(Afweer):	0.04979
+score(COPD):	0.04979
+score(Immuunsysteem):	0.04979
+score(Marburgvirus):	0.04979
+score(Endemie (geneeskunde)):	0.04979
+score(Amantadine):	0.04979
+score(Hoesten):	0.04979
+score(H3N2):	0.04979
+score(Ebola):	0.04979
+score(SARS):	0.04979

@@ -1,0 +1,104 @@
+score(Influenza):	16.78145
+score(Viren):	2.02724
+score(Infektionskrankheit):	1.28044
+score(Influenzavirus):	1.28044
+score(Pandemie):	1.18086
+score(Fieber):	1.13108
+score(Erkältung):	1.08129
+score(Spanische Grippe):	1.08129
+score(Oseltamivir):	0.98172
+score(Lungenentzündung):	0.88214
+score(Gelbfieber):	0.78257
+score(Neuraminidase):	0.78257
+score(Grippeimpfung):	0.73278
+score(Epidemie):	0.63321
+score(Influenzapandemie):	0.63321
+score(Zanamivir):	0.58342
+score(Neuraminidase-Hemmer):	0.58342
+score(Asiatische Grippe):	0.58342
+score(Enzephalitis):	0.53363
+score(Schüttelfrost):	0.53363
+score(Immunsystem):	0.44808
+score(Weltgesundheitsorganisation):	0.44808
+score(Impfung):	0.44808
+score(Virusinfektion):	0.44808
+score(Masern):	0.44808
+score(Sekundärinfektion):	0.43406
+score(Gliederschmerz):	0.38427
+score(Infektion):	0.34851
+score(Cholera):	0.34851
+score(Zytokin):	0.33448
+score(Amantadin):	0.33448
+score(Geflügelpest):	0.29872
+score(AIDS):	0.29872
+score(Russische Grippe):	0.29872
+score(Meningitis):	0.29872
+score(Myokarditis):	0.24894
+score(Akute Bronchitis):	0.23491
+score(Influenza-Schnelltest):	0.23491
+score(Impfstoff):	0.19915
+score(Sialinsäuren):	0.19915
+score(Superinfektion):	0.19915
+score(HIV):	0.19915
+score(European Influenza Surveillance Scheme):	0.18512
+score(Inkubationszeit):	0.14936
+score(Virologie):	0.14936
+score(Husten):	0.14936
+score(Pneumokokken):	0.14936
+score(GlaxoSmithKline):	0.14936
+score(Hämagglutinin (Influenzavirus A)):	0.14936
+score(Orthomyxoviridae):	0.14936
+score(Antigenerbsünde):	0.14936
+score(Denguefieber):	0.09957
+score(RNA-Virus):	0.09957
+score(Tröpfcheninfektion):	0.09957
+score(Zervixkarzinom):	0.09957
+score(Vögel):	0.09957
+score(Nosokomiale Infektion):	0.09957
+score(Immunisierung):	0.09957
+score(Reye-Syndrom):	0.09957
+score(Zellkultur):	0.09957
+score(Hoffmann-La Roche):	0.09957
+score(Gastroenteritis):	0.09957
+score(Nationaler Pandemieplan):	0.09957
+score(Antigendrift):	0.09957
+score(Europäische Schlafkrankheit):	0.09957
+score(Lymphozytäre Choriomeningitis):	0.09957
+score(Robert Webster (Virologe)):	0.09957
+score(Multiple Sklerose):	0.09957
+score(Antigen):	0.04979
+score(Hygiene):	0.04979
+score(1968):	0.04979
+score(Bakterien):	0.04979
+score(Peru):	0.04979
+score(Astrologie):	0.04979
+score(West-Nil-Virus):	0.04979
+score(Symptom):	0.04979
+score(Opioide):	0.04979
+score(Elektronenmikroskop):	0.04979
+score(Schwangerschaft):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Erkrankungen des Atmungssystems):	0.04979
+score(Haemophilus):	0.04979
+score(World Health Organization):	0.04979
+score(Pfeiffer-Drüsenfieber):	0.04979
+score(Shikimisäure):	0.04979
+score(Haussperling):	0.04979
+score(Selbstmedikation):	0.04979
+score(Adamantan):	0.04979
+score(Dilatative Kardiomyopathie):	0.04979
+score(Akute Mittelohrentzündung):	0.04979
+score(1918):	0.04979
+score(1919):	0.04979
+score(Leitsymptom):	0.04979
+score(Charles Tomlinson Griffes):	0.04979
+score(Hit and Run (Medizin)):	0.04979
+score(Coxsackie-Virus):	0.04979
+score(Bertolt Brecht):	0.04979
+score(Intercell):	0.04979
+score(Stomatitis vesicularis):	0.04979
+score(Biologische Schutzstufe):	0.04979
+score(Listeria monocytogenes):	0.04979
+score(Zytomegalie):	0.04979
+score(Acetylsalicylsäure):	0.04979
+score(Biologische Sicherheitsstufe):	0.04979

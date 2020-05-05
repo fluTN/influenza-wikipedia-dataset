@@ -1,0 +1,72 @@
+score(Gripe):	4.60736
+score(Gripe aviaria):	1.24278
+score(Pandemia):	1.03847
+score(Virus):	0.96325
+score(Epidemia):	0.73227
+score(Antibiótico):	0.52883
+score(Enfermedad infecciosa):	0.47904
+score(Gripe de Hong Kong):	0.47585
+score(Orthomyxoviridae):	0.46785
+score(Tos):	0.39262
+score(Neumonía):	0.31936
+score(Epidemiología):	0.31936
+score(Hemaglutinina):	0.27154
+score(Enfermedad):	0.25126
+score(Influenza):	0.24007
+score(Virus ARN):	0.20947
+score(Oseltamivir):	0.19631
+score(Gripe asiática):	0.14137
+score(Siglo XX):	0.12305
+score(Antígeno):	0.12305
+score(Resfriado común):	0.12305
+score(Medicina):	0.10989
+score(Infección):	0.10473
+score(Astenia):	0.09158
+score(Síndrome respiratorio agudo severo):	0.07326
+score(Peste negra):	0.07326
+score(Esclerosis múltiple):	0.07326
+score(Inmunidad):	0.07326
+score(Célula):	0.05495
+score(Acupuntura):	0.05495
+score(Paracetamol):	0.05495
+score(Rimantadina):	0.05495
+score(Estados Unidos):	0.05495
+score(Cáncer):	0.03663
+score(1991):	0.03663
+score(Síndrome de Goodpasture):	0.03663
+score(Cáncer de pulmón):	0.03663
+score(Sistema inmunitario):	0.03663
+score(Demografía):	0.03663
+score(Estornudo):	0.03663
+score(Fiebre):	0.03663
+score(Cólera):	0.03663
+score(Tifus):	0.03663
+score(Amantadina):	0.03663
+score(Lupus eritematoso):	0.03663
+score(Salud pública):	0.03663
+score(Hemoptisis):	0.03663
+score(Panamá):	0.01832
+score(Sarampión):	0.01832
+score(Fármaco):	0.01832
+score(Difteria):	0.01832
+score(Retroviridae):	0.01832
+score(Diego Armando Maradona):	0.01832
+score(Microorganismo):	0.01832
+score(Pelé):	0.01832
+score(Reoviridae):	0.01832
+score(Vitamina C):	0.01832
+score(Viruela):	0.01832
+score(Celiaquía):	0.01832
+score(Lesión):	0.01832
+score(Patología):	0.01832
+score(Sarcoidosis):	0.01832
+score(Absceso pulmonar):	0.01832
+score(Virus (biología)):	0.01832
+score(Peste pulmonar):	0.01832
+score(Enfermedad de Lyme):	0.01832
+score(Agua potable):	0.01832
+score(Desastre natural):	0.01832
+score(Diarrea):	0.01832
+score(Mutación):	0.01832
+score(Australia):	0.01832
+score(Biología):	0.01832

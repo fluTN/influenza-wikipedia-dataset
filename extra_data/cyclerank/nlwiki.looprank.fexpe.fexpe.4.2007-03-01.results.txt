@@ -1,0 +1,143 @@
+score(Griep):	24.62402
+score(H5N1):	6.92965
+score(Spaanse griep):	4.82284
+score(Hemagglutinine):	4.60821
+score(Antigene shift):	4.45653
+score(Hongkonggriep):	4.22358
+score(H2N2):	4.00896
+score(Neuraminidase):	3.72107
+score(Antigene drift):	3.66612
+score(Virus (biologie)):	3.56138
+score(H1N1):	3.54307
+score(Aziatische griep):	2.42298
+score(Eiwitmantel):	2.17491
+score(Vogelpest):	1.53619
+score(Epidemie):	1.16988
+score(Pandemie):	1.16988
+score(Oseltamivir):	1.1169
+score(Aviaire influenza):	0.95009
+score(Infectie):	0.86367
+score(Symptoom):	0.65704
+score(SARS):	0.45273
+score(Pathogeen):	0.41094
+score(Vogelgriep):	0.36115
+score(Ebola):	0.34284
+score(1960-1969):	0.30621
+score(Virulentie):	0.28789
+score(Marburgvirus):	0.28789
+score(Hong Kong griep):	0.28789
+score(1997):	0.27473
+score(Mens):	0.27473
+score(Diabetes mellitus):	0.25126
+score(Virologie):	0.25126
+score(Opportunistische infectie):	0.23294
+score(Hongkong):	0.23294
+score(Verenigde Staten):	0.20147
+score(Dominica):	0.20147
+score(Borstvoeding):	0.19631
+score(Spierpijn):	0.19115
+score(Eerste Wereldoorlog):	0.18316
+score(Infectieziekte):	0.178
+score(Verkoudheid):	0.15968
+score(1999):	0.14653
+score(2005):	0.12821
+score(Hoest):	0.12821
+score(Februari 2005):	0.12821
+score(2004):	0.10989
+score(Ziekte):	0.10989
+score(Zoogdieren):	0.07326
+score(Auckland):	0.07326
+score(Pest (ziekte)):	0.07326
+score(Gezondheid van A tot Z):	0.07326
+score(Griepprik):	0.07326
+score(Koude rilling):	0.0681
+score(Koude rillingen):	0.0681
+score(2006):	0.05495
+score(Mond-en-klauwzeer):	0.05495
+score(Immuunsysteem):	0.05495
+score(Oktober 2004):	0.05495
+score(Nieuw-Spanje):	0.05495
+score(Amantadine):	0.05495
+score(Aids):	0.03663
+score(Biologie):	0.03663
+score(Eiland):	0.03663
+score(2001):	0.03663
+score(1995):	0.03663
+score(12 maart):	0.03663
+score(8 juni):	0.03663
+score(Landbouw):	0.03663
+score(Engels):	0.03663
+score(Verenigde Naties):	0.03663
+score(Baby):	0.03663
+score(Geneesmiddel):	0.03663
+score(Albert I van België):	0.03663
+score(Longontsteking):	0.03663
+score(Fred Hoyle):	0.03663
+score(Mortaliteit):	0.03663
+score(Koorts):	0.03663
+score(Hoofdpijn):	0.03663
+score(J. Slauerhoff):	0.03663
+score(Zoönose):	0.03663
+score(Filovirussen):	0.03663
+score(Buikgriep):	0.03663
+score(Paramyxovirus):	0.03663
+score(Reassortment):	0.03663
+score(NHG-standaard):	0.03663
+score(Los Angeles):	0.03663
+score(Noord-Amerika):	0.01832
+score(Nieuw-Zeeland):	0.01832
+score(Vogels):	0.01832
+score(20e eeuw):	0.01832
+score(1918):	0.01832
+score(1950-1959):	0.01832
+score(2003):	0.01832
+score(1898):	0.01832
+score(27 januari):	0.01832
+score(15 maart):	0.01832
+score(22 mei):	0.01832
+score(18 juni):	0.01832
+score(28 juni):	0.01832
+score(14 december):	0.01832
+score(5 oktober):	0.01832
+score(20 augustus):	0.01832
+score(Salomonseilanden):	0.01832
+score(Waterpokken):	0.01832
+score(Pokken):	0.01832
+score(Hiv):	0.01832
+score(Wereldgezondheidsorganisatie):	0.01832
+score(Diarree):	0.01832
+score(Ab Osterhaus):	0.01832
+score(Gen):	0.01832
+score(Texas (staat)):	0.01832
+score(Bevalling):	0.01832
+score(Kip (vogel)):	0.01832
+score(Mexico (land)):	0.01832
+score(Mazelen):	0.01832
+score(Koortslip):	0.01832
+score(Celmembraan):	0.01832
+score(Boviene spongiforme encefalopathie):	0.01832
+score(Menselijk ras):	0.01832
+score(FC Barcelona):	0.01832
+score(Lymfeklier):	0.01832
+score(Cholesterol):	0.01832
+score(Geiser (bron)):	0.01832
+score(Bloed-hersenbarrière):	0.01832
+score(Coma (geneeskunde)):	0.01832
+score(Chiapas):	0.01832
+score(Recombinatie (genetica)):	0.01832
+score(Slijmvlies):	0.01832
+score(Britse Rijk):	0.01832
+score(Ebolavirus):	0.01832
+score(Infecties):	0.01832
+score(Isabel (provincie)):	0.01832
+score(Stephanie van Hohenzollern-Sigmaringen):	0.01832
+score(Blaasontsteking):	0.01832
+score(Polyurie):	0.01832
+score(Neel Doff):	0.01832
+score(Hepatitis A):	0.01832
+score(Boudewijn van België (1869-1891)):	0.01832
+score(Steenpuist):	0.01832
+score(Tamiflu):	0.01832
+score(Albert Jorquera):	0.01832
+score(Eerste Wereldoorlog in Nederland):	0.01832
+score(Metformine):	0.01832

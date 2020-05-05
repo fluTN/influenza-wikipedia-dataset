@@ -1,0 +1,45 @@
+score(Grippe):	4.02783
+score(Virus):	0.73278
+score(Maladie infectieuse):	0.63321
+score(Neuraminidase):	0.53363
+score(Oseltamivir):	0.53363
+score(Hémagglutinine):	0.38427
+score(Grippe aviaire):	0.38427
+score(Acide sialique):	0.33448
+score(Maladie virale):	0.2847
+score(17 janvier):	0.19915
+score(Maladie):	0.14936
+score(Épidémie):	0.14936
+score(Influenza):	0.14936
+score(1743):	0.13534
+score(Asthénie):	0.13534
+score(Myxovirus influenza):	0.13534
+score(Liste de maladies):	0.09957
+score(Fièvre):	0.09957
+score(Poliomyélite):	0.09957
+score(Antiviral):	0.09957
+score(Vaccination):	0.09957
+score(1918):	0.04979
+score(1968):	0.04979
+score(1940):	0.04979
+score(1933):	0.04979
+score(1957):	0.04979
+score(1890):	0.04979
+score(Acide ribonucléique):	0.04979
+score(Alaska):	0.04979
+score(Génome):	0.04979
+score(Acide acétylsalicylique):	0.04979
+score(Cheval):	0.04979
+score(Anticorps):	0.04979
+score(Pandémie):	0.04979
+score(Froid):	0.04979
+score(Chronologie des vaccins):	0.04979
+score(Céphalée):	0.04979
+score(Classification des virus):	0.04979
+score(Jonas Salk):	0.04979
+score(Zanamivir):	0.04979
+score(Grippe de 1918):	0.04979
+score(Virion):	0.04979
+score(Idée reçue):	0.04979
+score(Rhume):	0.04979
+score(Douleur):	0.04979

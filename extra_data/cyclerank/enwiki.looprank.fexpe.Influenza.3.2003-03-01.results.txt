@@ -1,0 +1,13 @@
+score(Influenza):	1.57284
+score(1918):	0.43406
+score(List of infectious diseases):	0.38427
+score(World War I):	0.38427
+score(Pandemic):	0.2847
+score(Common cold):	0.2847
+score(1919):	0.19915
+score(20th century):	0.14936
+score(1910s):	0.09957
+score(Virus):	0.09957
+score(Disease):	0.04979
+score(Coccidioidomycosis):	0.04979
+score(Rabies):	0.04979

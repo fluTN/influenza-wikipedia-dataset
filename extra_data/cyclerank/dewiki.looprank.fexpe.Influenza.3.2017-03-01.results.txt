@@ -1,0 +1,157 @@
+score(Influenza):	26.99787
+score(Viren):	2.67448
+score(Influenzavirus):	2.32597
+score(Impfung):	1.8281
+score(Pandemie H1N1 2009/10):	1.77831
+score(Vogelgrippe H5N1):	1.52937
+score(Fieber):	1.4298
+score(Virusinfektion):	1.4298
+score(Oseltamivir):	1.33022
+score(Lungenentzündung):	1.18086
+score(Spanische Grippe):	1.18086
+score(Erkältung):	1.13108
+score(Pandemie):	0.89617
+score(Epidemie):	0.88214
+score(Grippeimpfung):	0.88214
+score(Gelbfieber):	0.88214
+score(Liste von Subtypen des Influenza-A-Virus):	0.88214
+score(Russische Grippe):	0.83235
+score(Infektionskrankheit):	0.79659
+score(Influenza-A-Virus H1N1):	0.79659
+score(Zanamivir):	0.78257
+score(Neuraminidase-Hemmer):	0.78257
+score(Meningitis):	0.69702
+score(Amantadin):	0.63321
+score(Respiratory-Syncytial-Virus):	0.58342
+score(Asiatische Grippe):	0.58342
+score(Neuraminidase):	0.58342
+score(Impfstoff):	0.54766
+score(Virostatikum):	0.49787
+score(Speichel):	0.48384
+score(Rimantadin):	0.48384
+score(Infektion):	0.44808
+score(Geflügelpest):	0.44808
+score(AIDS):	0.44808
+score(HIV):	0.44808
+score(Influenzaimpfstoff):	0.44808
+score(Sekundärinfektion):	0.43406
+score(Schüttelfrost):	0.43406
+score(Immunsystem):	0.3983
+score(Influenza-A-Virus H5N1):	0.3983
+score(Grippe):	0.34851
+score(Zytokin):	0.34851
+score(Antigendrift):	0.34851
+score(Influenza-Schnelltest):	0.33448
+score(Kohortenisolierung):	0.33448
+score(Polymerase-Kettenreaktion):	0.29872
+score(Robert Koch):	0.29872
+score(Enzephalitis):	0.29872
+score(Pest):	0.24894
+score(Cholera):	0.24894
+score(RNA-Virus):	0.24894
+score(Myokarditis):	0.24894
+score(Hongkong-Grippe):	0.24894
+score(Hoffmann-La Roche):	0.24894
+score(Hämagglutinin (Influenzavirus A)):	0.24894
+score(Lebendimpfstoff):	0.24894
+score(Staphylococcus aureus):	0.24894
+score(Übersterblichkeit):	0.23491
+score(Akute Bronchitis):	0.19915
+score(Zervixkarzinom):	0.19915
+score(Sialinsäuren):	0.19915
+score(Nosokomiale Infektion):	0.19915
+score(GlaxoSmithKline):	0.19915
+score(Gastroenteritis):	0.19915
+score(Coxsackie-Virus):	0.19915
+score(Multiple Sklerose):	0.19915
+score(Acetylsalicylsäure):	0.19915
+score(European Influenza Surveillance Scheme):	0.18512
+score(Denguefieber):	0.14936
+score(Schwangerschaft):	0.14936
+score(Virologie):	0.14936
+score(Frettchen):	0.14936
+score(Husten):	0.14936
+score(Pfeiffer-Drüsenfieber):	0.14936
+score(Novartis):	0.14936
+score(Pneumokokken):	0.14936
+score(Pferdeinfluenza):	0.14936
+score(Orthomyxoviridae):	0.14936
+score(Europäisches Zentrum für die Prävention und die Kontrolle von Krankheiten):	0.14936
+score(Expositionsprophylaxe):	0.14936
+score(Robert Webster (Virologe)):	0.14936
+score(Vogelgrippe H7N9):	0.14936
+score(Nationales Referenzzentrum):	0.14936
+score(Zytokinsturm):	0.14936
+score(Epidemiologische Überwachung):	0.13534
+score(Antigen):	0.09957
+score(Hygiene):	0.09957
+score(Bakterien):	0.09957
+score(Antibiotikum):	0.09957
+score(Inkubationszeit):	0.09957
+score(Durchfall):	0.09957
+score(Königsberg (Preußen)):	0.09957
+score(Impfkalender):	0.09957
+score(Theoretische Biologie):	0.09957
+score(Generikum):	0.09957
+score(Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme):	0.09957
+score(Adamantan):	0.09957
+score(Reye-Syndrom):	0.09957
+score(Hantaviren):	0.09957
+score(Zellkultur):	0.09957
+score(Vektor (Biologie)):	0.09957
+score(Pseudokrupp):	0.09957
+score(Hit and Run (Medizin)):	0.09957
+score(Europäische Schlafkrankheit):	0.09957
+score(Lymphozytäre Choriomeningitis):	0.09957
+score(Richard Pfeiffer (Bakteriologe)):	0.09957
+score(RIG-I):	0.09957
+score(Gilead Sciences):	0.09957
+score(Zytomegalie):	0.09957
+score(Liste der unentbehrlichen Arzneimittel der Weltgesundheitsorganisation):	0.09957
+score(Liste der Krankheiten des Atmungssystems nach ICD-10):	0.09957
+score(Peramivir):	0.09957
+score(Hämagglutination):	0.09957
+score(Allergie):	0.04979
+score(Mittelalter):	0.04979
+score(Preußen):	0.04979
+score(Sachsen-Anhalt):	0.04979
+score(Resistenz):	0.04979
+score(Symptom):	0.04979
+score(Elektronenmikroskop):	0.04979
+score(PH-Wert):	0.04979
+score(Māori):	0.04979
+score(Wendell Meredith Stanley):	0.04979
+score(Rifttalfieber):	0.04979
+score(Wirt (Biologie)):	0.04979
+score(Erbrechen):	0.04979
+score(Blutsenkungsreaktion):	0.04979
+score(Stammzelltransplantation):	0.04979
+score(Shikimisäure):	0.04979
+score(Selbstmedikation):	0.04979
+score(Gendrift):	0.04979
+score(Ribavirin):	0.04979
+score(Nasensekret):	0.04979
+score(Dilatative Kardiomyopathie):	0.04979
+score(Klaus Stöhr):	0.04979
+score(Deutsch-Sowjetischer Krieg):	0.04979
+score(Leitsymptom):	0.04979
+score(Jonas Salk):	0.04979
+score(Nationaler Pandemieplan):	0.04979
+score(Mundschutz (Medizin)):	0.04979
+score(Berna Biotech):	0.04979
+score(Verbreitung von H5N1):	0.04979
+score(Myositis):	0.04979
+score(Stomatitis vesicularis):	0.04979
+score(Listeria monocytogenes):	0.04979
+score(Antigenerbsünde):	0.04979
+score(MMW-Fortschritte der Medizin):	0.04979
+score(Medical Research Council (UK)):	0.04979
+score(Alexander S. Kekulé):	0.04979
+score(Adolf Mayer (Agronom)):	0.04979
+score(Richard Shope):	0.04979
+score(European Centre for Disease Prevention and Control):	0.04979
+score(Schweinegrippe-Impfung):	0.04979
+score(Paläoserologie):	0.04979
+score(National Institute for Medical Research):	0.04979
+score(MERS-CoV):	0.04979
+score(Dispositionsprophylaxe):	0.04979

@@ -1,0 +1,38 @@
+score(Griep):	7.4989
+score(H5N1):	1.38001
+score(Spaanse griep):	1.0315
+score(Antigene shift):	1.0315
+score(Hongkonggriep):	0.98172
+score(Hemagglutinine):	0.98172
+score(H2N2):	0.93193
+score(Neuraminidase):	0.88214
+score(Antigene drift):	0.88214
+score(Virus (biologie)):	0.83235
+score(H1N1):	0.83235
+score(Aziatische griep):	0.68299
+score(Eiwitmantel):	0.3983
+score(Oseltamivir):	0.38427
+score(Vogelpest):	0.19915
+score(Epidemie):	0.19915
+score(Symptoom):	0.19915
+score(Aviaire influenza):	0.19915
+score(Pandemie):	0.19915
+score(Infectie):	0.14936
+score(Pathogeen):	0.09957
+score(Spierpijn):	0.09957
+score(1960-1969):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Opportunistische infectie):	0.04979
+score(Infectieziekte):	0.04979
+score(Borstvoeding):	0.04979
+score(Hongkong):	0.04979
+score(Vogelgriep):	0.04979
+score(Virologie):	0.04979
+score(Koude rilling):	0.04979
+score(Virulentie):	0.04979
+score(Marburgvirus):	0.04979
+score(Hong Kong griep):	0.04979
+score(Ebola):	0.04979
+score(SARS):	0.04979
+score(Koude rillingen):	0.04979
+score(Verkoudheid):	0.04979

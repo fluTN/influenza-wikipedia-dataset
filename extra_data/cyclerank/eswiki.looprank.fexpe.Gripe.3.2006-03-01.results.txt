@@ -1,0 +1,22 @@
+score(Gripe):	2.39117
+score(Gripe aviaria):	0.58342
+score(Pandemia):	0.43406
+score(Epidemia):	0.38427
+score(Gripe de Hong Kong):	0.38427
+score(Orthomyxoviridae):	0.2847
+score(Virus):	0.24894
+score(Hemaglutinina):	0.23491
+score(Antibiótico):	0.19915
+score(Influenza):	0.18512
+score(Enfermedad infecciosa):	0.14936
+score(Neumonía):	0.09957
+score(Epidemiología):	0.09957
+score(Tos):	0.09957
+score(Virus ARN):	0.09957
+score(Siglo XX):	0.04979
+score(Antígeno):	0.04979
+score(Resfriado común):	0.04979
+score(Gripe asiática):	0.04979
+score(Oseltamivir):	0.04979
+score(Enfermedad):	0.04979
+score(Infección):	0.04979

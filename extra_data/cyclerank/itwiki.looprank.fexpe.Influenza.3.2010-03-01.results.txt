@@ -1,0 +1,61 @@
+score(Influenza):	6.19812
+score(Pandemia):	0.83235
+score(Orthomyxoviridae):	0.68299
+score(Pandemia influenzale):	0.63321
+score(Influenza asiatica):	0.43406
+score(Influenza di Hong Kong):	0.43406
+score(Influenza suina):	0.43406
+score(Oseltamivir):	0.38427
+score(Influenza spagnola):	0.38427
+score(Enzima):	0.34851
+score(Zoonosi):	0.33448
+score(Faringite):	0.33448
+score(Zanamivir):	0.33448
+score(Virus a RNA):	0.33448
+score(Nausea):	0.29872
+score(Sindrome di Reye):	0.2847
+score(Tonsillite):	0.2847
+score(Influenzavirus A):	0.24894
+score(Raffreddore comune):	0.23491
+score(Influenzavirus C):	0.23491
+score(Dengue):	0.19915
+score(Astenia):	0.14936
+score(SARS):	0.14936
+score(Acido acetilsalicilico):	0.09957
+score(Influenza aviaria):	0.09957
+score(Mutazione genetica):	0.09957
+score(Tosse):	0.09957
+score(Endo-alfa-sialidasi):	0.09957
+score(Acido sialico):	0.09957
+score(Zinco):	0.09957
+score(Case farmaceutiche):	0.04979
+score(Prima guerra mondiale):	0.04979
+score(Vietnam):	0.04979
+score(1918):	0.04979
+score(Oceano Pacifico):	0.04979
+score(Conseguenze della prima guerra mondiale):	0.04979
+score(Bacteria):	0.04979
+score(Organizzazione mondiale della sanità):	0.04979
+score(Febbre):	0.04979
+score(Peste nera):	0.04979
+score(Paracetamolo):	0.04979
+score(Malattia di Lyme):	0.04979
+score(Vitamina D):	0.04979
+score(Febbre Q):	0.04979
+score(Bronchite acuta):	0.04979
+score(Bronchite):	0.04979
+score(Evoluzione):	0.04979
+score(Antivirale):	0.04979
+score(Seni paranasali):	0.04979
+score(Isola di Pasqua):	0.04979
+score(Colera):	0.04979
+score(Neuraminidasi):	0.04979
+score(Virus del mosaico del tabacco):	0.04979
+score(Catarro):	0.04979
+score(Neoplasia):	0.04979
+score(Effetto collaterale (medicina)):	0.04979
+score(Febbre suina):	0.04979
+score(Selezione naturale):	0.04979
+score(Sanofi Pasteur):	0.04979
+score(Tosse post-virale):	0.04979
+score(Cefalea):	0.04979

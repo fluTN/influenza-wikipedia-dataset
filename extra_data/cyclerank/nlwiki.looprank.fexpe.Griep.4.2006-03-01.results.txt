@@ -1,0 +1,95 @@
+score(Griep):	5.0695
+score(Virus (biologie)):	1.19532
+score(Vogelpest):	0.89514
+score(H5N1):	0.85335
+score(Spaanse griep):	0.82901
+score(Vaccin):	0.80269
+score(Oseltamivir):	0.7008
+score(Eiwitmantel):	0.46073
+score(Neuraminidase):	0.44757
+score(Epidemie):	0.35599
+score(Aziatische griep):	0.31333
+score(Hemagglutinine):	0.28789
+score(H1N1):	0.25126
+score(1999):	0.21979
+score(1997):	0.21979
+score(Vogelgriep):	0.21463
+score(Hongkonggriep):	0.20344
+score(Diabetes mellitus):	0.15968
+score(SARS):	0.14653
+score(Symptoom):	0.14137
+score(Dominica):	0.12821
+score(Ziekte):	0.10989
+score(Infectieziekte):	0.10989
+score(Koorts):	0.10989
+score(Gezondheid van A tot Z):	0.09158
+score(1960-1969):	0.08642
+score(Opportunistische infectie):	0.08642
+score(Borstvoeding):	0.08642
+score(Geneesmiddel):	0.07326
+score(Hoest):	0.07326
+score(Griepprik):	0.07326
+score(Mens):	0.07326
+score(20e eeuw):	0.05495
+score(2004):	0.05495
+score(20 februari):	0.05495
+score(Eerste Wereldoorlog):	0.05495
+score(Immuunsysteem):	0.05495
+score(Oktober 2004):	0.05495
+score(Biologie):	0.03663
+score(1950-1959):	0.03663
+score(1995):	0.03663
+score(2003):	0.03663
+score(12 maart):	0.03663
+score(8 juni):	0.03663
+score(Verenigde Naties):	0.03663
+score(Waterpokken):	0.03663
+score(Auckland):	0.03663
+score(Pokken):	0.03663
+score(Baby):	0.03663
+score(Mazelen):	0.03663
+score(Mortaliteit):	0.03663
+score(Hondsdolheid):	0.03663
+score(Hoofdpijn):	0.03663
+score(Amantadine):	0.03663
+score(Paramyxovirus):	0.03663
+score(Aids):	0.01832
+score(Eiland):	0.01832
+score(1918):	0.01832
+score(1998):	0.01832
+score(2005):	0.01832
+score(21 januari):	0.01832
+score(15 maart):	0.01832
+score(26 maart):	0.01832
+score(14 mei):	0.01832
+score(15 mei):	0.01832
+score(22 mei):	0.01832
+score(25 juni):	0.01832
+score(28 juni):	0.01832
+score(14 december):	0.01832
+score(5 oktober):	0.01832
+score(Kinderziekte):	0.01832
+score(Bof):	0.01832
+score(Hiv):	0.01832
+score(Bijbelgordel):	0.01832
+score(Gen):	0.01832
+score(Bevalling):	0.01832
+score(Kinkhoest):	0.01832
+score(Organisme):	0.01832
+score(Ontsteking (geneeskunde)):	0.01832
+score(Boviene spongiforme encefalopathie):	0.01832
+score(Mond-en-klauwzeer):	0.01832
+score(Infectie):	0.01832
+score(Virologie):	0.01832
+score(J. Slauerhoff):	0.01832
+score(Recombinatie (genetica)):	0.01832
+score(Slijmvlies):	0.01832
+score(Februari 2005):	0.01832
+score(Edward Jenner):	0.01832
+score(Dekolonisatie):	0.01832
+score(Blaasontsteking):	0.01832
+score(Buikgriep):	0.01832
+score(Polyurie):	0.01832
+score(Zonnesteek):	0.01832
+score(Koortsstuip):	0.01832
+score(Hepatitis B):	0.01832

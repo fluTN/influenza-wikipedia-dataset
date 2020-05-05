@@ -1,0 +1,7 @@
+score(Grippe):	0.3073
+score(Virus):	0.15365
+score(Grippe aviaire):	0.15365
+score(Sang):	0.01832
+score(2004):	0.01832
+score(Oiseau):	0.01832
+score(Janvier 2004):	0.01832

@@ -1,0 +1,39 @@
+score(Influenza):	4.09935
+score(Pandemia):	0.73278
+score(Pandemia influenzale):	0.53363
+score(Orthomyxoviridae):	0.48384
+score(Influenza asiatica):	0.43406
+score(Influenza di Hong Kong):	0.43406
+score(Influenza spagnola):	0.38427
+score(Zoonosi):	0.33448
+score(Faringite):	0.2847
+score(Influenzavirus A):	0.2847
+score(Sindrome di Reye):	0.23491
+score(Tonsillite):	0.23491
+score(Zanamivir):	0.23491
+score(Enzima):	0.19915
+score(Raffreddore comune):	0.18512
+score(Dengue):	0.09957
+score(Influenza aviaria):	0.09957
+score(Mutazione genetica):	0.09957
+score(SARS):	0.09957
+score(Zinco):	0.09957
+score(Prima guerra mondiale):	0.04979
+score(Vietnam):	0.04979
+score(1918):	0.04979
+score(Oceano Pacifico):	0.04979
+score(Conseguenze della prima guerra mondiale):	0.04979
+score(Bacteria):	0.04979
+score(Acido acetilsalicilico):	0.04979
+score(Peste nera):	0.04979
+score(Oseltamivir):	0.04979
+score(Malattia di Lyme):	0.04979
+score(Febbre Q):	0.04979
+score(Evoluzione):	0.04979
+score(Isola di Pasqua):	0.04979
+score(Colera):	0.04979
+score(Endo-alfa-sialidasi):	0.04979
+score(Neuraminidasi):	0.04979
+score(Acido sialico):	0.04979
+score(Virus del mosaico del tabacco):	0.04979
+score(Selezione naturale):	0.04979

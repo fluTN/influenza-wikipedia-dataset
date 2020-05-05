@@ -1,0 +1,4 @@
+score(Influensa):	0.32046
+score(Virus):	0.18512
+score(Epidemi):	0.13534
+score(Infektion):	0.04979

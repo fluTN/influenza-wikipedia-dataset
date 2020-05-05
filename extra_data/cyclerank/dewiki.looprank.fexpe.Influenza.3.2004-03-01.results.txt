@@ -1,0 +1,20 @@
+score(Influenza):	2.21376
+score(Epidemie):	0.33448
+score(Pandemie):	0.33448
+score(Grippeimpfung):	0.33448
+score(Neuraminidase-Hemmer):	0.33448
+score(1918):	0.33448
+score(Geflügelpest):	0.2847
+score(Zanamivir):	0.23491
+score(Rhinitis):	0.18512
+score(Infektion):	0.14936
+score(Influenzapandemie):	0.13534
+score(Viren):	0.09957
+score(Infektionskrankheit):	0.09957
+score(Immunsystem):	0.04979
+score(Krankheitserreger):	0.04979
+score(Myxoviren):	0.04979
+score(Orthomyxoviren):	0.04979
+score(Impfkritik):	0.04979
+score(Spanische Grippe):	0.04979
+score(1920):	0.04979

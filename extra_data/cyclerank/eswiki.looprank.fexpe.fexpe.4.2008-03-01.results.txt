@@ -1,0 +1,289 @@
+score(Gripe):	15.48381
+score(Bacteria):	4.0168
+score(Enfermedad infecciosa):	3.68392
+score(Virus):	3.47016
+score(Antibiótico):	2.55584
+score(Vacuna):	2.50372
+score(Neumonía):	2.27362
+score(Pandemia):	1.48837
+score(Tos):	1.46293
+score(Resfriado común):	0.75894
+score(Virus ARN):	0.71112
+score(Haemophilus influenzae):	0.57578
+score(Rubéola):	0.55747
+score(Fiebre):	0.48936
+score(Gripe de Hong Kong):	0.48101
+score(Orthomyxoviridae):	0.4547
+score(Antígeno):	0.43442
+score(Hemaglutinina):	0.43122
+score(Epidemiología):	0.42926
+score(Infección):	0.4161
+score(Enfermedad de Lyme):	0.33768
+score(Tabaquismo):	0.31936
+score(Hepatitis A):	0.30105
+score(Mastitis):	0.28789
+score(Estornudo):	0.26957
+score(Japón):	0.25642
+score(Influenza):	0.2461
+score(Sarampión):	0.2381
+score(Vitamina C):	0.2381
+score(Cefalea):	0.2381
+score(Tuberculosis):	0.21979
+score(Paracetamol):	0.21979
+score(Epidemia):	0.21463
+score(Fibrosis quística):	0.20147
+score(Sistema inmunitario):	0.20147
+score(Mundo):	0.20147
+score(Dengue):	0.20147
+score(Tos ferina):	0.20147
+score(Astenia):	0.19631
+score(Siglo XIX):	0.14653
+score(Samoa):	0.12821
+score(Malaria):	0.12821
+score(Varicela):	0.12821
+score(Fiebre amarilla):	0.12821
+score(Tifus):	0.12821
+score(Instituto Pasteur):	0.12821
+score(Gripe asiática):	0.12305
+score(Neuraminidasa):	0.12305
+score(Siglo XX):	0.10989
+score(Enzima):	0.10989
+score(Síndrome respiratorio agudo severo):	0.10989
+score(Nueva Caledonia):	0.10989
+score(Hepatitis B):	0.10989
+score(Serotipo):	0.10989
+score(Metabolismo):	0.10989
+score(Intoxicación alimentaria):	0.10989
+score(Síndrome de fatiga crónica):	0.10473
+score(Influenzavirus C):	0.10473
+score(Cáncer):	0.09158
+score(Cólera):	0.09158
+score(Viruela):	0.09158
+score(Jonas Salk):	0.09158
+score(Peste pulmonar):	0.09158
+score(Mycoplasma):	0.09158
+score(Inmunidad):	0.09158
+score(Influenzavirus B):	0.09158
+score(Enfermedad):	0.09158
+score(Hora):	0.07326
+score(Legionelosis):	0.07326
+score(Cáncer de pulmón):	0.07326
+score(Bertolt Brecht):	0.07326
+score(Benedicto XV):	0.07326
+score(Esclerosis múltiple):	0.07326
+score(Faringitis):	0.07326
+score(Brucelosis):	0.07326
+score(Corynebacterium diphtheriae):	0.07326
+score(Haemophilus):	0.07326
+score(Influenzavirus A):	0.07326
+score(Bacteriemia):	0.07326
+score(Perú):	0.05495
+score(Biotecnología):	0.05495
+score(1952):	0.05495
+score(Derrame pleural):	0.05495
+score(Difteria):	0.05495
+score(Penicilina):	0.05495
+score(Anticuerpo):	0.05495
+score(Rabia):	0.05495
+score(Escherichia coli):	0.05495
+score(1918):	0.05495
+score(Leptospira):	0.05495
+score(Poliomielitis):	0.05495
+score(Chlamydia):	0.05495
+score(Microorganismo):	0.05495
+score(Escarlatina):	0.05495
+score(Célula):	0.05495
+score(Bronquiectasia):	0.05495
+score(Erisipela):	0.05495
+score(Glosopeda):	0.05495
+score(Flavivirus):	0.05495
+score(Hemorragia subaracnoidea):	0.05495
+score(Diarrea):	0.05495
+score(Herpes zóster):	0.05495
+score(Enfermedad aguda):	0.05495
+score(Bronquiolitis):	0.05495
+score(Streptococcus pneumoniae):	0.05495
+score(Listeriosis):	0.05495
+score(Hemoptisis):	0.05495
+score(Klebsiella pneumoniae):	0.05495
+score(Huso horario):	0.05495
+score(Huésped (biología)):	0.05495
+score(Wendell Meredith Stanley):	0.05495
+score(Pasteurellaceae):	0.05495
+score(Fiebre hemorrágica boliviana):	0.05495
+score(Cerebro):	0.03663
+score(España):	0.03663
+score(Genética):	0.03663
+score(Medicina):	0.03663
+score(Microbiología):	0.03663
+score(Oceanía):	0.03663
+score(Meningitis):	0.03663
+score(Genoma):	0.03663
+score(Síndrome de Goodpasture):	0.03663
+score(1954):	0.03663
+score(Pared celular):	0.03663
+score(Plásmido):	0.03663
+score(Anticuerpo monoclonal):	0.03663
+score(Toxoplasmosis):	0.03663
+score(Bacillus anthracis):	0.03663
+score(2006):	0.03663
+score(2007):	0.03663
+score(Tabaco):	0.03663
+score(Rinitis):	0.03663
+score(Inflamación):	0.03663
+score(Ácido fólico):	0.03663
+score(Shigelosis):	0.03663
+score(Úlcera péptica):	0.03663
+score(Enfermedad de Creutzfeldt-Jakob):	0.03663
+score(Carl Gustav Jakob Jacobi):	0.03663
+score(Absceso pulmonar):	0.03663
+score(Imperialismo):	0.03663
+score(Metrorragia):	0.03663
+score(Esperanza de vida):	0.03663
+score(Clostridium tetani):	0.03663
+score(Tétanos):	0.03663
+score(Bacteriófago):	0.03663
+score(Fiebre tifoidea):	0.03663
+score(Streptococcus):	0.03663
+score(Desastre natural):	0.03663
+score(Rickettsia):	0.03663
+score(Conquista de América):	0.03663
+score(Cáncer de estómago):	0.03663
+score(Salmonella typhimurium):	0.03663
+score(Virus sincitial respiratorio):	0.03663
+score(Anacleto Angelini):	0.03663
+score(Hernia de hiato):	0.03663
+score(Rubeola):	0.03663
+score(S. XX):	0.03663
+score(Antiséptico):	0.03663
+score(Espina bífida):	0.03663
+score(Ornitosis):	0.03663
+score(Endocarditis):	0.03663
+score(Pestivirus):	0.03663
+score(Paramyxoviridae):	0.03663
+score(Virulencia):	0.03663
+score(Fungemia):	0.03663
+score(Australia):	0.03663
+score(Parasitismo):	0.03663
+score(Lupus eritematoso sistémico):	0.03663
+score(Biología):	0.03663
+score(Staphylococcus aureus):	0.03663
+score(América):	0.01832
+score(Bioquímica):	0.01832
+score(Francia):	0.01832
+score(Fungi):	0.01832
+score(Homo sapiens):	0.01832
+score(Sífilis):	0.01832
+score(Salud):	0.01832
+score(Unión Europea):	0.01832
+score(1 de enero):	0.01832
+score(Louis Pasteur):	0.01832
+score(Levadura):	0.01832
+score(20 de enero):	0.01832
+score(1995):	0.01832
+score(1992):	0.01832
+score(1991):	0.01832
+score(1972):	0.01832
+score(27 de marzo):	0.01832
+score(1962):	0.01832
+score(Fármaco):	0.01832
+score(Aparato respiratorio):	0.01832
+score(Columna vertebral):	0.01832
+score(Bacillus Calmette-Guérin):	0.01832
+score(8 de octubre):	0.01832
+score(Mitocondria):	0.01832
+score(Cromosoma):	0.01832
+score(Apoptosis):	0.01832
+score(Caracol):	0.01832
+score(Virus de Epstein-Barr):	0.01832
+score(1941):	0.01832
+score(2005):	0.01832
+score(1897):	0.01832
+score(Queso):	0.01832
+score(Demografía):	0.01832
+score(Antioxidante):	0.01832
+score(Campylobacter):	0.01832
+score(Clostridium botulinum):	0.01832
+score(Coronavirus):	0.01832
+score(Postulados de Koch):	0.01832
+score(Chlamydiae):	0.01832
+score(Endemia):	0.01832
+score(Bunyaviridae):	0.01832
+score(Virus ADN):	0.01832
+score(Actinobacteria):	0.01832
+score(Kaliningrado):	0.01832
+score(Clostridium):	0.01832
+score(Fibromialgia):	0.01832
+score(Ganglio linfático):	0.01832
+score(Peste negra):	0.01832
+score(Helicobacter pylori):	0.01832
+score(Cetoacidosis diabética):	0.01832
+score(Hepatitis):	0.01832
+score(Metástasis):	0.01832
+score(Peste):	0.01832
+score(Biodisponibilidad):	0.01832
+score(Bacilo):	0.01832
+score(Toxoplasma gondii):	0.01832
+score(Macrófago):	0.01832
+score(Parotiditis):	0.01832
+score(Lesión):	0.01832
+score(Patología):	0.01832
+score(Gripe aviaria):	0.01832
+score(Atelectasia):	0.01832
+score(Sarcoidosis):	0.01832
+score(Treponema pallidum):	0.01832
+score(Campylobacter jejuni):	0.01832
+score(Zoonosis):	0.01832
+score(Virus (biología)):	0.01832
+score(Infestación):	0.01832
+score(Proteobacteria):	0.01832
+score(ISO 4217):	0.01832
+score(Presión arterial):	0.01832
+score(Imperio español):	0.01832
+score(Gastroenteritis):	0.01832
+score(Insuficiencia cardíaca):	0.01832
+score(Gregorio Marañón):	0.01832
+score(Mycobacterium):	0.01832
+score(Moho):	0.01832
+score(Chucrut):	0.01832
+score(Catástrofe demográfica en América tras la llegada de los europeos):	0.01832
+score(Candidiasis):	0.01832
+score(Fisión binaria):	0.01832
+score(Agua potable):	0.01832
+score(Encefalitis):	0.01832
+score(Cuarto mundo):	0.01832
+score(Citomegalovirus):	0.01832
+score(Fenicol):	0.01832
+score(Histoplasmosis):	0.01832
+score(Cloranfenicol):	0.01832
+score(Nanobio):	0.01832
+score(Dextrometorfano):	0.01832
+score(Cefalea tensional):	0.01832
+score(Javier Basilio):	0.01832
+score(Expectorante):	0.01832
+score(Medio de cultivo):	0.01832
+score(George Burns):	0.01832
+score(Catarro):	0.01832
+score(Taquicardia):	0.01832
+score(Leucemia mieloide aguda):	0.01832
+score(Salud pública):	0.01832
+score(Insuficiencia renal):	0.01832
+score(Mutágeno):	0.01832
+score(Neumonitis):	0.01832
+score(Fiebre hemorrágica argentina):	0.01832
+score(Coxsackievirus):	0.01832
+score(Streptomyces):	0.01832
+score(Borrelia burgdorferi):	0.01832
+score(Esporotricosis):	0.01832
+score(Filoviridae):	0.01832
+score(Virus del Nilo Occidental):	0.01832
+score(Morbillivirus):	0.01832
+score(Desinfección):	0.01832
+score(Vitamina K):	0.01832
+score(José Gordillo Sánchez):	0.01832
+score(Nocardia):	0.01832
+score(Listeria):	0.01832
+score(Neuroaminidasa):	0.01832
+score(Spirochaetes):	0.01832
+score(Rhabdoviridae):	0.01832
+score(Bacillus):	0.01832

@@ -1,0 +1,47 @@
+score(Griep):	9.98193
+score(H5N1):	1.38001
+score(Spaanse griep):	1.23065
+score(Hongkonggriep):	1.23065
+score(Virus (biologie)):	1.18086
+score(Hemagglutinine):	1.13108
+score(Mexicaanse griep):	1.13108
+score(H1N1):	1.08129
+score(Antigene shift):	1.08129
+score(H2N2):	1.08129
+score(Neuraminidase):	0.93193
+score(Antigene drift):	0.88214
+score(Aziatische griep):	0.73278
+score(Influenza):	0.59744
+score(Oseltamivir):	0.43406
+score(Verkoudheid):	0.38427
+score(Epidemie):	0.24894
+score(Symptoom):	0.24894
+score(Pandemie):	0.24894
+score(Aviaire influenza):	0.19915
+score(Immuundeficiëntie):	0.19915
+score(Hoofdpijn):	0.18512
+score(Pathogeen):	0.14936
+score(Hoest):	0.14936
+score(SARS):	0.14936
+score(Varkensgriep):	0.14936
+score(Griepprik):	0.13534
+score(Genetica):	0.09957
+score(Pokken):	0.09957
+score(Opportunistische infectie):	0.09957
+score(Virologie):	0.09957
+score(Virulentie):	0.09957
+score(Aids):	0.04979
+score(Eerste Wereldoorlog):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Infectieziekte):	0.04979
+score(Wereldgezondheidsorganisatie):	0.04979
+score(Mutatie (biologie)):	0.04979
+score(Afweer):	0.04979
+score(COPD):	0.04979
+score(Marburgvirus):	0.04979
+score(Amantadine):	0.04979
+score(Hoesten):	0.04979
+score(H3N2):	0.04979
+score(Ebola):	0.04979
+score(La Gloria (Veracruz)):	0.04979
+score(Orthomyxovirus):	0.04979

@@ -1,0 +1,46 @@
+score(Griep):	8.49464
+score(H5N1):	1.4298
+score(Hongkonggriep):	1.23065
+score(Spaanse griep):	1.08129
+score(Antigene shift):	1.08129
+score(Hemagglutinine):	1.0315
+score(H2N2):	1.0315
+score(Virus (biologie)):	0.98172
+score(H1N1):	0.93193
+score(Antigene drift):	0.93193
+score(Neuraminidase):	0.88214
+score(Aziatische griep):	0.68299
+score(Eiwitmantel):	0.3983
+score(Oseltamivir):	0.33448
+score(Epidemie):	0.29872
+score(Infectie):	0.29872
+score(Aids):	0.19915
+score(Vogelpest):	0.19915
+score(Symptoom):	0.19915
+score(Aviaire influenza):	0.19915
+score(Pandemie):	0.19915
+score(Immuundeficiëntie):	0.19915
+score(Pathogeen):	0.14936
+score(Opportunistische infectie):	0.09957
+score(Virulentie):	0.09957
+score(Spierpijn):	0.09957
+score(Buikgriep):	0.09957
+score(SARS):	0.09957
+score(Eerste Wereldoorlog):	0.04979
+score(Diabetes mellitus):	0.04979
+score(Infectieziekte):	0.04979
+score(Wereldgezondheidsorganisatie):	0.04979
+score(Mutatie (biologie)):	0.04979
+score(Bloedtransfusie):	0.04979
+score(Hongkong):	0.04979
+score(Koorts):	0.04979
+score(Vogelgriep):	0.04979
+score(Virologie):	0.04979
+score(Koude rilling):	0.04979
+score(Marburgvirus):	0.04979
+score(Endemie (geneeskunde)):	0.04979
+score(H3N2):	0.04979
+score(Ebola):	0.04979
+score(Koude rillingen):	0.04979
+score(Verkoudheid):	0.04979
+score(Darminfectie):	0.04979

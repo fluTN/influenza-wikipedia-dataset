@@ -1,0 +1,30 @@
+score(Influensa):	0.74971
+score(Virus):	0.46785
+score(Epidemi):	0.19028
+score(Inkubationstid):	0.12305
+score(Infektion):	0.12305
+score(Smittkoppor):	0.08642
+score(2003):	0.05495
+score(Hjalmar Branting):	0.05495
+score(2002):	0.03663
+score(Spanska sjukan):	0.03663
+score(Alexander III av Ryssland):	0.03663
+score(Zoonos):	0.01832
+score(1918):	0.01832
+score(1970):	0.01832
+score(24 februari):	0.01832
+score(10 mars):	0.01832
+score(1 november):	0.01832
+score(23 november):	0.01832
+score(1968):	0.01832
+score(18 oktober):	0.01832
+score(Bakterier):	0.01832
+score(Pandemi):	0.01832
+score(Immunförsvar):	0.01832
+score(Veikko Hakulinen):	0.01832
+score(Vattkoppor):	0.01832
+score(Polio):	0.01832
+score(Syfilis):	0.01832
+score(Olympiska vinterspelen 1960):	0.01832
+score(Mikroorganism):	0.01832
+score(Förkylning):	0.01832

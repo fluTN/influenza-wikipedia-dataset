@@ -1,0 +1,110 @@
+score(Influenza):	4.92447
+score(1918):	1.83637
+score(Epidemie):	0.71911
+score(Pandemie):	0.57259
+score(Geflügelpest):	0.54112
+score(1920):	0.52599
+score(Infektionskrankheit):	0.46589
+score(Grippeimpfung):	0.44438
+score(Infektion):	0.44241
+score(Neuraminidase-Hemmer):	0.42606
+score(Viren):	0.33768
+score(1957):	0.27473
+score(Zanamivir):	0.27154
+score(Rhinitis):	0.25838
+score(Krankheitserreger):	0.19631
+score(Immunsystem):	0.178
+score(Spanische Grippe):	0.178
+score(1969):	0.16484
+score(Österreich):	0.16484
+score(1968):	0.14653
+score(2003):	0.14653
+score(Influenzapandemie):	0.13534
+score(Pest):	0.12821
+score(1958):	0.12821
+score(Tollwut):	0.10989
+score(Masern):	0.10989
+score(AIDS):	0.09158
+score(Antigen):	0.07326
+score(20. Jahrhundert):	0.07326
+score(März 2003):	0.07326
+score(Husten):	0.07326
+score(Impfkritik):	0.0681
+score(1955):	0.05495
+score(2. Januar):	0.05495
+score(Obduktion):	0.05495
+score(Zoonose):	0.05495
+score(Pathogenität):	0.05495
+score(Beatmung):	0.05495
+score(Deutschland):	0.05495
+score(Sowjetunion):	0.05495
+score(Myxoviren):	0.04979
+score(Orthomyxoviren):	0.04979
+score(2000):	0.03663
+score(1868):	0.03663
+score(15. Jahrhundert):	0.03663
+score(1922):	0.03663
+score(13. April):	0.03663
+score(24. November):	0.03663
+score(1892):	0.03663
+score(1881):	0.03663
+score(Bakterien):	0.03663
+score(Todesursache):	0.03663
+score(2004):	0.03663
+score(Allergie):	0.01832
+score(Geschichte Europas):	0.01832
+score(Hygiene):	0.01832
+score(Lise Meitner):	0.01832
+score(Mittelalter):	0.01832
+score(Polen):	0.01832
+score(Ungarn):	0.01832
+score(2002):	0.01832
+score(1910er):	0.01832
+score(1970):	0.01832
+score(20. April):	0.01832
+score(13. August):	0.01832
+score(9. August):	0.01832
+score(26. April):	0.01832
+score(1921):	0.01832
+score(19. November):	0.01832
+score(3. März):	0.01832
+score(1. Februar):	0.01832
+score(3. September):	0.01832
+score(1923):	0.01832
+score(30. Januar):	0.01832
+score(8. Februar):	0.01832
+score(20. März):	0.01832
+score(25. März):	0.01832
+score(25. August):	0.01832
+score(22. September):	0.01832
+score(31. Oktober):	0.01832
+score(11. November):	0.01832
+score(1864):	0.01832
+score(1887):	0.01832
+score(1347):	0.01832
+score(Lettland):	0.01832
+score(Tschechoslowakei):	0.01832
+score(West-Nil-Virus):	0.01832
+score(Cholera):	0.01832
+score(Diego Rivera):	0.01832
+score(Schweres Akutes Atemwegssyndrom):	0.01832
+score(Max Weber):	0.01832
+score(Geschichte Österreichs):	0.01832
+score(Fritz Haber):	0.01832
+score(Typhus):	0.01832
+score(Cuno Hoffmeister):	0.01832
+score(Akute Bronchitis):	0.01832
+score(Frederick Sanger):	0.01832
+score(Lungenentzündung):	0.01832
+score(Keuchhusten):	0.01832
+score(Sputum):	0.01832
+score(Haemophilus):	0.01832
+score(Bundeskanzler (Österreich)):	0.01832
+score(1915):	0.01832
+score(1916):	0.01832
+score(1917):	0.01832
+score(1919):	0.01832
+score(Erster Weltkrieg):	0.01832
+score(Osmanisches Reich):	0.01832
+score(John Steinbeck):	0.01832
+score(Asthma bronchiale):	0.01832

@@ -1,0 +1,75 @@
+score(Influenza):	9.17271
+score(Pandemic):	1.08129
+score(20th century):	0.98172
+score(Infectious disease):	0.73278
+score(Antigenic shift):	0.68299
+score(Common cold):	0.63321
+score(Neuraminidase):	0.63321
+score(1918):	0.58342
+score(Epidemic):	0.58342
+score(Hong Kong Flu):	0.58342
+score(Asian Flu):	0.53363
+score(Pneumonia):	0.48384
+score(1997):	0.43406
+score(Disease):	0.38427
+score(RNA virus):	0.33448
+score(Vaccine):	0.33448
+score(Zanamivir):	0.33448
+score(Oseltamivir):	0.33448
+score(Orthomyxoviridae):	0.2847
+score(Antigenic drift):	0.23491
+score(Haemagglutinin):	0.23491
+score(1968):	0.19915
+score(1919):	0.19915
+score(Gastroenteritis):	0.19915
+score(World War I):	0.19915
+score(Smallpox):	0.19915
+score(Bird):	0.18512
+score(Hong Kong):	0.14936
+score(1957):	0.14936
+score(Severe acute respiratory syndrome):	0.14936
+score(Astrology):	0.13534
+score(Rimantadine):	0.13534
+score(Amantadine):	0.13534
+score(Mammal):	0.09957
+score(1977):	0.09957
+score(Fever):	0.09957
+score(Respiratory system):	0.09957
+score(Aftermath of World War I):	0.09957
+score(Outbreak):	0.09957
+score(Upper respiratory tract infection):	0.09957
+score(List of epidemics):	0.09957
+score(United States):	0.09957
+score(Herpes simplex virus):	0.09957
+score(Rabies):	0.09957
+score(Antibody):	0.04979
+score(Death):	0.04979
+score(December 29):	0.04979
+score(List of infectious diseases):	0.04979
+score(Pope John Paul II):	0.04979
+score(Vitamin C):	0.04979
+score(World Health Organization):	0.04979
+score(Yasser Arafat):	0.04979
+score(Zinc):	0.04979
+score(Infectious disease in the 20th century):	0.04979
+score(1976):	0.04979
+score(Chicken soup):	0.04979
+score(Guillaume Apollinaire):	0.04979
+score(Guangdong):	0.04979
+score(Virus classification):	0.04979
+score(Rotavirus):	0.04979
+score(Ibuprofen):	0.04979
+score(H.D.):	0.04979
+score(Edmund Allenby, 1st Viscount Allenby):	0.04979
+score(Host (biology)):	0.04979
+score(Epidemics):	0.04979
+score(Tallulah Bankhead):	0.04979
+score(Bronchiole):	0.04979
+score(Timeline of vaccines):	0.04979
+score(Peter Fraser):	0.04979
+score(Transmission (medicine)):	0.04979
+score(Hot toddy):	0.04979
+score(Haemophilus influenzae):	0.04979
+score(Viral shift):	0.04979
+score(Pandemics):	0.04979
+score(Common Cold):	0.04979

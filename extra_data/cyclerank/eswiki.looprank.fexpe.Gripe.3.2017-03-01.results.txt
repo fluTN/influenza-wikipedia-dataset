@@ -1,0 +1,286 @@
+score(Gripe):	37.44684
+score(Virus):	3.86937
+score(Infección):	2.24042
+score(Enzima):	2.02724
+score(Antibiótico):	1.72852
+score(Perú):	1.69276
+score(Neumonía):	1.67873
+score(Vacuna):	1.67873
+score(Pandemia):	1.62895
+score(Virología):	1.62895
+score(Gripe porcina):	1.52937
+score(Resfriado común):	1.47959
+score(Enfermedad infecciosa):	1.33022
+score(Influenzavirus A):	1.33022
+score(Pandemia de gripe A (H1N1) de 2009-2010):	1.18086
+score(Cefalea):	1.0315
+score(Epidemia):	0.98172
+score(Gripe aviaria):	0.93193
+score(Haemophilus influenzae):	0.88214
+score(Orthomyxoviridae):	0.83235
+score(Influenzavirus B):	0.83235
+score(Oseltamivir):	0.78257
+score(Neuraminidasa):	0.78257
+score(Influenzavirus C):	0.78257
+score(Hemaglutinina):	0.73278
+score(Gripe de Hong Kong):	0.73278
+score(Estornudo):	0.68299
+score(Miocarditis):	0.68299
+score(Zanamivir):	0.68299
+score(Rhinovirus):	0.63321
+score(Endemia):	0.59744
+score(Serotipo):	0.58342
+score(Bacteria):	0.54766
+score(Dengue):	0.54766
+score(Influenza):	0.54766
+score(Vitamina C):	0.53363
+score(Paracetamol):	0.49787
+score(Sistema inmunitario):	0.44808
+score(Cólera):	0.44808
+score(Fiebre tifoidea):	0.44808
+score(Tos ferina):	0.44808
+score(Antiviral):	0.44808
+score(Inmunidad (medicina)):	0.44808
+score(Pandemia de gripe de 1918):	0.43406
+score(Gripe asiática):	0.43406
+score(Wendell Meredith Stanley):	0.43406
+score(Rubéola):	0.3983
+score(Neumonía bacteriana):	0.3983
+score(Cansancio):	0.3983
+score(Reacción adversa a medicamento):	0.3983
+score(Infección respiratoria alta):	0.38427
+score(Influenzavirus A subtipo H3N2):	0.38427
+score(Enfermedad de Alzheimer):	0.34851
+score(Fiebre amarilla):	0.34851
+score(Azerbaiyán):	0.29872
+score(Industria farmacéutica):	0.29872
+score(Virus H1N1/09 Pandémico):	0.29872
+score(Sarampión):	0.24894
+score(Asma):	0.24894
+score(Inmunología):	0.24894
+score(Ácido acetilsalicílico):	0.24894
+score(Hígado):	0.24894
+score(Córdoba (Argentina)):	0.24894
+score(Gastroenteritis):	0.24894
+score(Insuficiencia cardíaca):	0.24894
+score(Arbovirus):	0.24894
+score(Thogotovirus):	0.24894
+score(Staphylococcus aureus):	0.24894
+score(Faringitis estreptocócica):	0.24894
+score(Gripe rusa):	0.23491
+score(Fármaco):	0.19915
+score(Sepsis):	0.19915
+score(Enterovirus):	0.19915
+score(2006):	0.19915
+score(2009):	0.19915
+score(Tabaco):	0.19915
+score(Tos):	0.19915
+score(Heroína):	0.19915
+score(Deshidratación):	0.19915
+score(Migraña):	0.19915
+score(Océano Pacífico):	0.19915
+score(Dolor abdominal):	0.19915
+score(Diabetes mellitus):	0.19915
+score(Alergia):	0.14936
+score(Wolfgang Amadeus Mozart):	0.14936
+score(14 de enero):	0.14936
+score(Siglo XVIII):	0.14936
+score(1977):	0.14936
+score(Reino Unido):	0.14936
+score(Genoma):	0.14936
+score(Anticuerpo):	0.14936
+score(2005):	0.14936
+score(2007):	0.14936
+score(2008):	0.14936
+score(Fiebre):	0.14936
+score(Inflamación):	0.14936
+score(Samoa):	0.14936
+score(Rotavirus):	0.14936
+score(Hepatitis A):	0.14936
+score(Sudor):	0.14936
+score(Ibuprofeno):	0.14936
+score(Amantadina):	0.14936
+score(Rimantadina):	0.14936
+score(Influenzavirus A subtipo H1N1):	0.14936
+score(Hipoxia):	0.14936
+score(Hemoptisis):	0.14936
+score(Antisentido):	0.14936
+score(Virulencia):	0.14936
+score(Hipócrates):	0.14936
+score(Unión Europea):	0.09957
+score(1 de enero):	0.09957
+score(Oxígeno):	0.09957
+score(19 de octubre):	0.09957
+score(28 de agosto):	0.09957
+score(2003):	0.09957
+score(1982):	0.09957
+score(1976):	0.09957
+score(1958):	0.09957
+score(Aparato respiratorio):	0.09957
+score(Endocitosis):	0.09957
+score(Antígeno):	0.09957
+score(2004):	0.09957
+score(1918):	0.09957
+score(1901):	0.09957
+score(Ácido nucleico):	0.09957
+score(Sangre):	0.09957
+score(Ribavirina):	0.09957
+score(Suicidio):	0.09957
+score(Tonga):	0.09957
+score(Virus ARN):	0.09957
+score(Palaos):	0.09957
+score(Nueva Caledonia):	0.09957
+score(Peste negra):	0.09957
+score(Dolor):	0.09957
+score(Prince):	0.09957
+score(Imperialismo):	0.09957
+score(Pubertad):	0.09957
+score(Afasia):	0.09957
+score(Metrorragia):	0.09957
+score(Gamal Abdel Nasser):	0.09957
+score(Años 1990):	0.09957
+score(Tifus):	0.09957
+score(Antiinflamatorio):	0.09957
+score(Automedicación):	0.09957
+score(Streptococcus pneumoniae):	0.09957
+score(Recombinación genética):	0.09957
+score(Inmunidad celular):	0.09957
+score(Laringotraqueobronquitis):	0.09957
+score(Haemophilus):	0.09957
+score(Instituto Pasteur):	0.09957
+score(Pericarditis):	0.09957
+score(Primera Guerra Mundial):	0.09957
+score(Estenosis mitral):	0.09957
+score(Hemocultivo):	0.09957
+score(Mastitis):	0.09957
+score(Viremia):	0.09957
+score(Virus ARN monocatenario negativo):	0.09957
+score(Exudado faríngeo):	0.09957
+score(Infectividad):	0.09957
+score(Lectina):	0.09957
+score(Coriza):	0.09957
+score(Proteína):	0.09957
+score(Vacuna intranasal viva contra la influenza):	0.09957
+score(María Sharápova):	0.09957
+score(Influenzavirus A subtipo H7N7):	0.09957
+score(Malestar):	0.09957
+score(Asia):	0.04979
+score(Citoplasma):	0.04979
+score(Europa):	0.04979
+score(Etiología):	0.04979
+score(Idioma francés):	0.04979
+score(Mayo):	0.04979
+score(México):	0.04979
+score(Siglo XX):	0.04979
+score(18 de enero):	0.04979
+score(1969):	0.04979
+score(1919):	0.04979
+score(Octubre):	0.04979
+score(22 de diciembre):	0.04979
+score(15 de febrero):	0.04979
+score(1957):	0.04979
+score(Organización Mundial de la Salud):	0.04979
+score(Clima):	0.04979
+score(Síndrome de Goodpasture):	0.04979
+score(Insuficiencia respiratoria):	0.04979
+score(Bronquitis crónica):	0.04979
+score(Síntoma):	0.04979
+score(VIH/sida):	0.04979
+score(Fosfolípido):	0.04979
+score(Difteria):	0.04979
+score(Aparato de Golgi):	0.04979
+score(Cianosis):	0.04979
+score(1935):	0.04979
+score(Hong Kong):	0.04979
+score(1933):	0.04979
+score(1833):	0.04979
+score(1830):	0.04979
+score(Toxoplasmosis):	0.04979
+score(Dólar estadounidense):	0.04979
+score(Epitelio):	0.04979
+score(Estómago):	0.04979
+score(Inyección (medicina)):	0.04979
+score(Rinitis):	0.04979
+score(Sordera):	0.04979
+score(Factor de necrosis tumoral):	0.04979
+score(Vacuola):	0.04979
+score(Vitamina D):	0.04979
+score(Hipo):	0.04979
+score(Síndrome de Stevens-Johnson):	0.04979
+score(Exudado):	0.04979
+score(Leucocitosis):	0.04979
+score(Toxoplasma gondii):	0.04979
+score(Hemorragia):	0.04979
+score(Virión):	0.04979
+score(Astenia):	0.04979
+score(ARN polimerasa):	0.04979
+score(José Lezama Lima):	0.04979
+score(Otitis):	0.04979
+score(Tinción de Gram):	0.04979
+score(Bombero):	0.04979
+score(Imperio español):	0.04979
+score(Necrosis):	0.04979
+score(Aspirina):	0.04979
+score(Desastre natural):	0.04979
+score(Resfriado):	0.04979
+score(Sex Pistols):	0.04979
+score(Aerosol):	0.04979
+score(Alfred Tennyson):	0.04979
+score(Hemisferio sur):	0.04979
+score(Vómito):	0.04979
+score(Frank Macfarlane Burnet):	0.04979
+score(ELISA):	0.04979
+score(Aspartato aminotransferasa):	0.04979
+score(Tamiflu):	0.04979
+score(Glicoproteína):	0.04979
+score(Administración de desastres):	0.04979
+score(Síndrome de Gilbert):	0.04979
+score(Enfermedad aguda):	0.04979
+score(Virgen de Fátima):	0.04979
+score(Pinus sylvestris):	0.04979
+score(Gripe aviar):	0.04979
+score(Anacleto Angelini):	0.04979
+score(Catarro):	0.04979
+score(Sambucus):	0.04979
+score(Leucemia mieloide aguda):	0.04979
+score(Bernard Mandeville):	0.04979
+score(Inmunidad humoral):	0.04979
+score(Mutación):	0.04979
+score(Interferón):	0.04979
+score(Pus):	0.04979
+score(Pasteurellaceae):	0.04979
+score(Otitis media):	0.04979
+score(Exploración física):	0.04979
+score(Enfermedad por el virus del Ébola):	0.04979
+score(Noxa (salud)):	0.04979
+score(Virus de la hepatitis C):	0.04979
+score(Betula pendula):	0.04979
+score(Reservorio natural):	0.04979
+score(Mialgia):	0.04979
+score(Comité Internacional de Taxonomía de Virus):	0.04979
+score(Mareo):	0.04979
+score(Síndrome de Guillain-Barré):	0.04979
+score(Período de incubación):	0.04979
+score(Broncoespasmo):	0.04979
+score(Metformina):	0.04979
+score(Juan de Lalande):	0.04979
+score(D. H. Lawrence):	0.04979
+score(Clasificación Internacional de Atención Primaria):	0.04979
+score(Carbacefem):	0.04979
+score(Nucleoproteína):	0.04979
+score(Artralgia):	0.04979
+score(Vacuna contra la gripe):	0.04979
+score(Relenza):	0.04979
+score(Influenzavirus A subtipo H1N2):	0.04979
+score(Gripe A):	0.04979
+score(Red de médicos centinela):	0.04979
+score(Enfermedades de Declaración Obligatoria):	0.04979
+score(Sudor inglés):	0.04979
+score(Acinetobacter):	0.04979
+score(Alberto Víctor de Clarence):	0.04979
+score(Virus varicela-zóster):	0.04979
+score(Chavalongo):	0.04979
+score(Pandemia de gripe A (H1N1) de 2009):	0.04979
+score(Radomir Putnik):	0.04979
+score(Pandemia de gripe A (H1N1) de 2009-2010 en Islas Malvinas):	0.04979
+score(H1N2):	0.04979

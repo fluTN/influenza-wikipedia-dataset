@@ -1,0 +1,735 @@
+score(Grypa):	50.89699
+score(1968):	14.31731
+score(1957):	13.51426
+score(1918):	12.62195
+score(1919):	10.73777
+score(1900):	7.51225
+score(1889):	7.20801
+score(Jan Paweł II):	4.60006
+score(1970):	3.78102
+score(I wojna światowa):	3.4565
+score(1958):	3.20807
+score(1978):	3.18976
+score(1977):	2.75534
+score(1891):	2.57219
+score(1997):	2.54071
+score(XX wiek):	1.39199
+score(Epidemia):	0.9469
+score(Medycyna):	0.66736
+score(1926):	0.5861
+score(1980):	0.54947
+score(Boston):	0.54431
+score(Pandemia):	0.5228
+score(Choroby zakaźne):	0.51567
+score(Ptasia grypa):	0.49133
+score(Historia):	0.47621
+score(1901):	0.47621
+score(Szczepionka):	0.43442
+score(Stany Zjednoczone):	0.40294
+score(1833):	0.40294
+score(Katar):	0.38463
+score(Zapalenie płuc):	0.36828
+score(Śmierć):	0.36115
+score(XIX wiek):	0.348
+score(28 września):	0.348
+score(2005):	0.32968
+score(Sierra Leone):	0.32968
+score(1952):	0.31137
+score(1979):	0.31137
+score(1991):	0.31137
+score(1905):	0.27473
+score(1916):	0.27473
+score(1989):	0.27473
+score(4 lutego):	0.27473
+score(1963):	0.25642
+score(1973):	0.25642
+score(1972):	0.25642
+score(1975):	0.25642
+score(1907):	0.2381
+score(1913):	0.2381
+score(1917):	0.2381
+score(1959):	0.2381
+score(1971):	0.2381
+score(1981):	0.2381
+score(1 stycznia):	0.2381
+score(1 kwietnia):	0.2381
+score(11 listopada):	0.2381
+score(30 stycznia):	0.2381
+score(26 sierpnia):	0.21979
+score(Gdańsk):	0.20147
+score(1906):	0.20147
+score(1908):	0.20147
+score(1909):	0.20147
+score(1911):	0.20147
+score(1914):	0.20147
+score(1954):	0.20147
+score(1967):	0.20147
+score(1974):	0.20147
+score(1782):	0.20147
+score(28 czerwca):	0.20147
+score(14 lipca):	0.20147
+score(14 sierpnia):	0.20147
+score(31 maja):	0.20147
+score(Polska):	0.20147
+score(1964):	0.18316
+score(1969):	0.18316
+score(1982):	0.18316
+score(1781):	0.18316
+score(12 października):	0.18316
+score(31 października):	0.18316
+score(2 marca):	0.18316
+score(2003):	0.18316
+score(André Malraux):	0.18316
+score(Brest):	0.18316
+score(1939):	0.16484
+score(1902):	0.16484
+score(1912):	0.16484
+score(1931):	0.16484
+score(1948):	0.16484
+score(1956):	0.16484
+score(1960):	0.16484
+score(1965):	0.16484
+score(1886):	0.16484
+score(1890):	0.16484
+score(22 września):	0.16484
+score(21 marca):	0.16484
+score(29 stycznia):	0.16484
+score(Luty 2005):	0.16484
+score(Hipokrates):	0.15968
+score(1925):	0.14653
+score(1962):	0.14653
+score(1976):	0.14653
+score(1983):	0.14653
+score(1985):	0.14653
+score(1986):	0.14653
+score(1988):	0.14653
+score(1990):	0.14653
+score(1993):	0.14653
+score(2 stycznia):	0.14653
+score(30 października):	0.14653
+score(12 grudnia):	0.14653
+score(6 grudnia):	0.14653
+score(7 maja):	0.14653
+score(12 maja):	0.14653
+score(31 marca):	0.14653
+score(23 marca):	0.14653
+score(15 stycznia):	0.14653
+score(1961):	0.14653
+score(Związek Socjalistycznych Republik Radzieckich):	0.14653
+score(Ebola):	0.14137
+score(Zapalenie):	0.14137
+score(Węgry):	0.12821
+score(1950):	0.12821
+score(1887):	0.12821
+score(1888):	0.12821
+score(1892):	0.12821
+score(1894):	0.12821
+score(10 października):	0.12821
+score(11 października):	0.12821
+score(28 października):	0.12821
+score(10 listopada):	0.12821
+score(8 listopada):	0.12821
+score(15 listopada):	0.12821
+score(20 listopada):	0.12821
+score(3 grudnia):	0.12821
+score(2 maja):	0.12821
+score(8 kwietnia):	0.12821
+score(11 marca):	0.12821
+score(16 marca):	0.12821
+score(16 lutego):	0.12821
+score(1732):	0.12821
+score(Ospa prawdziwa):	0.12821
+score(Pierre Trudeau):	0.12821
+score(1936):	0.12821
+score(Kraków):	0.12821
+score(Zaćmienie Słońca):	0.12821
+score(Wirusowe zapalenie wątroby):	0.12821
+score(Dziecko):	0.12821
+score(Austria):	0.10989
+score(Ptaki):	0.10989
+score(Rumunia):	0.10989
+score(1920):	0.10989
+score(1951):	0.10989
+score(1987):	0.10989
+score(1830):	0.10989
+score(15 lipca):	0.10989
+score(25 września):	0.10989
+score(6 października):	0.10989
+score(17 października):	0.10989
+score(16 października):	0.10989
+score(17 listopada):	0.10989
+score(14 grudnia):	0.10989
+score(13 kwietnia):	0.10989
+score(7 kwietnia):	0.10989
+score(4 kwietnia):	0.10989
+score(13 marca):	0.10989
+score(19 marca):	0.10989
+score(10 lutego):	0.10989
+score(21 lutego):	0.10989
+score(16 stycznia):	0.10989
+score(Helmut Schmidt):	0.10989
+score(Leczenie):	0.10473
+score(Gorączka krwotoczna Ebola):	0.10473
+score(Jonas Salk):	0.09158
+score(1903):	0.09158
+score(1910):	0.09158
+score(1923):	0.09158
+score(1935):	0.09158
+score(1943):	0.09158
+score(1946):	0.09158
+score(1947):	0.09158
+score(1953):	0.09158
+score(1893):	0.09158
+score(1895):	0.09158
+score(1898):	0.09158
+score(1808):	0.09158
+score(1 lutego):	0.09158
+score(8 czerwca):	0.09158
+score(12 czerwca):	0.09158
+score(10 lipca):	0.09158
+score(20 lipca):	0.09158
+score(9 sierpnia):	0.09158
+score(4 sierpnia):	0.09158
+score(7 października):	0.09158
+score(3 października):	0.09158
+score(1 listopada):	0.09158
+score(5 listopada):	0.09158
+score(14 listopada):	0.09158
+score(17 grudnia):	0.09158
+score(26 grudnia):	0.09158
+score(27 kwietnia):	0.09158
+score(28 kwietnia):	0.09158
+score(8 marca):	0.09158
+score(3 marca):	0.09158
+score(11 lutego):	0.09158
+score(28 lutego):	0.09158
+score(1729):	0.09158
+score(XX):	0.09158
+score(Charles de Gaulle):	0.09158
+score(Olaf V):	0.09158
+score(Historia najnowsza):	0.09158
+score(Paryż):	0.09158
+score(Józef Piłsudski):	0.07326
+score(Kansas):	0.07326
+score(Rok):	0.07326
+score(Tydzień):	0.07326
+score(2002):	0.07326
+score(1921):	0.07326
+score(1922):	0.07326
+score(1929):	0.07326
+score(1 września):	0.07326
+score(1940):	0.07326
+score(1945):	0.07326
+score(1955):	0.07326
+score(1984):	0.07326
+score(1896):	0.07326
+score(1899):	0.07326
+score(1878):	0.07326
+score(Łacina):	0.07326
+score(14 stycznia):	0.07326
+score(5 stycznia):	0.07326
+score(6 stycznia):	0.07326
+score(9 stycznia):	0.07326
+score(10 stycznia):	0.07326
+score(15 czerwca):	0.07326
+score(25 czerwca):	0.07326
+score(23 czerwca):	0.07326
+score(4 lipca):	0.07326
+score(11 lipca):	0.07326
+score(26 lipca):	0.07326
+score(27 lipca):	0.07326
+score(1 sierpnia):	0.07326
+score(31 sierpnia):	0.07326
+score(23 sierpnia):	0.07326
+score(21 sierpnia):	0.07326
+score(16 sierpnia):	0.07326
+score(10 września):	0.07326
+score(23 września):	0.07326
+score(4 października):	0.07326
+score(30 listopada):	0.07326
+score(26 listopada):	0.07326
+score(20 grudnia):	0.07326
+score(25 grudnia):	0.07326
+score(5 maja):	0.07326
+score(21 maja):	0.07326
+score(9 kwietnia):	0.07326
+score(9 marca):	0.07326
+score(5 marca):	0.07326
+score(2 lutego):	0.07326
+score(15 lutego):	0.07326
+score(21 stycznia):	0.07326
+score(26 stycznia):	0.07326
+score(1733):	0.07326
+score(III Rzesza):	0.07326
+score(Irak):	0.07326
+score(Paul von Hindenburg):	0.07326
+score(Woodrow Wilson):	0.07326
+score(Lester Pearson):	0.07326
+score(Henryk Jabłoński):	0.07326
+score(Leonid Breżniew):	0.07326
+score(Kurt Waldheim):	0.07326
+score(Freetown):	0.07326
+score(Łódź):	0.07326
+score(Borelioza):	0.0681
+score(Choroba):	0.05495
+score(Choroba Heinego-Medina):	0.05495
+score(Czechosłowacja):	0.05495
+score(Dżuma):	0.05495
+score(Eyvind Johnson):	0.05495
+score(Turcja):	0.05495
+score(Uniwersytet):	0.05495
+score(1904):	0.05495
+score(1927):	0.05495
+score(1932):	0.05495
+score(1934):	0.05495
+score(1966):	0.05495
+score(1994):	0.05495
+score(1995):	0.05495
+score(1999):	0.05495
+score(1865):	0.05495
+score(1866):	0.05495
+score(1872):	0.05495
+score(1884):	0.05495
+score(2000):	0.05495
+score(1876):	0.05495
+score(25 stycznia):	0.05495
+score(4 listopada):	0.05495
+score(14 czerwca):	0.05495
+score(30 czerwca):	0.05495
+score(3 lipca):	0.05495
+score(31 lipca):	0.05495
+score(30 lipca):	0.05495
+score(28 lipca):	0.05495
+score(17 sierpnia):	0.05495
+score(12 sierpnia):	0.05495
+score(3 września):	0.05495
+score(7 września):	0.05495
+score(18 września):	0.05495
+score(9 października):	0.05495
+score(2 października):	0.05495
+score(3 listopada):	0.05495
+score(9 listopada):	0.05495
+score(2 grudnia):	0.05495
+score(27 grudnia):	0.05495
+score(24 grudnia):	0.05495
+score(3 maja):	0.05495
+score(17 maja):	0.05495
+score(28 maja):	0.05495
+score(10 kwietnia):	0.05495
+score(22 kwietnia):	0.05495
+score(20 kwietnia):	0.05495
+score(6 marca):	0.05495
+score(4 marca):	0.05495
+score(24 marca):	0.05495
+score(3 lutego):	0.05495
+score(14 lutego):	0.05495
+score(13 stycznia):	0.05495
+score(20 stycznia):	0.05495
+score(Lek):	0.05495
+score(Wilhelm II Hohenzollern):	0.05495
+score(Nikita Chruszczow):	0.05495
+score(Pekin):	0.05495
+score(John Diefenbaker):	0.05495
+score(Max Planck):	0.05495
+score(Edward Gierek):	0.05495
+score(Życie):	0.05495
+score(Marian Spychalski):	0.05495
+score(Małgorzata II):	0.05495
+score(1949):	0.05495
+score(1996):	0.05495
+score(Gustaw V):	0.05495
+score(Filowirusy):	0.05495
+score(Karol I Habsburg):	0.05495
+score(Róża Luksemburg):	0.05495
+score(Chrystian X):	0.05495
+score(Niepodległość):	0.05495
+score(Ferdynand I Koburg):	0.05495
+score(Kristján Eldjárn):	0.05495
+score(Materiał genetyczny):	0.05495
+score(Hans-Georg Gadamer):	0.05495
+score(Ból głowy):	0.05495
+score(Albert I):	0.05495
+score(Archeologia):	0.03663
+score(Bułgaria):	0.03663
+score(Filozofia):	0.03663
+score(Haakon VII):	0.03663
+score(Nelly Sachs):	0.03663
+score(Psychologia):	0.03663
+score(Powstanie wielkopolskie):	0.03663
+score(Seks):	0.03663
+score(Uniwersytet Warszawski):	0.03663
+score(Włodzimierz Lenin):	0.03663
+score(Ziemia):	0.03663
+score(2001):	0.03663
+score(1915):	0.03663
+score(1942):	0.03663
+score(1998):	0.03663
+score(1992):	0.03663
+score(1863):	0.03663
+score(1867):	0.03663
+score(1868):	0.03663
+score(1873):	0.03663
+score(1874):	0.03663
+score(1875):	0.03663
+score(1897):	0.03663
+score(1879):	0.03663
+score(3 stycznia):	0.03663
+score(3 czerwca):	0.03663
+score(9 czerwca):	0.03663
+score(10 czerwca):	0.03663
+score(11 czerwca):	0.03663
+score(27 czerwca):	0.03663
+score(1 lipca):	0.03663
+score(13 lipca):	0.03663
+score(25 lipca):	0.03663
+score(24 lipca):	0.03663
+score(17 lipca):	0.03663
+score(16 lipca):	0.03663
+score(18 lipca):	0.03663
+score(8 sierpnia):	0.03663
+score(29 sierpnia):	0.03663
+score(25 sierpnia):	0.03663
+score(22 sierpnia):	0.03663
+score(19 sierpnia):	0.03663
+score(2 września):	0.03663
+score(16 września):	0.03663
+score(15 września):	0.03663
+score(13 września):	0.03663
+score(14 września):	0.03663
+score(11 września):	0.03663
+score(29 września):	0.03663
+score(5 października):	0.03663
+score(1 października):	0.03663
+score(18 października):	0.03663
+score(15 października):	0.03663
+score(14 października):	0.03663
+score(24 października):	0.03663
+score(27 października):	0.03663
+score(29 października):	0.03663
+score(18 listopada):	0.03663
+score(23 listopada):	0.03663
+score(11 grudnia):	0.03663
+score(8 grudnia):	0.03663
+score(5 grudnia):	0.03663
+score(23 grudnia):	0.03663
+score(22 grudnia):	0.03663
+score(29 grudnia):	0.03663
+score(30 grudnia):	0.03663
+score(8 maja):	0.03663
+score(13 maja):	0.03663
+score(15 maja):	0.03663
+score(11 maja):	0.03663
+score(26 maja):	0.03663
+score(25 maja):	0.03663
+score(14 kwietnia):	0.03663
+score(11 kwietnia):	0.03663
+score(2 kwietnia):	0.03663
+score(19 kwietnia):	0.03663
+score(17 kwietnia):	0.03663
+score(16 kwietnia):	0.03663
+score(10 marca):	0.03663
+score(7 marca):	0.03663
+score(29 marca):	0.03663
+score(25 marca):	0.03663
+score(18 marca):	0.03663
+score(5 lutego):	0.03663
+score(23 lutego):	0.03663
+score(22 lutego):	0.03663
+score(18 stycznia):	0.03663
+score(17 stycznia):	0.03663
+score(23 stycznia):	0.03663
+score(31 stycznia):	0.03663
+score(Alzacja):	0.03663
+score(Bawaria):	0.03663
+score(Serbia):	0.03663
+score(2004):	0.03663
+score(Państwa centralne):	0.03663
+score(Roman Abraham):	0.03663
+score(Walter Scheel):	0.03663
+score(Ford Motor Company):	0.03663
+score(Michaił Bułhakow):	0.03663
+score(Czarna ospa):	0.03663
+score(Roman Nowak):	0.03663
+score(Aleksander Zawadzki):	0.03663
+score(Biologia):	0.03663
+score(Uniwersytet Jagielloński):	0.03663
+score(Václav Havel):	0.03663
+score(Jędrzej Moraczewski):	0.03663
+score(Austro-Węgry):	0.03663
+score(Broń biologiczna):	0.03663
+score(Helena Boguszewska):	0.03663
+score(Giacomo Puccini):	0.03663
+score(Konstanty Rokossowski):	0.03663
+score(Cholera):	0.03663
+score(Jacques Chirac):	0.03663
+score(Wspólnota Narodów):	0.03663
+score(U Thant):	0.03663
+score(Bolesław Barbacki):	0.03663
+score(Order Orła Białego):	0.03663
+score(Kobieta):	0.03663
+score(Marcel Duchamp):	0.03663
+score(Johannes Stark):	0.03663
+score(Spadochron):	0.03663
+score(Tymczasowy Komitet Rządzący):	0.03663
+score(Harald V):	0.03663
+score(Roman Ingarden):	0.03663
+score(Higiena):	0.03663
+score(Ingmar Bergman):	0.03663
+score(Naczelna Rada Ludowa):	0.03663
+score(Sulfonamidy):	0.03663
+score(Ásgeir Ásgeirsson):	0.03663
+score(Gaudentius Orfali):	0.03663
+score(Aleksander Wat):	0.03663
+score(Gronkowce):	0.03663
+score(Erich von Falkenhayn):	0.03663
+score(Komunistyczna Partia Niemiec):	0.03663
+score(H5N1):	0.03663
+score(Aldo Moro):	0.03663
+score(Giuseppe Saragat):	0.03663
+score(Neuraminidaza):	0.03663
+score(Józef Widajewicz):	0.03663
+score(Alergia):	0.01832
+score(Adolf Dymsza):	0.01832
+score(Adolf Hitler):	0.01832
+score(Astma):	0.01832
+score(Apoptoza):	0.01832
+score(Alexander Fleming):	0.01832
+score(Brazylia):	0.01832
+score(Berlin):	0.01832
+score(Czołg):	0.01832
+score(Dakota Południowa):	0.01832
+score(Dakota Północna):	0.01832
+score(Finlandia):	0.01832
+score(Grudziądz):	0.01832
+score(Hepatologia):	0.01832
+score(Islandia):	0.01832
+score(Ignacy Daszyński):	0.01832
+score(Jezus Chrystus):	0.01832
+score(Jurij Gagarin):	0.01832
+score(Katowice):	0.01832
+score(Leonid Teliga):	0.01832
+score(Lublin):	0.01832
+score(Lekarz chorób zakaźnych):	0.01832
+score(Nagroda Nobla):	0.01832
+score(Ostrów Wielkopolski):	0.01832
+score(Pediatria):	0.01832
+score(Papież):	0.01832
+score(Parlament Europejski):	0.01832
+score(Politologia):	0.01832
+score(Praga):	0.01832
+score(Vicente Aleixandre):	0.01832
+score(Wąglik):	0.01832
+score(Polsko-czechosłowackie konflikty graniczne):	0.01832
+score(Wojna polsko-ukraińska):	0.01832
+score(Zespół nabytego niedoboru odporności):	0.01832
+score(Łotwa):	0.01832
+score(1944):	0.01832
+score(1861):	0.01832
+score(1862):	0.01832
+score(1871):	0.01832
+score(1882):	0.01832
+score(1885):	0.01832
+score(28 grudnia):	0.01832
+score(1881):	0.01832
+score(1880):	0.01832
+score(22 stycznia):	0.01832
+score(27 stycznia):	0.01832
+score(4 stycznia):	0.01832
+score(17 września):	0.01832
+score(1 czerwca):	0.01832
+score(4 czerwca):	0.01832
+score(5 czerwca):	0.01832
+score(6 czerwca):	0.01832
+score(19 czerwca):	0.01832
+score(2 lipca):	0.01832
+score(6 lipca):	0.01832
+score(19 lipca):	0.01832
+score(7 sierpnia):	0.01832
+score(3 sierpnia):	0.01832
+score(30 sierpnia):	0.01832
+score(20 sierpnia):	0.01832
+score(15 sierpnia):	0.01832
+score(8 września):	0.01832
+score(12 września):	0.01832
+score(27 września):	0.01832
+score(26 września):	0.01832
+score(19 września):	0.01832
+score(8 października):	0.01832
+score(19 października):	0.01832
+score(21 października):	0.01832
+score(7 listopada):	0.01832
+score(6 listopada):	0.01832
+score(29 listopada):	0.01832
+score(27 listopada):	0.01832
+score(25 listopada):	0.01832
+score(24 listopada):	0.01832
+score(22 listopada):	0.01832
+score(9 grudnia):	0.01832
+score(19 grudnia):	0.01832
+score(18 grudnia):	0.01832
+score(15 grudnia):	0.01832
+score(21 grudnia):	0.01832
+score(9 maja):	0.01832
+score(20 maja):	0.01832
+score(30 maja):	0.01832
+score(29 maja):	0.01832
+score(27 maja):	0.01832
+score(6 kwietnia):	0.01832
+score(30 kwietnia):	0.01832
+score(29 kwietnia):	0.01832
+score(26 kwietnia):	0.01832
+score(21 kwietnia):	0.01832
+score(15 marca):	0.01832
+score(27 marca):	0.01832
+score(26 marca):	0.01832
+score(28 marca):	0.01832
+score(22 marca):	0.01832
+score(17 marca):	0.01832
+score(6 lutego):	0.01832
+score(7 lutego):	0.01832
+score(8 lutego):	0.01832
+score(9 lutego):	0.01832
+score(27 lutego):	0.01832
+score(26 lutego):	0.01832
+score(20 lutego):	0.01832
+score(19 lutego):	0.01832
+score(12 stycznia):	0.01832
+score(11 stycznia):	0.01832
+score(1730):	0.01832
+score(1580):	0.01832
+score(Lwów):	0.01832
+score(Szczecin):	0.01832
+score(Malezja):	0.01832
+score(Lotaryngia):	0.01832
+score(Daniel Bernoulli):	0.01832
+score(Anton Denikin):	0.01832
+score(Nowa Zelandia):	0.01832
+score(Syrena (samochód)):	0.01832
+score(Tunezja):	0.01832
+score(Gavrilo Princip):	0.01832
+score(Historia sztuki):	0.01832
+score(1113):	0.01832
+score(Saddam Husajn):	0.01832
+score(Kuba):	0.01832
+score(Traktat wersalski):	0.01832
+score(Faszyzm):	0.01832
+score(Politechnika Gdańska):	0.01832
+score(Czołgi I wojny światowej):	0.01832
+score(Benjamin Harrison):	0.01832
+score(Edith Stein):	0.01832
+score(Hohenzollernowie):	0.01832
+score(Wilfrid Laurier):	0.01832
+score(Jean Chrétien):	0.01832
+score(Matka Teresa z Kalkuty):	0.01832
+score(Jimi Hendrix):	0.01832
+score(Florian Znaniecki):	0.01832
+score(Czarnogóra):	0.01832
+score(Janis Joplin):	0.01832
+score(Antanas Smetona):	0.01832
+score(Kiła):	0.01832
+score(Antoine de Saint-Exupéry):	0.01832
+score(Edward Ochab):	0.01832
+score(Belgrad):	0.01832
+score(Gottlieb Daimler):	0.01832
+score(Upton Sinclair):	0.01832
+score(Wilhelm II):	0.01832
+score(Władysław Anders):	0.01832
+score(Prezydenci Poznania):	0.01832
+score(Leon Kruczkowski):	0.01832
+score(Palestyna):	0.01832
+score(Wilno):	0.01832
+score(Wrocław):	0.01832
+score(Dario Fo):	0.01832
+score(Bakterie Gram-dodatnie):	0.01832
+score(Zbrucz):	0.01832
+score(Maryland):	0.01832
+score(Burkina Faso):	0.01832
+score(Bitwa pod Verdun):	0.01832
+score(Wojciech Łukaszewski):	0.01832
+score(Richard Nixon):	0.01832
+score(Ryga):	0.01832
+score(Edmund Hillary):	0.01832
+score(Agnieszka Osiecka):	0.01832
+score(Wspólnota Europejska):	0.01832
+score(Baku):	0.01832
+score(Włodzimierz Cimoszewicz):	0.01832
+score(Jarogniew Drwęski):	0.01832
+score(Wojciech Kętrzyński):	0.01832
+score(Compiègne):	0.01832
+score(Mehmet Ali Ağca):	0.01832
+score(Zatrucie jadem kiełbasianym):	0.01832
+score(Mononukleoza zakaźna):	0.01832
+score(Ospa wietrzna):	0.01832
+score(Wścieklizna):	0.01832
+score(Żyrardów):	0.01832
+score(Kara śmierci):	0.01832
+score(Edward Bernard Raczyński):	0.01832
+score(Karl Arnold):	0.01832
+score(Wirus zapalenia wątroby typu C):	0.01832
+score(Friedrich Ebert):	0.01832
+score(Wirus zapalenia wątroby typu A):	0.01832
+score(Andrzej Małkowski):	0.01832
+score(Elisabeth Kübler-Ross):	0.01832
+score(Bohumil Hrabal):	0.01832
+score(Polska Komisja Likwidacyjna):	0.01832
+score(Georges Pompidou):	0.01832
+score(Rewolucja kulturalna):	0.01832
+score(Maria Dąbrowska):	0.01832
+score(Gustav Heinemann):	0.01832
+score(Aleksander Kakowski):	0.01832
+score(Rząd Jędrzeja Moraczewskiego):	0.01832
+score(Marc Bloch):	0.01832
+score(Oscar Luigi Scalfaro):	0.01832
+score(Eduard Szewardnadze):	0.01832
+score(Nowy Orlean):	0.01832
+score(James Meade):	0.01832
+score(Gustaw Morcinek):	0.01832
+score(Charlie Chaplin):	0.01832
+score(Ignacy Jan Paderewski):	0.01832
+score(Kazimierz Dejmek):	0.01832
+score(Stanisław Taczak):	0.01832
+score(I powstanie śląskie):	0.01832
+score(Henryk Arctowski):	0.01832
+score(Aleksiej Stachanow):	0.01832
+score(Hipokrates z Chios):	0.01832
+score(Beatrycze (królowa Holandii)):	0.01832
+score(Odczyn Biernackiego):	0.01832
+score(Jules Bordet):	0.01832
+score(Archibald Vivian Hill):	0.01832
+score(Yoshihito):	0.01832
+score(Leon Wasilewski):	0.01832
+score(Giorgi Baramidze):	0.01832
+score(Medycyna sądowa):	0.01832
+score(Symon Petlura):	0.01832
+score(Lucien Febvre):	0.01832
+score(Republika Weimarska):	0.01832
+score(Republika Ostrowska):	0.01832
+score(Gerard Labuda):	0.01832
+score(Borys III):	0.01832
+score(Miluza):	0.01832
+score(RTG):	0.01832
+score(Harold Macmillan):	0.01832
+score(Transplantacja):	0.01832
+score(António de Oliveira Salazar):	0.01832
+score(Erich Ludendorff):	0.01832
+score(Save the Children):	0.01832
+score(Bogdan Borusewicz):	0.01832
+score(Przeziębienie):	0.01832
+score(Mayerling):	0.01832
+score(Paul-Henri Spaak):	0.01832
+score(Czechy):	0.01832
+score(Neal Cassady):	0.01832
+score(Ralph Vaughan Williams):	0.01832
+score(Auguste Rodin):	0.01832
+score(Piotr Skrzynecki):	0.01832
+score(Andrew Schally):	0.01832
+score(Julian Przyboś):	0.01832
+score(Liga Narodów):	0.01832
+score(Wiktor Gomulicki):	0.01832
+score(Frederick Sanger):	0.01832
+score(Zamość):	0.01832
+score(Panama):	0.01832
+score(Luksemburg):	0.01832
+score(Aleksander Kwaśniewski):	0.01832
+score(Astma oskrzelowa):	0.01832
+score(Nauka):	0.01832

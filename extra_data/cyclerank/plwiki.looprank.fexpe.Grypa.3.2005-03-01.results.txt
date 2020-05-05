@@ -1,0 +1,20 @@
+score(Grypa):	2.2916
+score(1957):	0.53363
+score(1918):	0.48384
+score(1968):	0.43406
+score(Epidemia):	0.33448
+score(1919):	0.2847
+score(1889):	0.2847
+score(Pandemia):	0.23491
+score(Choroby zakaźne):	0.19915
+score(1900):	0.09957
+score(1958):	0.09957
+score(1970):	0.09957
+score(1977):	0.09957
+score(1891):	0.09957
+score(1978):	0.09957
+score(Choroba):	0.04979
+score(Medycyna):	0.04979
+score(Szczepionka):	0.04979
+score(Wirusy):	0.04979
+score(Borelioza):	0.04979

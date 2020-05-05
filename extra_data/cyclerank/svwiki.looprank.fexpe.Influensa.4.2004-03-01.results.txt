@@ -1,0 +1,7 @@
+score(Influensa):	0.35709
+score(Virus):	0.20344
+score(Epidemi):	0.17197
+score(Infektion):	0.04979
+score(Zoonos):	0.01832
+score(Spanska sjukan):	0.01832
+score(Pandemi):	0.01832

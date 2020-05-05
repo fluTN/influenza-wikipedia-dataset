@@ -1,0 +1,616 @@
+score(Influensa):	43.32624
+score(1957):	21.80841
+score(Virus):	4.05075
+score(1918):	3.37807
+score(1970):	3.27334
+score(1968):	3.26018
+score(1958):	3.23671
+score(2009):	3.21839
+score(Pandemi):	3.19507
+score(2003):	3.00376
+score(1920):	2.85208
+score(Spanska sjukan):	2.45445
+score(Fågelinfluensa):	2.22667
+score(2002):	2.10114
+score(Lunginflammation):	1.86268
+score(H1N1-utbrottet 2009):	1.7325
+score(Svininfluensa):	1.67436
+score(Hjalmar Branting):	1.66156
+score(1892):	1.4103
+score(1889):	1.39199
+score(Influensavirus typ A):	1.34984
+score(Asiaten):	1.34468
+score(Hongkonginfluensan):	1.34468
+score(Epidemi):	1.21363
+score(Inkubationstid):	1.16385
+score(Karl X Gustav):	1.15389
+score(Förkylning):	1.10374
+score(Fåglar):	1.06514
+score(George H.W. Bush):	1.02568
+score(Smittkoppor):	0.97872
+score(Zoonos):	0.73546
+score(Influensavirus typ B):	0.61438
+score(Måndag):	0.5861
+score(Hosta):	0.55231
+score(Polynesien):	0.48936
+score(Aerosol):	0.46589
+score(Katt):	0.37947
+score(Infektion):	0.36115
+score(Streptokocker):	0.36115
+score(Syfilis):	0.34284
+score(Denguefeber):	0.32452
+score(Orthomyxoviridae):	0.31936
+score(Ryska snuvan):	0.31333
+score(8 november):	0.31137
+score(Den nya influensan):	0.30621
+score(3 november):	0.29305
+score(Frossa):	0.28273
+score(23 oktober):	0.27473
+score(Lassafeber):	0.26957
+score(Däggdjur):	0.25642
+score(Bakterier):	0.25642
+score(Hund):	0.25126
+score(6 februari):	0.2381
+score(8 september):	0.2381
+score(24 april):	0.2381
+score(8 juni):	0.2381
+score(Sverige):	0.2381
+score(Marsvin):	0.23294
+score(Feber):	0.23294
+score(Mutation):	0.23294
+score(Gråsparv):	0.23294
+score(Hästinfluensa):	0.22691
+score(Alexander III av Ryssland):	0.21979
+score(USA):	0.21979
+score(Hippokrates):	0.21463
+score(Pneumokocker):	0.21463
+score(Tuberkulos):	0.20147
+score(Pest):	0.20147
+score(20 januari):	0.18316
+score(1989):	0.18316
+score(Mary av Teck):	0.18316
+score(Gregorianska kalendern):	0.16484
+score(24 februari):	0.16484
+score(10 mars):	0.16484
+score(25 januari):	0.16484
+score(24 oktober):	0.16484
+score(27 oktober):	0.16484
+score(Isabella av Portugal):	0.16484
+score(14 mars):	0.14653
+score(1 maj):	0.14653
+score(12 oktober):	0.14653
+score(25 oktober):	0.14653
+score(2006):	0.14653
+score(Polio):	0.14653
+score(Sälar):	0.14653
+score(Q-feber):	0.14137
+score(21 december):	0.12821
+score(23 december):	0.12821
+score(Första världskriget):	0.12821
+score(16 mars):	0.12821
+score(4 oktober):	0.12821
+score(1 mars):	0.12821
+score(4 mars):	0.12821
+score(9 mars):	0.12821
+score(20 mars):	0.12821
+score(12 januari):	0.12821
+score(30 januari):	0.12821
+score(4 februari):	0.12821
+score(14 februari):	0.12821
+score(29 mars):	0.12821
+score(2 oktober):	0.12821
+score(26 september):	0.12821
+score(10 oktober):	0.12821
+score(8 april):	0.12821
+score(12 juni):	0.12821
+score(17 juli):	0.12821
+score(9 oktober):	0.12821
+score(14 november):	0.12821
+score(24 november):	0.12821
+score(Sveriges regering):	0.12821
+score(H3N2):	0.12821
+score(Normalår som börjar en tisdag):	0.12821
+score(8 juli):	0.10989
+score(12 mars):	0.10989
+score(29 november):	0.10989
+score(6 december):	0.10989
+score(1997):	0.10989
+score(Socialdemokraterna (Sverige)):	0.10989
+score(28 februari):	0.10989
+score(3 mars):	0.10989
+score(8 mars):	0.10989
+score(10 januari):	0.10989
+score(13 januari):	0.10989
+score(29 januari):	0.10989
+score(1937):	0.10989
+score(29 maj):	0.10989
+score(1917):	0.10989
+score(Valar):	0.10989
+score(22 april):	0.10989
+score(1 oktober):	0.10989
+score(1 november):	0.10989
+score(25 mars):	0.10989
+score(1905):	0.10989
+score(26 april):	0.10989
+score(25 april):	0.10989
+score(27 april):	0.10989
+score(17 november):	0.10989
+score(21 november):	0.10989
+score(23 juli):	0.10989
+score(18 oktober):	0.10989
+score(20 september):	0.10989
+score(25 september):	0.10989
+score(27 september):	0.10989
+score(10 november):	0.10989
+score(Vaccination):	0.10989
+score(Maria Mutola):	0.10989
+score(Egon Schiele):	0.10473
+score(28 januari):	0.09158
+score(1 december):	0.09158
+score(11 december):	0.09158
+score(15 december):	0.09158
+score(16 december):	0.09158
+score(17 december):	0.09158
+score(20 december):	0.09158
+score(22 december):	0.09158
+score(25 december):	0.09158
+score(7 november):	0.09158
+score(31 december):	0.09158
+score(7 januari):	0.09158
+score(13 februari):	0.09158
+score(1996):	0.09158
+score(Protein):	0.09158
+score(11 mars):	0.09158
+score(18 mars):	0.09158
+score(19 mars):	0.09158
+score(5 oktober):	0.09158
+score(18 juni):	0.09158
+score(5 maj):	0.09158
+score(16 januari):	0.09158
+score(27 januari):	0.09158
+score(1 februari):	0.09158
+score(16 februari):	0.09158
+score(19 augusti):	0.09158
+score(1 juli):	0.09158
+score(30 oktober):	0.09158
+score(24 mars):	0.09158
+score(20 oktober):	0.09158
+score(23 maj):	0.09158
+score(26 mars):	0.09158
+score(7 augusti):	0.09158
+score(31 mars):	0.09158
+score(11 augusti):	0.09158
+score(15 oktober):	0.09158
+score(4 april):	0.09158
+score(10 april):	0.09158
+score(7 oktober):	0.09158
+score(16 juli):	0.09158
+score(11 maj):	0.09158
+score(12 maj):	0.09158
+score(22 maj):	0.09158
+score(26 maj):	0.09158
+score(4 juni):	0.09158
+score(1 september):	0.09158
+score(2 juli):	0.09158
+score(21 september):	0.09158
+score(15 juli):	0.09158
+score(3 augusti):	0.09158
+score(14 augusti):	0.09158
+score(12 september):	0.09158
+score(16 november):	0.09158
+score(25 november):	0.09158
+score(Antigen):	0.09158
+score(Huvudvärk):	0.09158
+score(Original Dixieland Jazz Band):	0.09158
+score(Säsongsinfluensa):	0.09158
+score(Feberfrossa):	0.08642
+score(Nysning):	0.08642
+score(Europa):	0.07326
+score(19 juni):	0.07326
+score(27 november):	0.07326
+score(30 november):	0.07326
+score(24 december):	0.07326
+score(10 december):	0.07326
+score(27 december):	0.07326
+score(3 februari):	0.07326
+score(6 januari):	0.07326
+score(Gustaf V):	0.07326
+score(Jamaica):	0.07326
+score(Kamerun):	0.07326
+score(22 februari):	0.07326
+score(6 november):	0.07326
+score(1991):	0.07326
+score(1992):	0.07326
+score(27 februari):	0.07326
+score(5 mars):	0.07326
+score(9 juli):	0.07326
+score(27 augusti):	0.07326
+score(17 mars):	0.07326
+score(DNA):	0.07326
+score(21 mars):	0.07326
+score(11 januari):	0.07326
+score(14 januari):	0.07326
+score(17 januari):	0.07326
+score(24 januari):	0.07326
+score(5 februari):	0.07326
+score(9 februari):	0.07326
+score(20 februari):	0.07326
+score(28 mars):	0.07326
+score(1963):	0.07326
+score(23 november):	0.07326
+score(20 augusti):	0.07326
+score(18 september):	0.07326
+score(1961):	0.07326
+score(14 maj):	0.07326
+score(11 oktober):	0.07326
+score(16 oktober):	0.07326
+score(7 april):	0.07326
+score(9 april):	0.07326
+score(29 april):	0.07326
+score(18 april):	0.07326
+score(16 april):	0.07326
+score(13 juli):	0.07326
+score(6 augusti):	0.07326
+score(18 november):	0.07326
+score(12 augusti):	0.07326
+score(4 maj):	0.07326
+score(29 september):	0.07326
+score(Moderaterna):	0.07326
+score(21 maj):	0.07326
+score(24 maj):	0.07326
+score(28 maj):	0.07326
+score(3 juli):	0.07326
+score(5 juni):	0.07326
+score(4 augusti):	0.07326
+score(9 augusti):	0.07326
+score(18 augusti):	0.07326
+score(23 augusti):	0.07326
+score(22 oktober):	0.07326
+score(4 november):	0.07326
+score(5 november):	0.07326
+score(19 november):	0.07326
+score(2010):	0.07326
+score(Anorexia nervosa):	0.07326
+score(Andfåglar):	0.07326
+score(Halsfluss):	0.07326
+score(21 oktober):	0.07326
+score(Cell):	0.05495
+score(Malmö):	0.05495
+score(5 april):	0.05495
+score(6 juni):	0.05495
+score(28 oktober):	0.05495
+score(Januari):	0.05495
+score(6 juli):	0.05495
+score(13 december):	0.05495
+score(9 december):	0.05495
+score(28 december):	0.05495
+score(George W. Bush):	0.05495
+score(11 november):	0.05495
+score(25 februari):	0.05495
+score(24 september):	0.05495
+score(10 februari):	0.05495
+score(7 mars):	0.05495
+score(23 april):	0.05495
+score(1901):	0.05495
+score(12 april):	0.05495
+score(3 april):	0.05495
+score(31 augusti):	0.05495
+score(14 april):	0.05495
+score(2 maj):	0.05495
+score(22 juni):	0.05495
+score(26 juli):	0.05495
+score(10 maj):	0.05495
+score(19 maj):	0.05495
+score(10 juli):	0.05495
+score(25 juli):	0.05495
+score(4 september):	0.05495
+score(26 juni):	0.05495
+score(18 juli):	0.05495
+score(21 juli):	0.05495
+score(24 augusti):	0.05495
+score(26 augusti):	0.05495
+score(6 september):	0.05495
+score(22 september):	0.05495
+score(30 september):	0.05495
+score(13 november):	0.05495
+score(Smitta):	0.05495
+score(Nobelpriset i litteratur):	0.05495
+score(Cancer):	0.05495
+score(Immunförsvar):	0.05495
+score(Lungcancer):	0.05495
+score(Rabies):	0.05495
+score(Domesticering):	0.05495
+score(Legionärssjuka):	0.05495
+score(Mässling):	0.05495
+score(Hästsjukdomar):	0.05495
+score(Meningokocker):	0.05495
+score(Marburgvirus):	0.05495
+score(Bornasjuka):	0.05495
+score(Fiskar):	0.03663
+score(20 juli):	0.03663
+score(Thor Heyerdahl):	0.03663
+score(September):	0.03663
+score(Albanien):	0.03663
+score(Indonesien):	0.03663
+score(Häst):	0.03663
+score(Elvis Presley):	0.03663
+score(TBE):	0.03663
+score(5 januari):	0.03663
+score(8 januari):	0.03663
+score(29 december):	0.03663
+score(1998):	0.03663
+score(Gustaf VI Adolf):	0.03663
+score(Ingemar Johansson):	0.03663
+score(Vänsterpartiet):	0.03663
+score(Victoria av Baden):	0.03663
+score(Samoa):	0.03663
+score(Mexico City):	0.03663
+score(1953):	0.03663
+score(1978):	0.03663
+score(Västtyskland):	0.03663
+score(2000-talet (decennium)):	0.03663
+score(1900-talet):	0.03663
+score(1990):	0.03663
+score(1972):	0.03663
+score(1982):	0.03663
+score(1984):	0.03663
+score(1988):	0.03663
+score(7 juli):	0.03663
+score(Salmonella):	0.03663
+score(1912):	0.03663
+score(23 januari):	0.03663
+score(12 februari):	0.03663
+score(Stig Wennerström):	0.03663
+score(1913):	0.03663
+score(17 juni):	0.03663
+score(1925):	0.03663
+score(1910):	0.03663
+score(1962):	0.03663
+score(Sveriges Radio):	0.03663
+score(1903):	0.03663
+score(1919):	0.03663
+score(6 april):	0.03663
+score(2 april):	0.03663
+score(Michael Jackson):	0.03663
+score(1900):	0.03663
+score(19 september):	0.03663
+score(21 augusti):	0.03663
+score(2 september):	0.03663
+score(1897):	0.03663
+score(1878):	0.03663
+score(Genetik):	0.03663
+score(2007):	0.03663
+score(Temperatur):	0.03663
+score(Sexuellt överförbar infektion):	0.03663
+score(Lista över virus):	0.03663
+score(Nobels fredspris):	0.03663
+score(Franska Polynesien):	0.03663
+score(Metabolism):	0.03663
+score(Vattkoppor):	0.03663
+score(Antikropp):	0.03663
+score(Röda Korset):	0.03663
+score(Immunologi):	0.03663
+score(Dinosaurier):	0.03663
+score(Olympiska vinterspelen 1960):	0.03663
+score(Hår):	0.03663
+score(Mikroorganism):	0.03663
+score(Bob Hope):	0.03663
+score(Gula febern):	0.03663
+score(Blodförgiftning):	0.03663
+score(Öroninflammation):	0.03663
+score(Antibiotikaresistens):	0.03663
+score(Hjärninflammation):	0.03663
+score(Röda hund):	0.03663
+score(H1N1):	0.03663
+score(Strom Thurmond):	0.03663
+score(Adenovirus):	0.03663
+score(Infektionssjukdom):	0.03663
+score(Sandmyggefeber):	0.03663
+score(Erlichia):	0.03663
+score(Rhinovirus):	0.03663
+score(RSV (virus)):	0.03663
+score(H1N1-utbrottet i Mexiko 2009):	0.03663
+score(Presidentvalet i Ukraina 2010):	0.03663
+score(Normalår som börjar en torsdag):	0.03663
+score(Normalår som börjar en onsdag):	0.03663
+score(AIK):	0.01832
+score(Idisslare):	0.01832
+score(Organism):	0.01832
+score(Östersjön):	0.01832
+score(November):	0.01832
+score(Chile):	0.01832
+score(Hongkong):	0.01832
+score(Tättingar):	0.01832
+score(Europeiska unionen):	0.01832
+score(Igelkott):	0.01832
+score(Astrid Lindgren):	0.01832
+score(Gunnar Ekelöf):	0.01832
+score(Utrikesminister):	0.01832
+score(Nils Edén):	0.01832
+score(Anna Lindh):	0.01832
+score(Kronprinsessan Victoria):	0.01832
+score(Winston Churchill):	0.01832
+score(Buckingham Palace):	0.01832
+score(Nordkorea):	0.01832
+score(Colin Powell):	0.01832
+score(19 februari):	0.01832
+score(Massachusetts):	0.01832
+score(Saddam Hussein):	0.01832
+score(Olympiska spelen):	0.01832
+score(Stilla havet):	0.01832
+score(1950-talet):	0.01832
+score(1914):	0.01832
+score(Stockholms tunnelbana):	0.01832
+score(Schack):	0.01832
+score(Margaret Thatcher):	0.01832
+score(Digerdöden):	0.01832
+score(1891):	0.01832
+score(1921):	0.01832
+score(John F. Kennedy):	0.01832
+score(Richard Nixon):	0.01832
+score(Gerald Ford):	0.01832
+score(1908):	0.01832
+score(10 augusti):	0.01832
+score(1860):	0.01832
+score(Centerpartiet):	0.01832
+score(Irakkriget):	0.01832
+score(29 juli):	0.01832
+score(1915):	0.01832
+score(1898):	0.01832
+score(1923):	0.01832
+score(Knubbsäl):	0.01832
+score(1904):	0.01832
+score(Mikronesien):	0.01832
+score(Willy Brandt):	0.01832
+score(Molière):	0.01832
+score(Molekylärbiologi):	0.01832
+score(Duvor):	0.01832
+score(Agatha Christie):	0.01832
+score(Rockmusik):	0.01832
+score(Nelson Mandela):	0.01832
+score(Arnold Schwarzenegger):	0.01832
+score(Läkemedelsverket):	0.01832
+score(Lilla Bält):	0.01832
+score(Motorväg):	0.01832
+score(Martin Luther King):	0.01832
+score(Elizabeth II):	0.01832
+score(Amerikanska Samoa):	0.01832
+score(Samoaöarna):	0.01832
+score(Sällskapsdjur):	0.01832
+score(Gonorré):	0.01832
+score(Veikko Hakulinen):	0.01832
+score(Nikolaj II av Ryssland):	0.01832
+score(Påskön):	0.01832
+score(Vinterkräksjuka):	0.01832
+score(Teflon):	0.01832
+score(Arbeiderpartiet):	0.01832
+score(Prostitution):	0.01832
+score(Nikita Chrusjtjov):	0.01832
+score(Lars Ohly):	0.01832
+score(Social-Demokraten):	0.01832
+score(Melanesien):	0.01832
+score(Karl I av Österrike):	0.01832
+score(Kim Dae-jung):	0.01832
+score(USA:s president):	0.01832
+score(Jacqueline Kennedy Onassis):	0.01832
+score(Keith Haring):	0.01832
+score(Helmut Schmidt):	0.01832
+score(Erich Ludendorff):	0.01832
+score(Det sjunde inseglet):	0.01832
+score(Parasitism):	0.01832
+score(Klimatförändring):	0.01832
+score(Påssjuka):	0.01832
+score(Fläcktyfus):	0.01832
+score(Christer Fuglesang):	0.01832
+score(Plankton):	0.01832
+score(Sputnik 1):	0.01832
+score(Rune Elmqvist):	0.01832
+score(T-Centralen):	0.01832
+score(Tabu):	0.01832
+score(Robert Palmer):	0.01832
+score(CBRN-krigföring):	0.01832
+score(Humoralpatologi):	0.01832
+score(Haile Selassie):	0.01832
+score(Nukleinsyra):	0.01832
+score(Eskilstuna):	0.01832
+score(Ungernrevolten):	0.01832
+score(Lista över berömda hundar):	0.01832
+score(Michael Bates):	0.01832
+score(Flyttfågel):	0.01832
+score(Guillaume Apollinaire):	0.01832
+score(Ålandsfrågan):	0.01832
+score(Dennis Brown):	0.01832
+score(Smittämne):	0.01832
+score(Zoran Đinđić):	0.01832
+score(Grönlandssäl):	0.01832
+score(Les Paul):	0.01832
+score(Rita Hayworth):	0.01832
+score(Lepra):	0.01832
+score(Gunnar Svensson):	0.01832
+score(Mul- och klövsjuka):	0.01832
+score(Karl-Magnus Thulstrup):	0.01832
+score(Östersund):	0.01832
+score(Molly Ringwald):	0.01832
+score(Finkar):	0.01832
+score(Ofra Haza):	0.01832
+score(Klamydiainfektion):	0.01832
+score(Abessinier):	0.01832
+score(Ulf Schmidt):	0.01832
+score(Edward Jenner):	0.01832
+score(Mink):	0.01832
+score(Rod Steiger):	0.01832
+score(Nick LaRocca):	0.01832
+score(Line Islands):	0.01832
+score(Nässprej):	0.01832
+score(Sparvfinkar):	0.01832
+score(Olive Thomas):	0.01832
+score(Sveriges TV-historia):	0.01832
+score(Pharmacia):	0.01832
+score(Moderkaka):	0.01832
+score(Ebolavirus):	0.01832
+score(María Capovilla):	0.01832
+score(Andrakammarvalet i Sverige 1921):	0.01832
+score(Blodprov):	0.01832
+score(Bronkit):	0.01832
+score(Endemi):	0.01832
+score(Kikhosta):	0.01832
+score(John Updike):	0.01832
+score(Inbördeskriget i Sri Lanka):	0.01832
+score(Ringmärkning):	0.01832
+score(Trivialnamn):	0.01832
+score(Michael Madsen):	0.01832
+score(Barack Obama):	0.01832
+score(Djurgeografisk region):	0.01832
+score(Regeringen Branting I):	0.01832
+score(Sveriges fågelfauna):	0.01832
+score(Andrakammarvalet i Sverige 1920):	0.01832
+score(Lars Onsager):	0.01832
+score(Hyraxar):	0.01832
+score(Helge Wahlgren):	0.01832
+score(Calicivirus):	0.01832
+score(Oceaniska regionen):	0.01832
+score(USA:s försvarsminister):	0.01832
+score(Léon Bourgeois):	0.01832
+score(C. Douglas Dillon):	0.01832
+score(George M. Humphrey):	0.01832
+score(DNA-virus):	0.01832
+score(Pestens tid (TV-serie)):	0.01832
+score(Poxvirus):	0.01832
+score(Hjärtmuskelinflammation):	0.01832
+score(Augusto Genina):	0.01832
+score(Ögoninflammation):	0.01832
+score(Edwin L. Mechem):	0.01832
+score(William Allen Sturge):	0.01832
+score(Flavivirus):	0.01832
+score(HTLV):	0.01832
+score(Pälsdjursallergi):	0.01832
+score(Félix Gaillard):	0.01832
+score(Kokoppor):	0.01832
+score(Nästäppa):	0.01832
+score(Knut Petersson):	0.01832
+score(Sid McMath):	0.01832
+score(Migration (biologi)):	0.01832
+score(Coronavirus):	0.01832
+score(Metapneumovirus):	0.01832
+score(Hundsjukdomar):	0.01832
+score(James M. Cox):	0.01832
+score(Skottdramat vid Kent State University):	0.01832
+score(Edwin C. Johnson):	0.01832
+score(Kamato Hongo):	0.01832
+score(Millvina Dean):	0.01832
+score(Introducerad art):	0.01832
+score(Erkki Laine):	0.01832
+score(Influensa A-virus):	0.01832
+score(Herman Talmadge):	0.01832
+score(Sputum):	0.01832
+score(Picornavirus):	0.01832
+score(Prentiss M. Brown):	0.01832
+score(Skottår som börjar en onsdag):	0.01832
+score(Skottår som börjar en torsdag):	0.01832
+score(Normalår som börjar en måndag):	0.01832
+score(Normalår som börjar en söndag):	0.01832
+score(Skottår som börjar en fredag):	0.01832
+score(Skottår som börjar en måndag):	0.01832
+score(Husligt Arbejderforbund):	0.01832
+score(Kryptosporidios):	0.01832
+score(Relationer mellan Sverige och USA):	0.01832

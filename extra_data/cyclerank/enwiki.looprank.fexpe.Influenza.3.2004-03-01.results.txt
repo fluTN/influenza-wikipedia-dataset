@@ -1,0 +1,31 @@
+score(Influenza):	3.54398
+score(Pandemic):	0.53363
+score(1918):	0.53363
+score(World War I):	0.53363
+score(List of infectious diseases):	0.48384
+score(Disease):	0.43406
+score(1919):	0.29872
+score(Epidemic):	0.2847
+score(Common cold):	0.2847
+score(Antigenic shift):	0.23491
+score(20th century):	0.19915
+score(Severe acute respiratory syndrome):	0.19915
+score(Virus):	0.19915
+score(Bird):	0.18512
+score(Pneumonia):	0.14936
+score(United States):	0.14936
+score(Bacteria):	0.14936
+score(Astrology):	0.13534
+score(1910s):	0.09957
+score(Aftermath of World War I):	0.09957
+score(Aspirin):	0.04979
+score(Mammal):	0.04979
+score(Asthma):	0.04979
+score(Multiple sclerosis):	0.04979
+score(Respiratory system):	0.04979
+score(Coccidioidomycosis):	0.04979
+score(Bronchiole):	0.04979
+score(1919 in sports):	0.04979
+score(Herpes simplex virus):	0.04979
+score(English language):	0.04979
+score(Rabies):	0.04979

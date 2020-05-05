@@ -1,0 +1,2590 @@
+score(Grippe):	306.71783
+score(Australie):	34.39547
+score(Virus):	27.59159
+score(Maladie infectieuse):	18.37744
+score(Grippe aviaire):	17.57439
+score(Influenzavirus A sous-type H5N1):	16.95449
+score(Épidémie):	14.5438
+score(Vaccination):	13.35277
+score(Risque pandémique lié à la grippe aviaire):	12.79865
+score(Syndrome d'immunodéficience acquise):	12.59419
+score(Hygiène):	10.705
+score(Grippe A (H1N1) de 2009):	9.5751
+score(Prévention):	9.2787
+score(17 janvier):	9.03012
+score(France):	8.84929
+score(Bactérie):	8.83665
+score(Acide ribonucléique):	8.81797
+score(États-Unis):	8.64782
+score(Poliomyélite):	8.36844
+score(Grippe de 1918):	8.13281
+score(Influenzavirus A):	7.8088
+score(Virus à ARN):	7.61198
+score(Amérindiens):	7.55404
+score(Myxovirus influenzae):	6.84839
+score(Organisation mondiale de la santé):	6.80593
+score(Plan de crise pour une pandémie):	6.37967
+score(Institut Pasteur):	6.36403
+score(Oseltamivir):	6.28293
+score(Acide acétylsalicylique):	6.23547
+score(Shoah):	5.81405
+score(1743):	5.5516
+score(Micro-organisme):	5.52152
+score(Antibiotique):	5.48205
+score(Grippe porcine):	5.42442
+score(Comportements-barrière):	5.3122
+score(Rhume):	5.23327
+score(Dengue):	4.85096
+score(Maladie):	4.83533
+score(Grippe féline):	4.83032
+score(Congo belge):	4.82269
+score(1588):	4.81701
+score(1944):	4.65501
+score(Neuraminidase):	4.63452
+score(Vitamine C):	4.41887
+score(Oiseau):	4.34364
+score(Première Guerre mondiale):	4.33049
+score(Immunologie):	4.30985
+score(Paracétamol):	4.15533
+score(Hippocrate):	4.1493
+score(Interféron):	4.14181
+score(Hémagglutinine):	4.10053
+score(Hygiène des mains):	4.08454
+score(1933):	4.03228
+score(1981):	3.98249
+score(Orthomyxoviridae):	3.95117
+score(1918):	3.90123
+score(1919):	3.8646
+score(1957):	3.83596
+score(Georges Pompidou):	3.76786
+score(Europe):	3.65797
+score(1997):	3.65281
+score(Influenzavirus A sous-type H3N2):	3.6478
+score(Frank Macfarlane Burnet):	3.49277
+score(Grippe canine):	3.44865
+score(1968):	3.30997
+score(1931):	3.28134
+score(Choléra):	3.27618
+score(1976):	3.23671
+score(Hépatite A):	3.20575
+score(Royaume-Uni):	3.20008
+score(1935):	3.11366
+score(1977):	3.07703
+score(Gastro-entérite):	3.07238
+score(Asthénie):	3.03488
+score(Homo sapiens):	2.90187
+score(Antiviral):	2.80796
+score(Typhus):	2.78681
+score(Guadeloupe):	2.77882
+score(Réseau Sentinelles):	2.77562
+score(Pandémie de la grippe de 1918):	2.77133
+score(Furet):	2.77046
+score(Haemophilus influenzae):	2.76814
+score(Infection nosocomiale):	2.75818
+score(Afrique):	2.70555
+score(Éternuement):	2.66341
+score(Fomite):	2.66144
+score(Influenzavirus A sous-type H1N1):	2.63796
+score(Acide sialique):	2.52488
+score(Influenzavirus A sous-type H2N2):	2.51456
+score(Syndrome de Reye):	2.3572
+score(Histoire des épizooties de grippe aviaire):	2.33692
+score(Anticorps):	2.32892
+score(Syndrome grippal):	2.29709
+score(Migration des oiseaux):	2.2843
+score(1830):	2.24766
+score(Tique):	2.09598
+score(Grippe équine):	1.99888
+score(Influenza):	1.93165
+score(Peste noire):	1.93114
+score(Santé publique):	1.92598
+score(Douleur):	1.85272
+score(Porc):	1.84472
+score(Cellule (biologie)):	1.83956
+score(Myocardite):	1.82924
+score(Grippe de Hong Kong):	1.81573
+score(Gallus gallus domesticus):	1.80293
+score(Rotavirus):	1.78977
+score(Mucus):	1.75082
+score(Recombinaison génétique):	1.74798
+score(Rome):	1.72167
+score(Cetacea):	1.68272
+score(Grandes découvertes):	1.66672
+score(Streptocoque):	1.6644
+score(Mammifère):	1.6564
+score(1833):	1.63009
+score(Conquistador):	1.63009
+score(Génome):	1.61977
+score(Fièvre typhoïde):	1.61461
+score(Froid):	1.60662
+score(Maladie virale):	1.59114
+score(Contagion):	1.55967
+score(Années 1950):	1.54651
+score(Influenzavirus B):	1.53103
+score(Maladie transmissible):	1.50472
+score(Saturnisme):	1.50188
+score(Diphtérie):	1.46809
+score(Masque chirurgical):	1.46489
+score(Mononucléose infectieuse):	1.44178
+score(Épidémiologie):	1.39199
+score(Amantadine):	1.39163
+score(Amoxicilline):	1.38966
+score(Paludisme):	1.37367
+score(Grippe saisonnière):	1.37135
+score(Panzootie):	1.32156
+score(United States Army):	1.30041
+score(Cytokine):	1.28493
+score(Asie):	1.28209
+score(Zoonose):	1.26378
+score(Nausée):	1.26059
+score(Amérindiens aux États-Unis):	1.24546
+score(Classification des virus):	1.22199
+score(Paris):	1.20883
+score(Hémorragie):	1.19851
+score(Borrelia):	1.19851
+score(Hawaïen):	1.18536
+score(Maladie de Newcastle):	1.16188
+score(Jonas Salk):	1.14873
+score(Désinfectant):	1.14357
+score(Commerce triangulaire):	1.13557
+score(Leptospirose):	1.13041
+score(Liste de maladies):	1.11209
+score(Chine):	1.09894
+score(Lac de Constance):	1.09894
+score(Pétéchie):	1.0703
+score(Virus de la mosaïque du tabac):	1.06514
+score(Octobre 2005):	1.05715
+score(Microscopie électronique en transmission):	1.05112
+score(Otite moyenne aiguë):	1.04683
+score(New Jersey):	1.04399
+score(Jacques Monod):	1.03883
+score(Vomissement):	1.03367
+score(2006):	1.02568
+score(Schizophrénie):	1.02568
+score(Médecine):	1.00736
+score(Méningite):	1.00736
+score(Espagne):	1.00736
+score(Surinfection):	0.99704
+score(Cancer):	0.98904
+score(Santé):	0.98904
+score(Grippe asiatique):	0.97553
+score(Sibérie):	0.97073
+score(Fièvre):	0.96557
+score(Chili):	0.95241
+score(Rainier III):	0.95241
+score(Génome du virus de la grippe):	0.94493
+score(Brésil):	0.9341
+score(1580):	0.91578
+score(Pharyngite):	0.90546
+score(Éléments d'épidémiologie concernant la grippe):	0.88715
+score(Pandémie):	0.87399
+score(Pneumopathie):	0.87399
+score(Tableau clinique):	0.86883
+score(Sang):	0.86084
+score(Acide désoxyribonucléique):	0.86084
+score(Maladie émergente):	0.86084
+score(Martinique):	0.86084
+score(Tests médicaux rapides):	0.85052
+score(1914):	0.8242
+score(Hépatite C):	0.8242
+score(Courbature):	0.80872
+score(1945):	0.80589
+score(Peste):	0.80589
+score(Capside):	0.80073
+score(2004):	0.76926
+score(Hong Kong):	0.76926
+score(Enfant prématuré):	0.7641
+score(Lac Qinghai):	0.75894
+score(Virus réassorti):	0.74862
+score(1733):	0.74578
+score(ARN polymérase):	0.74062
+score(Céphalée):	0.73263
+score(Borréliose):	0.72747
+score(Hépatite virale):	0.71431
+score(Wendell Meredith Stanley):	0.70915
+score(Portugal):	0.69599
+score(Varicelle):	0.69599
+score(Échange colombien):	0.67768
+score(Influenzavirus C):	0.66736
+score(18 mars):	0.65936
+score(Détergent):	0.6542
+score(Texas):	0.64105
+score(Maryland):	0.64105
+score(Chat):	0.64105
+score(Zanamivir):	0.61241
+score(Protéine):	0.60442
+score(Épizootie):	0.60442
+score(Diarrhée):	0.60442
+score(Inhibiteur de la neuraminidase):	0.5941
+score(Système immunitaire):	0.5861
+score(23 janvier):	0.5861
+score(Prophylaxie):	0.5861
+score(Japon):	0.56778
+score(Muscle):	0.56262
+score(Antalgique):	0.56262
+score(Afrique du Sud):	0.54947
+score(Belgique):	0.54947
+score(Mexique):	0.54947
+score(New York):	0.54947
+score(Sénégal):	0.54947
+score(28 mai):	0.54947
+score(Chasse):	0.54947
+score(Rougeole):	0.54947
+score(Intoxication alimentaire):	0.54947
+score(Québec):	0.54947
+score(Éviction scolaire):	0.54431
+score(Écoépidémiologique rétrospective de la grippe aviaire):	0.54431
+score(Réservoir (épidémiologie)):	0.54431
+score(25 octobre):	0.53115
+score(Épithélium):	0.53115
+score(Volaille):	0.52599
+score(Otorragie):	0.52599
+score(Masque de protection FFP):	0.52083
+score(Russie):	0.51284
+score(Amérique):	0.51284
+score(Allergie):	0.51284
+score(Arenaviridae):	0.50768
+score(Prix Nobel de physiologie ou médecine):	0.49452
+score(Inflammation):	0.49452
+score(Peste bubonique):	0.48936
+score(Seconde Guerre mondiale):	0.47621
+score(Allemagne):	0.47621
+score(Scott Joplin):	0.45789
+score(Révolution néolithique):	0.45789
+score(Aide médicale urgente):	0.45273
+score(Nouvelle-Zélande):	0.43958
+score(Virus de l'immunodéficience humaine):	0.43958
+score(2 avril):	0.43958
+score(Enzyme):	0.43958
+score(1350):	0.43958
+score(Rhabdomyolyse):	0.43958
+score(Virologie):	0.43958
+score(Taux de mortalité):	0.43958
+score(Chien):	0.43958
+score(Angine):	0.43958
+score(Légionellose):	0.43442
+score(Pologne):	0.42126
+score(1347):	0.42126
+score(Variole):	0.42126
+score(Allen Dulles):	0.42126
+score(Agriculture au Brésil):	0.42126
+score(1998):	0.40294
+score(23 mars):	0.40294
+score(2010):	0.40294
+score(Tétanos):	0.40294
+score(Étiologie):	0.40294
+score(Immunité humaine):	0.40294
+score(Qinghai):	0.39778
+score(Virion):	0.39778
+score(Pandémie de grippe):	0.39778
+score(Indonésie):	0.38463
+score(1982):	0.38463
+score(Tite-Live):	0.38463
+score(Jules Dassin):	0.38463
+score(Histoire de l'Australie):	0.38463
+score(Colonisation européenne des Amériques):	0.38463
+score(Norbert Gualde):	0.37947
+score(Virus de la grippe A):	0.37947
+score(Années 1530):	0.36631
+score(Enfant):	0.36631
+score(2005):	0.36631
+score(Staphylocoque doré):	0.36631
+score(Mutation (génétique)):	0.36631
+score(Chronologie des vaccins):	0.36115
+score(Virus de la grippe):	0.36115
+score(Glissement antigénique):	0.36115
+score(Domestication):	0.348
+score(Microbiologie):	0.348
+score(Décubitus):	0.348
+score(Diagnostic):	0.348
+score(Contage (médecine)):	0.34284
+score(Henipavirus):	0.34284
+score(Patrick Laidlaw):	0.33681
+score(Mort):	0.32968
+score(Maladie de Lyme):	0.32968
+score(Septembre 2005):	0.32968
+score(Badiane chinoise):	0.32452
+score(H1N1):	0.32452
+score(Moyen Âge):	0.31137
+score(17 septembre):	0.31137
+score(Acide aminé):	0.31137
+score(Température):	0.31137
+score(Hépatite B):	0.31137
+score(Antipyrétique):	0.30621
+score(Pseudovirion):	0.30621
+score(Grippe A (H1N1)):	0.30621
+score(Rimantadine):	0.30105
+score(1948):	0.29305
+score(1996):	0.29305
+score(14 juillet):	0.29305
+score(Cuivre):	0.29305
+score(Démographie de la France):	0.29305
+score(Résistance aux antibiotiques):	0.29305
+score(Oreillons):	0.29305
+score(Charles Mérieux):	0.29305
+score(Canada):	0.29305
+score(Dans la dèche à Paris et à Londres):	0.29305
+score(H5N1 faiblement pathogène):	0.28789
+score(Grippe A-H1N1):	0.28789
+score(Nucléoprotéine):	0.28789
+score(1958):	0.27473
+score(1911):	0.27473
+score(18 janvier):	0.27473
+score(14 mai):	0.27473
+score(13 avril):	0.27473
+score(23 juin):	0.27473
+score(Londres):	0.27473
+score(Louis Pasteur):	0.27473
+score(Genre (biologie)):	0.27473
+score(Cheval):	0.27473
+score(Antigène):	0.27473
+score(2009):	0.27473
+score(Dodge):	0.27473
+score(Abénaquis):	0.27473
+score(Biofilm):	0.27473
+score(Migraine):	0.27473
+score(Colonisation):	0.27473
+score(Turquie):	0.27473
+score(Viêt Nam):	0.27473
+score(Acide shikimique):	0.26957
+score(1908):	0.25642
+score(1951):	0.25642
+score(1960):	0.25642
+score(1929):	0.25642
+score(8 août):	0.25642
+score(6 juillet):	0.25642
+score(28 octobre):	0.25642
+score(Nigeria):	0.25642
+score(Gène):	0.25642
+score(Famine):	0.25642
+score(Monomère):	0.25642
+score(Fièvre jaune):	0.25642
+score(Chikungunya):	0.25642
+score(Paramyxoviridae):	0.25642
+score(Solution hydro-alcoolique):	0.25642
+score(Israël):	0.25642
+score(Eau potable):	0.25642
+score(Djibouti):	0.25642
+score(Vaccin):	0.25126
+score(Influenzavirus A sous-type H1N2):	0.25126
+score(Influenzavirus A sous-type H3N1):	0.25126
+score(29 janvier):	0.2381
+score(28 février):	0.2381
+score(23 novembre):	0.2381
+score(Alcoolisme):	0.2381
+score(Dinde):	0.2381
+score(Endémie):	0.2381
+score(Centre européen de prévention et de contrôle des maladies):	0.2381
+score(Ehrlichiose):	0.2381
+score(Calendrier grégorien):	0.21979
+score(Médicament):	0.21979
+score(Tunisie):	0.21979
+score(1972):	0.21979
+score(1969):	0.21979
+score(1946):	0.21979
+score(1954):	0.21979
+score(1942):	0.21979
+score(1941):	0.21979
+score(1971):	0.21979
+score(1992):	0.21979
+score(1917):	0.21979
+score(1963):	0.21979
+score(1859):	0.21979
+score(5 mars):	0.21979
+score(5 juin):	0.21979
+score(13 février):	0.21979
+score(17 mars):	0.21979
+score(26 mars):	0.21979
+score(19 avril):	0.21979
+score(10 août):	0.21979
+score(15 novembre):	0.21979
+score(22 juin):	0.21979
+score(24 décembre):	0.21979
+score(Anglais):	0.21979
+score(Septembre):	0.21979
+score(Pollution):	0.21979
+score(Génétique):	0.21979
+score(Science):	0.21979
+score(Levure):	0.21979
+score(Espérance de vie humaine):	0.21979
+score(Urine):	0.21979
+score(Syphilis):	0.21979
+score(Philippe d'Orléans (1838-1894)):	0.21979
+score(Escherichia coli):	0.21979
+score(Érythème):	0.21979
+score(GlaxoSmithKline):	0.21979
+score(Sérologie):	0.21979
+score(Fièvre aphteuse):	0.21979
+score(George W. Bush):	0.21979
+score(Christophe Colomb):	0.21979
+score(Ostéopathie):	0.21979
+score(Campagnes de l'État indépendant du Congo contre les Arabo-Swahilis):	0.21979
+score(Agriculture):	0.21979
+score(Antarctique):	0.21979
+score(Organisme génétiquement modifié):	0.21979
+score(Vuvuzela):	0.21979
+score(Croisière jaune):	0.21463
+score(Amérique du Sud):	0.20147
+score(Ukraine):	0.20147
+score(2001):	0.20147
+score(19 février):	0.20147
+score(31 août):	0.20147
+score(Fer):	0.20147
+score(Suicide):	0.20147
+score(Acide nucléique):	0.20147
+score(Institut de veille sanitaire):	0.20147
+score(Rubéole):	0.20147
+score(Liam Gallagher):	0.20147
+score(Syndrome de détresse respiratoire aiguë):	0.20147
+score(Rhinovirus):	0.20147
+score(1949 en science):	0.20147
+score(Éthique):	0.20147
+score(Colombie):	0.20147
+score(Ralf Altmeyer):	0.20147
+score(Philippines):	0.20147
+score(ARN):	0.19631
+score(Cardiomyopathie dilatée):	0.19631
+score(Biologie):	0.18316
+score(Environnement):	0.18316
+score(Floride):	0.18316
+score(Évolution (biologie)):	0.18316
+score(1985):	0.18316
+score(1950):	0.18316
+score(1928):	0.18316
+score(8 juillet):	0.18316
+score(6 août):	0.18316
+score(9 janvier):	0.18316
+score(27 février):	0.18316
+score(10 mars):	0.18316
+score(31 mars):	0.18316
+score(12 juillet):	0.18316
+score(1881):	0.18316
+score(1894):	0.18316
+score(1860):	0.18316
+score(1878):	0.18316
+score(Biochimie):	0.18316
+score(Élevage):	0.18316
+score(Océan Pacifique):	0.18316
+score(Haïti):	0.18316
+score(Plomb):	0.18316
+score(Allaitement):	0.18316
+score(Anorexie):	0.18316
+score(Robert Koch):	0.18316
+score(Population mondiale):	0.18316
+score(Avril 2005):	0.18316
+score(Cuisine iranienne):	0.18316
+score(Grippe espagnole):	0.18316
+score(Litière):	0.18316
+score(Guerre froide):	0.18316
+score(Cancer du poumon):	0.18316
+score(MétéoMédia):	0.18316
+score(Signe de Kernig):	0.18316
+score(Adolf Hitler):	0.18316
+score(Société des Nations):	0.18316
+score(Football):	0.18316
+score(Abraham Joshua Heschel):	0.18316
+score(Maladie respiratoire):	0.18316
+score(Néolithique):	0.18316
+score(Myofasciite à macrophages):	0.18316
+score(Gastroentérite):	0.178
+score(Hongrie):	0.16484
+score(Iran):	0.16484
+score(République démocratique du Congo):	0.16484
+score(1924):	0.16484
+score(18 octobre):	0.16484
+score(2 octobre):	0.16484
+score(4 avril):	0.16484
+score(5 janvier):	0.16484
+score(5 juillet):	0.16484
+score(20 mars):	0.16484
+score(Extinction des espèces):	0.16484
+score(Volcan):	0.16484
+score(Dépression (psychiatrie)):	0.16484
+score(Toxicologie):	0.16484
+score(Corynebacterium diphtheriae):	0.16484
+score(Chanvre):	0.16484
+score(Streptococcus pneumoniae):	0.16484
+score(Endocardite):	0.16484
+score(Parainfluenza):	0.16484
+score(Nicolas Sarkozy):	0.16484
+score(Virologie médicale):	0.16484
+score(Odynophagie):	0.16484
+score(12 mai):	0.16484
+score(Janvier 2011):	0.16484
+score(Souche):	0.15968
+score(Grippe de 1968):	0.15968
+score(Bangladesh):	0.14653
+score(Fonds monétaire international):	0.14653
+score(1991):	0.14653
+score(1974):	0.14653
+score(1909):	0.14653
+score(2 août):	0.14653
+score(2 décembre):	0.14653
+score(3 novembre):	0.14653
+score(4 mars):	0.14653
+score(5 avril):	0.14653
+score(9 avril):	0.14653
+score(20 avril):	0.14653
+score(16 juin):	0.14653
+score(19 août):	0.14653
+score(19 novembre):	0.14653
+score(Laos):	0.14653
+score(Martin Luther King):	0.14653
+score(Océanie):	0.14653
+score(Danube):	0.14653
+score(Leucocyte):	0.14653
+score(Viande):	0.14653
+score(Aéroport):	0.14653
+score(Décolonisation):	0.14653
+score(Nouveaux animaux de compagnie):	0.14653
+score(Philadelphie):	0.14653
+score(Bactériophage):	0.14653
+score(Paul Morphy):	0.14653
+score(Matière fécale):	0.14653
+score(Syndrome):	0.14653
+score(Taux de morbidité):	0.14653
+score(Abolition de l'esclavage):	0.14653
+score(Rhumatisme articulaire aigu):	0.14653
+score(Août 2005):	0.14653
+score(Hoti):	0.14653
+score(Toilettage):	0.14653
+score(Môle-Saint-Nicolas):	0.14653
+score(Albanie):	0.14653
+score(Climatisation):	0.14653
+score(Crise sanitaire):	0.14653
+score(Cerveau):	0.14653
+score(Addiction):	0.14653
+score(Controverse sur la vaccination):	0.14653
+score(Pomme de terre):	0.14653
+score(Séisme de 2010 à Haïti):	0.14653
+score(Conservation de la viande):	0.14653
+score(Grippe humaine):	0.14137
+score(Bulgarie):	0.12821
+score(Norvège):	0.12821
+score(Prix Nobel de chimie):	0.12821
+score(Tanzanie):	0.12821
+score(Uruguay):	0.12821
+score(1989):	0.12821
+score(1990):	0.12821
+score(14 novembre):	0.12821
+score(8 avril):	0.12821
+score(8 novembre):	0.12821
+score(8 décembre):	0.12821
+score(2 mars):	0.12821
+score(3 mars):	0.12821
+score(16 janvier):	0.12821
+score(28 janvier):	0.12821
+score(12 février):	0.12821
+score(17 février):	0.12821
+score(24 mars):	0.12821
+score(28 avril):	0.12821
+score(10 juillet):	0.12821
+score(10 septembre):	0.12821
+score(10 octobre):	0.12821
+score(12 octobre):	0.12821
+score(16 août):	0.12821
+score(17 juillet):	0.12821
+score(20 juin):	0.12821
+score(29 novembre):	0.12821
+score(30 octobre):	0.12821
+score(31 mai):	0.12821
+score(31 octobre):	0.12821
+score(26 août):	0.12821
+score(Foie):	0.12821
+score(Vitamine):	0.12821
+score(Années 1970):	0.12821
+score(Mer Méditerranée):	0.12821
+score(Années 1750):	0.12821
+score(Madagascar):	0.12821
+score(Mali):	0.12821
+score(Singapour):	0.12821
+score(Écosse):	0.12821
+score(Jérusalem):	0.12821
+score(Zona):	0.12821
+score(Chromosome):	0.12821
+score(Champignon):	0.12821
+score(Nourriture):	0.12821
+score(Anémie):	0.12821
+score(Fièvre de Lassa):	0.12821
+score(Sureau):	0.12821
+score(Canard colvert):	0.12821
+score(Grossesse):	0.12821
+score(Picornaviridae):	0.12821
+score(Rat):	0.12821
+score(Fièvre Q):	0.12821
+score(Grippe aviaire en Indonésie):	0.12821
+score(Astroviridae):	0.12821
+score(Animal):	0.12821
+score(Bolivie):	0.12821
+score(Nature Medicine):	0.12821
+score(Thanatopraxie):	0.12821
+score(Articulation (anatomie)):	0.12821
+score(Sanglier):	0.12821
+score(Arménie):	0.10989
+score(Homme de Néandertal):	0.10989
+score(Langue):	0.10989
+score(XVIe siècle):	0.10989
+score(Zimbabwe):	0.10989
+score(1984):	0.10989
+score(États des États-Unis):	0.10989
+score(2002):	0.10989
+score(1988):	0.10989
+score(1964):	0.10989
+score(1940):	0.10989
+score(1949):	0.10989
+score(1868):	0.10989
+score(1916):	0.10989
+score(1905):	0.10989
+score(1841):	0.10989
+score(1910):	0.10989
+score(1959):	0.10989
+score(1967):	0.10989
+score(18 juin):	0.10989
+score(21 janvier):	0.10989
+score(21 avril):	0.10989
+score(8 mars):	0.10989
+score(8 mai):	0.10989
+score(2 juillet):	0.10989
+score(3 juin):	0.10989
+score(3 septembre):	0.10989
+score(12 janvier):	0.10989
+score(19 janvier):	0.10989
+score(20 janvier):	0.10989
+score(9 février):	0.10989
+score(15 février):	0.10989
+score(9 mars):	0.10989
+score(15 mars):	0.10989
+score(19 mars):	0.10989
+score(15 avril):	0.10989
+score(15 juin):	0.10989
+score(15 juillet):	0.10989
+score(16 juillet):	0.10989
+score(16 décembre):	0.10989
+score(22 novembre):	0.10989
+score(24 novembre):	0.10989
+score(26 mai):	0.10989
+score(27 décembre):	0.10989
+score(Valéry Giscard d'Estaing):	0.10989
+score(1871):	0.10989
+score(Monaco):	0.10989
+score(Sucre):	0.10989
+score(Infection):	0.10989
+score(Éthiopie):	0.10989
+score(Dioxyde de carbone):	0.10989
+score(Guyane):	0.10989
+score(Années 2000):	0.10989
+score(Caroline du Sud):	0.10989
+score(Judaïsme):	0.10989
+score(Nauru):	0.10989
+score(Papouasie-Nouvelle-Guinée):	0.10989
+score(Dakar):	0.10989
+score(Bavière):	0.10989
+score(Boston):	0.10989
+score(Démographie):	0.10989
+score(Chicago):	0.10989
+score(Communauté économique européenne):	0.10989
+score(Traité de Versailles):	0.10989
+score(Carl von Linné):	0.10989
+score(Memphis (Tennessee)):	0.10989
+score(Hygrométrie):	0.10989
+score(Pollen):	0.10989
+score(Hémoglobine):	0.10989
+score(Bidonville):	0.10989
+score(Haut Commissariat des Nations unies pour les réfugiés):	0.10989
+score(Lèpre):	0.10989
+score(Entre-deux-guerres):	0.10989
+score(Vibrio cholerae):	0.10989
+score(Kamtchatka):	0.10989
+score(Cyclone tropical):	0.10989
+score(Indice de développement humain):	0.10989
+score(Vétérinaire):	0.10989
+score(Luc Montagnier):	0.10989
+score(Liste des préfixes des codes OACI des aéroports):	0.10989
+score(Aborigènes d'Australie):	0.10989
+score(Merle noir):	0.10989
+score(Pigeon biset):	0.10989
+score(Quarantaine):	0.10989
+score(Anti-inflammatoire non stéroïdien):	0.10989
+score(Intestin):	0.10989
+score(Virus respiratoire syncytial):	0.10989
+score(Épitope):	0.10989
+score(Salmonellose):	0.10989
+score(Choléra des poules):	0.10989
+score(Duplication (génétique)):	0.10989
+score(Vecteur (biologie)):	0.10989
+score(ADN polymérase):	0.10989
+score(Université de Strasbourg):	0.10989
+score(Nouvelle-Calédonie):	0.10989
+score(Blanc (humain)):	0.10989
+score(Pseudomonas aeruginosa):	0.10989
+score(Coronavirus):	0.10989
+score(Interaction durable):	0.10989
+score(Recombinaison virale):	0.10989
+score(Royaume de Roumanie):	0.10989
+score(Nazisme):	0.10989
+score(Troisième Reich):	0.10989
+score(Eric Carr):	0.10989
+score(Or):	0.10989
+score(Juifs):	0.10989
+score(Février 2005):	0.10989
+score(Sauvagine):	0.10989
+score(Cygne tuberculé):	0.10989
+score(Albert Sabin):	0.10989
+score(Eau):	0.10989
+score(Peau):	0.10989
+score(Chimiothérapie):	0.10989
+score(État):	0.10989
+score(Mondialisation):	0.10989
+score(Asthme):	0.09158
+score(Géorgie (pays)):	0.09158
+score(Honduras):	0.09158
+score(Nil):	0.09158
+score(Varsovie):	0.09158
+score(Vin):	0.09158
+score(1995):	0.09158
+score(1994):	0.09158
+score(1975):	0.09158
+score(1952):	0.09158
+score(1955):	0.09158
+score(1848):	0.09158
+score(1973):	0.09158
+score(21 février):	0.09158
+score(21 août):	0.09158
+score(8 octobre):	0.09158
+score(3 juillet):	0.09158
+score(4 novembre):	0.09158
+score(5 février):	0.09158
+score(7 avril):	0.09158
+score(26 janvier):	0.09158
+score(30 janvier):	0.09158
+score(22 mars):	0.09158
+score(23 avril):	0.09158
+score(29 avril):	0.09158
+score(10 novembre):	0.09158
+score(13 mai):	0.09158
+score(13 octobre):	0.09158
+score(15 octobre):	0.09158
+score(20 mai):	0.09158
+score(22 août):	0.09158
+score(1874):	0.09158
+score(1892):	0.09158
+score(Prix Nobel de physique):	0.09158
+score(Mohandas Karamchand Gandhi):	0.09158
+score(Années 1980):	0.09158
+score(Années 1990):	0.09158
+score(Alabama):	0.09158
+score(Continent):	0.09158
+score(Culture):	0.09158
+score(Sierra Leone):	0.09158
+score(Famille (biologie)):	0.09158
+score(Industrie):	0.09158
+score(Pékin):	0.09158
+score(Jazz):	0.09158
+score(Pesticide):	0.09158
+score(Esclavage):	0.09158
+score(Thomas Jefferson):	0.09158
+score(Vie):	0.09158
+score(Forêt):	0.09158
+score(Climat méditerranéen):	0.09158
+score(Ambulance):	0.09158
+score(Europe de l'Ouest):	0.09158
+score(Virus du Nil occidental):	0.09158
+score(Poulet):	0.09158
+score(Déforestation):	0.09158
+score(Pédiatrie):	0.09158
+score(Virulence):	0.09158
+score(Prévalence):	0.09158
+score(Os):	0.09158
+score(Rhinite):	0.09158
+score(Antitussif):	0.09158
+score(Paramyxovirus):	0.09158
+score(Entérovirus):	0.09158
+score(Saint-Martin (Antilles françaises)):	0.09158
+score(Myalgie):	0.09158
+score(Médecine préventive):	0.09158
+score(Ribavirine):	0.09158
+score(Révolution industrielle):	0.09158
+score(Tabagisme):	0.09158
+score(Moustique):	0.09158
+score(De l'inégalité parmi les sociétés):	0.09158
+score(Noël):	0.09158
+score(Margarete Schütte-Lihotzky):	0.09158
+score(Metapneumovirus):	0.09158
+score(Porcherie):	0.09158
+score(Classification Baltimore):	0.09158
+score(Oryctolagus cuniculus):	0.09158
+score(Acide quinique):	0.09158
+score(1961):	0.09158
+score(Corse):	0.07326
+score(Californie):	0.07326
+score(Caféine):	0.07326
+score(Guatemala):	0.07326
+score(Infection sexuellement transmissible):	0.07326
+score(Organisation de libération de la Palestine):	0.07326
+score(Peine de mort):	0.07326
+score(Psychologie):	0.07326
+score(Philippe Pétain):	0.07326
+score(Tibet):	0.07326
+score(Terre):	0.07326
+score(Venezuela):	0.07326
+score(1900):	0.07326
+score(1901):	0.07326
+score(1939):	0.07326
+score(1930):	0.07326
+score(1904):	0.07326
+score(1947):	0.07326
+score(1906):	0.07326
+score(1898):	0.07326
+score(1943):	0.07326
+score(1993):	0.07326
+score(18 décembre):	0.07326
+score(18 février):	0.07326
+score(21 juin):	0.07326
+score(14 décembre):	0.07326
+score(1er décembre):	0.07326
+score(2 juin):	0.07326
+score(4 février):	0.07326
+score(4 mai):	0.07326
+score(1832):	0.07326
+score(6 mars):	0.07326
+score(22 janvier):	0.07326
+score(25 février):	0.07326
+score(25 mars):	0.07326
+score(13 septembre):	0.07326
+score(16 septembre):	0.07326
+score(20 juillet):	0.07326
+score(24 mai):	0.07326
+score(28 décembre):	0.07326
+score(30 mai):	0.07326
+score(1884):	0.07326
+score(1893):	0.07326
+score(Années 1960):	0.07326
+score(Lait):	0.07326
+score(Rate):	0.07326
+score(Dalaï-lama):	0.07326
+score(1804):	0.07326
+score(Océan Indien):	0.07326
+score(Légume):	0.07326
+score(Aluminium):	0.07326
+score(Obésité):	0.07326
+score(Guerre d'Irak):	0.07326
+score(Sélection naturelle):	0.07326
+score(Cytométrie en flux):	0.07326
+score(Ultraviolet):	0.07326
+score(Baleine):	0.07326
+score(Napoléon III):	0.07326
+score(Affaire Dreyfus):	0.07326
+score(Guerre du Viêt Nam):	0.07326
+score(Réchauffement climatique):	0.07326
+score(Mouche):	0.07326
+score(Eau de Javel):	0.07326
+score(Gratte-ciel):	0.07326
+score(Miami):	0.07326
+score(Nouvelle-France):	0.07326
+score(Classification phylogénétique):	0.07326
+score(Arthrite):	0.07326
+score(Budapest):	0.07326
+score(Hantavirus):	0.07326
+score(Myopathie):	0.07326
+score(Codéine):	0.07326
+score(Piémont):	0.07326
+score(Cricket):	0.07326
+score(Nouvelle-Guinée):	0.07326
+score(État-providence):	0.07326
+score(Hirondelle):	0.07326
+score(Organite):	0.07326
+score(Climat tropical):	0.07326
+score(Mortalité infantile):	0.07326
+score(Transcription (biologie)):	0.07326
+score(Toxoplasmose):	0.07326
+score(Montagnes Rocheuses):	0.07326
+score(Bronchiolite):	0.07326
+score(Gibier):	0.07326
+score(Retroviridae):	0.07326
+score(Dauphin):	0.07326
+score(Rugby à XV):	0.07326
+score(Pénicilline):	0.07326
+score(Brûlure):	0.07326
+score(Empire britannique):	0.07326
+score(Sclérose en plaques):	0.07326
+score(Apoptose):	0.07326
+score(Membrane plasmique):	0.07326
+score(Anatidae):	0.07326
+score(Anophèle):	0.07326
+score(Taxonomie):	0.07326
+score(Placenta):	0.07326
+score(Salive):	0.07326
+score(Coopération économique pour l'Asie-Pacifique):	0.07326
+score(Épistaxis):	0.07326
+score(Arbre phylogénétique):	0.07326
+score(Guerres indiennes):	0.07326
+score(Étourneau sansonnet):	0.07326
+score(Antiseptique):	0.07326
+score(Masque à gaz):	0.07326
+score(Toux):	0.07326
+score(Conjonctivite):	0.07326
+score(Climat océanique):	0.07326
+score(Maladie nosocomiale):	0.07326
+score(Splénomégalie):	0.07326
+score(Squalène):	0.07326
+score(Analgésique):	0.07326
+score(Fièvre hémorragique virale):	0.07326
+score(Pollution intérieure):	0.07326
+score(Sens (physiologie)):	0.07326
+score(Purpura):	0.07326
+score(Maladie de Kawasaki):	0.07326
+score(Plasma sanguin):	0.07326
+score(Western blot):	0.07326
+score(Conquête de l'Ouest):	0.07326
+score(Sérovar):	0.07326
+score(Empire colonial allemand):	0.07326
+score(Oie à tête barrée):	0.07326
+score(Coronavirus félin):	0.07326
+score(Tabac):	0.07326
+score(Cartographie des corridors biologiques):	0.07326
+score(Tobamovirus):	0.07326
+score(Assainissement):	0.07326
+score(Pneumocyte):	0.07326
+score(Conseil de coopération du Golfe):	0.07326
+score(Voltaire):	0.07326
+score(Caliciviridae):	0.07326
+score(Rejet de greffe):	0.07326
+score(Alliés de la Seconde Guerre mondiale):	0.07326
+score(André Chantemesse):	0.07326
+score(Cancer du côlon):	0.07326
+score(Golf):	0.07326
+score(Peste porcine):	0.07326
+score(Immunofluorescence):	0.07326
+score(Immunothérapie):	0.07326
+score(Fièvre pourprée des montagnes Rocheuses):	0.07326
+score(Hépatite E):	0.07326
+score(Parasitisme):	0.07326
+score(Provence):	0.07326
+score(Sida):	0.07326
+score(Mononegavirales):	0.07326
+score(Linkin Park):	0.07326
+score(Scarlatine):	0.07326
+score(Fusobacterium):	0.07326
+score(Stockage des céréales):	0.07326
+score(Thé):	0.07326
+score(Hypertension artérielle):	0.07326
+score(Taille du génome):	0.07326
+score(Épigénétique):	0.07326
+score(Formule 1):	0.07326
+score(Co-infection):	0.07326
+score(23 décembre):	0.07326
+score(Allemand):	0.05495
+score(Biologie moléculaire):	0.05495
+score(Basket-ball):	0.05495
+score(Central Intelligence Agency):	0.05495
+score(Espagnol):	0.05495
+score(François Mitterrand):	0.05495
+score(Fascisme):	0.05495
+score(Géographie):	0.05495
+score(Guinée):	0.05495
+score(Prix Nobel de littérature):	0.05495
+score(République dominicaine):	0.05495
+score(1983):	0.05495
+score(1899):	0.05495
+score(1879):	0.05495
+score(1902):	0.05495
+score(1789):	0.05495
+score(1846):	0.05495
+score(1922):	0.05495
+score(1923):	0.05495
+score(1953):	0.05495
+score(21 septembre):	0.05495
+score(30 avril):	0.05495
+score(10 décembre):	0.05495
+score(19 décembre):	0.05495
+score(1897):	0.05495
+score(1883):	0.05495
+score(1831):	0.05495
+score(Corée du Nord):	0.05495
+score(Athlétisme):	0.05495
+score(Révolution française):	0.05495
+score(La Réunion):	0.05495
+score(Massachusetts):	0.05495
+score(Racisme):	0.05495
+score(Nouveau-Mexique):	0.05495
+score(1850):	0.05495
+score(1750):	0.05495
+score(Polynésie française):	0.05495
+score(Maison capétienne de Bourbon):	0.05495
+score(Commonwealth):	0.05495
+score(Zinc):	0.05495
+score(Franklin Delano Roosevelt):	0.05495
+score(Bile):	0.05495
+score(Biotope):	0.05495
+score(Macao):	0.05495
+score(Degré Celsius):	0.05495
+score(Mandarin (langue)):	0.05495
+score(Guangdong):	0.05495
+score(Canton (Chine)):	0.05495
+score(Golfe du Mexique):	0.05495
+score(Insecticide):	0.05495
+score(Timor oriental):	0.05495
+score(Zaïre):	0.05495
+score(Blé):	0.05495
+score(Leucémie):	0.05495
+score(Charles Nicolle):	0.05495
+score(Acide chlorhydrique):	0.05495
+score(Guerre de Sécession):	0.05495
+score(Chloroplaste):	0.05495
+score(Mouton):	0.05495
+score(Benito Mussolini):	0.05495
+score(Pasteurisation):	0.05495
+score(Biotechnologie):	0.05495
+score(Céréale):	0.05495
+score(Guerre de Cent Ans):	0.05495
+score(Patrimoine mondial):	0.05495
+score(SIDA):	0.05495
+score(Sénat (France)):	0.05495
+score(Époque moderne):	0.05495
+score(Livre sterling):	0.05495
+score(Cytoplasme):	0.05495
+score(Hispaniola):	0.05495
+score(Phénotype):	0.05495
+score(Biologie cellulaire):	0.05495
+score(Ribosome):	0.05495
+score(Lutte biologique):	0.05495
+score(Afrique-Équatoriale française):	0.05495
+score(Université Harvard):	0.05495
+score(2011):	0.05495
+score(Histoire de l'Union européenne):	0.05495
+score(Tatouage):	0.05495
+score(Roger Federer):	0.05495
+score(Mucoviscidose):	0.05495
+score(Moelle épinière):	0.05495
+score(The Strokes):	0.05495
+score(Anti-inflammatoire):	0.05495
+score(Médecine générale):	0.05495
+score(Civilisation):	0.05495
+score(Lymphocyte):	0.05495
+score(Gestation):	0.05495
+score(Malaise vagal):	0.05495
+score(Cigogne):	0.05495
+score(Assemblée nationale (France)):	0.05495
+score(Tilia):	0.05495
+score(Géode (géométrie)):	0.05495
+score(Hépatite):	0.05495
+score(Greffe (médecine)):	0.05495
+score(Empire colonial):	0.05495
+score(Littoral):	0.05495
+score(Cirrhose):	0.05495
+score(Incidence (épidémiologie)):	0.05495
+score(Maladie du charbon):	0.05495
+score(Virus à ADN):	0.05495
+score(Saule):	0.05495
+score(Virus Marburg):	0.05495
+score(Grand dauphin):	0.05495
+score(Rapace):	0.05495
+score(Mai 2005):	0.05495
+score(Beagle):	0.05495
+score(Maurice Hilleman):	0.05495
+score(Commission européenne):	0.05495
+score(Reoviridae):	0.05495
+score(Filoviridae):	0.05495
+score(Delta du Danube):	0.05495
+score(Dobroudja):	0.05495
+score(Guerre hispano-américaine):	0.05495
+score(Péricardite):	0.05495
+score(Bactéricide):	0.05495
+score(Test VIH):	0.05495
+score(Février 2006):	0.05495
+score(Girolamo Fracastoro):	0.05495
+score(Lyon):	0.05495
+score(George Fleming):	0.05495
+score(Virus de Norwalk):	0.05495
+score(Risque pandémique):	0.05495
+score(Tunis):	0.05495
+score(Fièvre catarrhale):	0.05495
+score(Lavage broncho-alvéolaire):	0.05495
+score(Charles de Gaulle):	0.05495
+score(Automédication):	0.05495
+score(Paul Rohmer):	0.05495
+score(Prévalence de la grippe aviaire chez les animaux):	0.05495
+score(Glissement génétique):	0.05495
+score(Ouest):	0.05495
+score(Hygiène de vie):	0.05495
+score(Termite):	0.05495
+score(Hépatite D):	0.05495
+score(Ardennais (cheval)):	0.05495
+score(Lectine):	0.05495
+score(Alliés de la Première Guerre mondiale):	0.05495
+score(Endémisme):	0.05495
+score(Royaume de Hongrie (1920-1946)):	0.05495
+score(Mexico):	0.05495
+score(Saint-Barthélemy (Antilles françaises)):	0.05495
+score(Lavage des mains):	0.05495
+score(Citroën):	0.05495
+score(David Lloyd George):	0.05495
+score(1870):	0.05495
+score(Jacques Chirac):	0.05495
+score(Homosexualité):	0.05495
+score(Le chat et la grippe):	0.05495
+score(Sérothérapie):	0.05495
+score(Microbiote):	0.05495
+score(Theophilus Thompson):	0.05495
+score(Sécurité sociale):	0.05495
+score(Hygiénisme):	0.05495
+score(Découverte et exploration de l'Amérique):	0.05495
+score(Mariage):	0.05495
+score(Nantes):	0.05495
+score(Promiscuité):	0.05495
+score(Chemin de fer):	0.05495
+score(Génome mitochondrial):	0.05495
+score(Maladie d'Alzheimer):	0.05495
+score(Manchot):	0.05495
+score(Gerhard Domagk):	0.05495
+score(Encéphalite à tiques):	0.05495
+score(Biodiversité):	0.05495
+score(Tennis):	0.05495
+score(Ernest Fourneau):	0.05495
+score(Prontosil):	0.05495
+score(Diabète):	0.05495
+score(Koala):	0.05495
+score(Jamaïque):	0.05495
+score(Fête du Travail):	0.05495
+score(Synthèse totale de l'oseltamivir):	0.05495
+score(Le Havre):	0.05495
+score(Communisme):	0.05495
+score(Ardèche (département)):	0.03663
+score(Archaea):	0.03663
+score(Belize):	0.03663
+score(Botswana):	0.03663
+score(Champagne-Ardenne):	0.03663
+score(Cinéma):	0.03663
+score(Carbone):	0.03663
+score(Couche d'ozone):	0.03663
+score(Placentalia):	0.03663
+score(Osaka):	0.03663
+score(San Francisco):	0.03663
+score(Tourisme):	0.03663
+score(Toulouse):	0.03663
+score(Union pour un mouvement populaire):	0.03663
+score(Yasser Arafat):	0.03663
+score(1956):	0.03663
+score(1965):	0.03663
+score(1856):	0.03663
+score(1834):	0.03663
+score(1912):	0.03663
+score(1er mars):	0.03663
+score(1er octobre):	0.03663
+score(7 février):	0.03663
+score(24 avril):	0.03663
+score(11 juillet):	0.03663
+score(11 octobre):	0.03663
+score(20 octobre):	0.03663
+score(1863):	0.03663
+score(1886):	0.03663
+score(1880):	0.03663
+score(Émirats arabes unis):	0.03663
+score(Jean-Paul II):	0.03663
+score(1858):	0.03663
+score(1855):	0.03663
+score(Déclaration des droits de l'homme et du citoyen de 1789):	0.03663
+score(Barrière hémato-encéphalique):	0.03663
+score(Juillet 2002):	0.03663
+score(1837):	0.03663
+score(Rhin):	0.03663
+score(Cygne):	0.03663
+score(Vent):	0.03663
+score(Liste d'écrivains américains par ordre chronologique):	0.03663
+score(1807):	0.03663
+score(1812):	0.03663
+score(1814):	0.03663
+score(Échecs):	0.03663
+score(Kurde):	0.03663
+score(Connecticut):	0.03663
+score(Dakota du Sud):	0.03663
+score(Vermont):	0.03663
+score(Lille):	0.03663
+score(1876):	0.03663
+score(1851):	0.03663
+score(1803):	0.03663
+score(Mississippi (fleuve)):	0.03663
+score(Tennessee):	0.03663
+score(1790):	0.03663
+score(Metz):	0.03663
+score(1742):	0.03663
+score(1734):	0.03663
+score(Race):	0.03663
+score(Louis XIV):	0.03663
+score(Suriname):	0.03663
+score(Lymphe):	0.03663
+score(Poil):	0.03663
+score(1648):	0.03663
+score(1589):	0.03663
+score(Vanuatu):	0.03663
+score(1562):	0.03663
+score(1316):	0.03663
+score(Bateau):	0.03663
+score(Argent):	0.03663
+score(George Washington):	0.03663
+score(Fiat):	0.03663
+score(Vulve):	0.03663
+score(Nelson Mandela):	0.03663
+score(Sécurité alimentaire):	0.03663
+score(Le Canard enchaîné):	0.03663
+score(Totalitarisme):	0.03663
+score(Portugais):	0.03663
+score(Louis-Philippe Ier):	0.03663
+score(Bière):	0.03663
+score(Témoins de Jéhovah):	0.03663
+score(Vincent van Gogh):	0.03663
+score(Henan):	0.03663
+score(Schutzstaffel):	0.03663
+score(Liste de massacres):	0.03663
+score(Ananas):	0.03663
+score(Occitan):	0.03663
+score(James Cook):	0.03663
+score(El Niño):	0.03663
+score(Roselyne Bachelot):	0.03663
+score(Saint-Martin (île)):	0.03663
+score(Citron):	0.03663
+score(Saint-Denis (La Réunion)):	0.03663
+score(Ornithorynque):	0.03663
+score(Mangrove):	0.03663
+score(Yersinia pestis):	0.03663
+score(Île):	0.03663
+score(Wall Street):	0.03663
+score(Fossile):	0.03663
+score(Tony Blair):	0.03663
+score(Historien):	0.03663
+score(Ski):	0.03663
+score(Salmonella):	0.03663
+score(Réplication de l'ADN):	0.03663
+score(Manfred von Richthofen):	0.03663
+score(Médecine du travail):	0.03663
+score(Arles):	0.03663
+score(Empire State Building):	0.03663
+score(Jeanne Calment):	0.03663
+score(Génocide arménien):	0.03663
+score(Concours Eurovision de la chanson):	0.03663
+score(Député):	0.03663
+score(Arme nucléaire):	0.03663
+score(Casablanca):	0.03663
+score(Circoncision):	0.03663
+score(Jacques Demy):	0.03663
+score(Flavivirus):	0.03663
+score(2012):	0.03663
+score(Fourmi):	0.03663
+score(Queen):	0.03663
+score(Vitamine B9):	0.03663
+score(Empire carolingien):	0.03663
+score(Deuxième République (France)):	0.03663
+score(Réplication):	0.03663
+score(Nouveau Monde):	0.03663
+score(Menahem Begin):	0.03663
+score(Ashkénaze):	0.03663
+score(Suèves):	0.03663
+score(Impérialisme):	0.03663
+score(Euthanasie):	0.03663
+score(Guerre du Péloponnèse):	0.03663
+score(Rouge):	0.03663
+score(Manchester):	0.03663
+score(Nucléotide):	0.03663
+score(Guanine):	0.03663
+score(Muse (groupe)):	0.03663
+score(Grandes Plaines):	0.03663
+score(Hiver):	0.03663
+score(Char de combat):	0.03663
+score(Antiquité tardive):	0.03663
+score(Phnom Penh):	0.03663
+score(Assyriens):	0.03663
+score(Serbe):	0.03663
+score(Piercing):	0.03663
+score(Tabou):	0.03663
+score(Houille):	0.03663
+score(Agriculteur):	0.03663
+score(Réticulum endoplasmique):	0.03663
+score(Alerte (premiers secours)):	0.03663
+score(Gerald Ford):	0.03663
+score(Risque):	0.03663
+score(Otite):	0.03663
+score(Cytosine):	0.03663
+score(Signe clinique):	0.03663
+score(Oxygénothérapie normobare):	0.03663
+score(Constipation):	0.03663
+score(Urgences):	0.03663
+score(Kinésithérapie):	0.03663
+score(Parc national de Yellowstone):	0.03663
+score(Aérobie):	0.03663
+score(Alexandre Yersin):	0.03663
+score(Intoxication):	0.03663
+score(Conserve):	0.03663
+score(Infarctus du myocarde):	0.03663
+score(Tagalog):	0.03663
+score(Prion (protéine)):	0.03663
+score(Cyclo-oxygénase):	0.03663
+score(Cénozoïque):	0.03663
+score(Prostaglandine):	0.03663
+score(Coqueluche):	0.03663
+score(Émile Roux):	0.03663
+score(Miocène):	0.03663
+score(David Ben Gourion):	0.03663
+score(Immunité):	0.03663
+score(Régime parlementaire):	0.03663
+score(Guerre contre le terrorisme):	0.03663
+score(Anschluss):	0.03663
+score(Compagnie néerlandaise des Indes orientales):	0.03663
+score(Nettoyage ethnique):	0.03663
+score(Âne):	0.03663
+score(Gui (plante)):	0.03663
+score(Transvaal):	0.03663
+score(Parc zoologique):	0.03663
+score(Coing):	0.03663
+score(Synagogue):	0.03663
+score(Utrecht):	0.03663
+score(Antilles françaises):	0.03663
+score(Trochilidae):	0.03663
+score(Nez):	0.03663
+score(Druzes):	0.03663
+score(Psittaciformes):	0.03663
+score(Cosmétique):	0.03663
+score(Glycoprotéine):	0.03663
+score(Treize colonies):	0.03663
+score(Accouchement):	0.03663
+score(Vert):	0.03663
+score(Phagocytose):	0.03663
+score(Cytomégalovirus):	0.03663
+score(Curare):	0.03663
+score(Jeux olympiques d'été de 1996):	0.03663
+score(Ponction lombaire):	0.03663
+score(Névralgie du trijumeau):	0.03663
+score(Hémorragie méningée):	0.03663
+score(Médaille Copley):	0.03663
+score(Génomique):	0.03663
+score(Parti national-socialiste des travailleurs allemands):	0.03663
+score(Camille Guérin):	0.03663
+score(Plongeon arctique):	0.03663
+score(Rite funéraire):	0.03663
+score(Fungi):	0.03663
+score(Transfusion sanguine):	0.03663
+score(Épidémique):	0.03663
+score(Acide ribonucléique ribosomique):	0.03663
+score(Royal Navy):	0.03663
+score(Côte-de-l'Or (colonie britannique)):	0.03663
+score(Indian Removal Act):	0.03663
+score(Hypokaliémie):	0.03663
+score(Nouvelle-Néerlande):	0.03663
+score(Kwashiorkor):	0.03663
+score(Massacre de Wounded Knee):	0.03663
+score(Kobe):	0.03663
+score(Ascenseur):	0.03663
+score(Syndrome de Guillain-Barré):	0.03663
+score(Lévrier):	0.03663
+score(Acide ribonucléique messager):	0.03663
+score(Maladie de Chagas):	0.03663
+score(Fernand Sardou):	0.03663
+score(Œdème):	0.03663
+score(Macrolide):	0.03663
+score(Nucléole):	0.03663
+score(Alvéole (anatomie)):	0.03663
+score(Institut national de prévention et d'éducation pour la santé):	0.03663
+score(Réfrigération):	0.03663
+score(Mycose):	0.03663
+score(Donald Tsang):	0.03663
+score(Chlorpromazine):	0.03663
+score(Mark Sykes):	0.03663
+score(Pilus):	0.03663
+score(Mélanome):	0.03663
+score(Moisissure):	0.03663
+score(Helicobacter pylori):	0.03663
+score(Anasazis):	0.03663
+score(Éléphant):	0.03663
+score(François Jacob):	0.03663
+score(Tenzin Gyatso):	0.03663
+score(Pisciculture):	0.03663
+score(Lombalgie):	0.03663
+score(Aide publique au développement):	0.03663
+score(Puce à ADN):	0.03663
+score(Opossum):	0.03663
+score(Examen médical):	0.03663
+score(Diagnostic différentiel):	0.03663
+score(Hémolyse):	0.03663
+score(Côte (géographie)):	0.03663
+score(Élection présidentielle française de 2007):	0.03663
+score(Transcriptase inverse):	0.03663
+score(Cavia porcellus):	0.03663
+score(Liste de bactéries importantes sur le plan clinique):	0.03663
+score(Immunosuppresseur):	0.03663
+score(Samuel Eto'o):	0.03663
+score(Emil Adolf von Behring):	0.03663
+score(Déportation):	0.03663
+score(Race humaine):	0.03663
+score(Liste de scientifiques américains par ordre alphabétique):	0.03663
+score(Bombardements atomiques d'Hiroshima et Nagasaki):	0.03663
+score(Mont Adams):	0.03663
+score(Joseph Meister):	0.03663
+score(Hoquet):	0.03663
+score(Mare):	0.03663
+score(Écotoxicologie):	0.03663
+score(Antimicrobien):	0.03663
+score(Sanatorium):	0.03663
+score(Veille sanitaire):	0.03663
+score(Fièvre boutonneuse méditerranéenne):	0.03663
+score(Anticoagulant):	0.03663
+score(Histoire démographique des Amérindiens):	0.03663
+score(Néocolonialisme):	0.03663
+score(Mollicutes):	0.03663
+score(Mycoplasma):	0.03663
+score(Crémation):	0.03663
+score(Entérocoque):	0.03663
+score(Crosse (sport)):	0.03663
+score(Écologie microbienne):	0.03663
+score(Morve):	0.03663
+score(Milieu de culture):	0.03663
+score(Ventilation):	0.03663
+score(Encéphalite):	0.03663
+score(Jorge Ubico Castañeda):	0.03663
+score(Dénutrition):	0.03663
+score(Henri d'Artois):	0.03663
+score(Acérola):	0.03663
+score(Force publique):	0.03663
+score(Bunyaviridae):	0.03663
+score(Phytovirus):	0.03663
+score(Louisiane (Nouvelle-France)):	0.03663
+score(Antirétroviral):	0.03663
+score(Oiseau de mer):	0.03663
+score(Zakk Wylde):	0.03663
+score(Clarithromycine):	0.03663
+score(Rotoluve):	0.03663
+score(Virus de la dengue):	0.03663
+score(Pierre Bretonneau):	0.03663
+score(Zone morte):	0.03663
+score(Cellule présentatrice d'antigène):	0.03663
+score(Sheila):	0.03663
+score(Bataille de Megiddo (1918)):	0.03663
+score(Lutte antimicrobienne):	0.03663
+score(Histoire évolutive des homininés):	0.03663
+score(Albatros hurleur):	0.03663
+score(Nid d'hirondelle):	0.03663
+score(Culture cellulaire):	0.03663
+score(Transduction (génétique)):	0.03663
+score(Peste bovine):	0.03663
+score(Gésier):	0.03663
+score(Michael Osterholm):	0.03663
+score(Syndrome d'Eisenmenger):	0.03663
+score(Lac de Manyas):	0.03663
+score(H7N1):	0.03663
+score(La grippe du chien):	0.03663
+score(Algérie française):	0.03663
+score(Contamination (toxicologie)):	0.03663
+score(1858 en science):	0.03663
+score(Créolité):	0.03663
+score(Guerre de la Conquête):	0.03663
+score(Altération de l'état général):	0.03663
+score(Dent):	0.03663
+score(Baguage):	0.03663
+score(Nouvelle-Guinée allemande):	0.03663
+score(Balto):	0.03663
+score(Monde anglo-saxon):	0.03663
+score(Antibiotique sulfamidé):	0.03663
+score(Humanité):	0.03663
+score(Transformation (génétique)):	0.03663
+score(Angam Day):	0.03663
+score(Hospitalisation et décès de Yasser Arafat):	0.03663
+score(Siphonaptera):	0.03663
+score(Nauruans):	0.03663
+score(Vinaigre):	0.03663
+score(Extinction de l'Holocène):	0.03663
+score(Uchronie):	0.03663
+score(Vautour):	0.03663
+score(Charles Chamberland):	0.03663
+score(Graisse):	0.03663
+score(Grenouille):	0.03663
+score(Promotion de la santé):	0.03663
+score(Pollution de l'air):	0.03663
+score(Melon (plante)):	0.03663
+score(Dextropropoxyphène):	0.03663
+score(Salvador Luria):	0.03663
+score(Reconquista):	0.03663
+score(Charge virale):	0.03663
+score(International Committee on Taxonomy of Viruses):	0.03663
+score(Hôpital):	0.03663
+score(Histoire évolutive des mammifères):	0.03663
+score(Café):	0.03663
+score(Polyarthrite épidémique):	0.03663
+score(Civilisation occidentale):	0.03663
+score(Papillomavirus):	0.03663
+score(Goulag):	0.03663
+score(Peuple autochtone):	0.03663
+score(Conférence de Berlin):	0.03663
+score(Truganini):	0.03663
+score(Contaminant):	0.03663
+score(Hépatite G):	0.03663
+score(Mohammed Amin al-Husseini):	0.03663
+score(Ménopause):	0.03663
+score(Parti socialiste (France)):	0.03663
+score(Institut national de la recherche agronomique):	0.03663
+score(Art):	0.03663
+score(Bornaviridae):	0.03663
+score(Myocardite virale):	0.03663
+score(Histoire militaire de l'Australie pendant la Première Guerre mondiale):	0.03663
+score(Président de la République française):	0.03663
+score(Propreté):	0.03663
+score(Gant):	0.03663
+score(Intoxication au monoxyde de carbone):	0.03663
+score(Pierre Delbet):	0.03663
+score(Œdème cérébral):	0.03663
+score(Jean-Paul Sartre):	0.03663
+score(Ehrlichia):	0.03663
+score(Phage phiX174):	0.03663
+score(Lapin):	0.03663
+score(Détersion):	0.03663
+score(Fièvre hémorragique bolivienne):	0.03663
+score(Montpellier):	0.03663
+score(Régime de Vichy):	0.03663
+score(Acide caféique):	0.03663
+score(Ribonucléoprotéine):	0.03663
+score(Encéphalite virale):	0.03663
+score(Coupe du monde de football de 2010):	0.03663
+score(Jean de La Fontaine):	0.03663
+score(Maladies virales de la pomme de terre):	0.03663
+score(Peste d'Athènes):	0.03663
+score(Maïs):	0.03663
+score(Fernand Widal):	0.03663
+score(Ultramicrobactérie):	0.03663
+score(Arthur Roy Brown):	0.03663
+score(Banane):	0.03663
+score(Dr House):	0.03663
+score(Mozambique):	0.03663
+score(Hémagglutination):	0.03663
+score(Frank Fenner):	0.03663
+score(Décomposition):	0.03663
+score(Politique de santé):	0.03663
+score(Génie génétique):	0.03663
+score(Jacques Tréfouël):	0.03663
+score(Federico Nitti):	0.03663
+score(Détroit):	0.03663
+score(Wallis-et-Futuna):	0.03663
+score(Alfred Hitchcock):	0.01832
+score(Albanais):	0.01832
+score(Lampe à incandescence classique):	0.01832
+score(Animisme):	0.01832
+score(Cantal (département)):	0.01832
+score(Chimie organique):	0.01832
+score(Archipel des Comores):	0.01832
+score(Carnivora):	0.01832
+score(Edgar Allan Poe):	0.01832
+score(Front national (parti français)):	0.01832
+score(Festival de Cannes):	0.01832
+score(Élection présidentielle française de 2002):	0.01832
+score(Grenoble):	0.01832
+score(Guyana):	0.01832
+score(George Orwell):	0.01832
+score(Henry Ford):	0.01832
+score(Hugues Capet):	0.01832
+score(Jeux olympiques d'hiver de 2002):	0.01832
+score(Jean-Jacques Rousseau):	0.01832
+score(Liste des pays du monde):	0.01832
+score(Lionel Jospin):	0.01832
+score(Mai 68):	0.01832
+score(Molière):	0.01832
+score(Médaille Fields):	0.01832
+score(Poitou-Charentes):	0.01832
+score(Phylogénie):	0.01832
+score(Peinture):	0.01832
+score(René Dumont):	0.01832
+score(Roman Polanski):	0.01832
+score(René Goscinny):	0.01832
+score(Théâtre):	0.01832
+score(TGV):	0.01832
+score(The Clash):	0.01832
+score(Utah):	0.01832
+score(XIIe siècle):	0.01832
+score(1966):	0.01832
+score(1921):	0.01832
+score(1864):	0.01832
+score(1852):	0.01832
+score(1862):	0.01832
+score(1826):	0.01832
+score(1873):	0.01832
+score(Église de Jésus-Christ des saints des derniers jours):	0.01832
+score(Kirghizistan):	0.01832
+score(1822):	0.01832
+score(Bradycardie):	0.01832
+score(Pouls):	0.01832
+score(Paul VI):	0.01832
+score(Politique agricole commune):	0.01832
+score(Lesotho):	0.01832
+score(Neurone):	0.01832
+score(Purine):	0.01832
+score(Gustave Flaubert):	0.01832
+score(Léopold Sédar Senghor):	0.01832
+score(Montréal):	0.01832
+score(Insuline):	0.01832
+score(Démocrite):	0.01832
+score(Estrémadure):	0.01832
+score(Lac Tahoe):	0.01832
+score(Drapeau):	0.01832
+score(Guerre d'Algérie):	0.01832
+score(Acide):	0.01832
+score(1869):	0.01832
+score(Henry David Thoreau):	0.01832
+score(Baccalauréat en France):	0.01832
+score(1794):	0.01832
+score(1815):	0.01832
+score(Benzène):	0.01832
+score(Humus):	0.01832
+score(Blaise Pascal):	0.01832
+score(Années 1770):	0.01832
+score(1835):	0.01832
+score(Hawaï):	0.01832
+score(Louisiane):	0.01832
+score(1829):	0.01832
+score(1801):	0.01832
+score(1400):	0.01832
+score(Lumière):	0.01832
+score(1787):	0.01832
+score(1770):	0.01832
+score(Albert Einstein):	0.01832
+score(1746):	0.01832
+score(1738):	0.01832
+score(1735):	0.01832
+score(1723):	0.01832
+score(Lapin domestique):	0.01832
+score(Premier ministre français):	0.01832
+score(Botanique):	0.01832
+score(François Rabelais):	0.01832
+score(1555):	0.01832
+score(Liste des monarques de France):	0.01832
+score(Kiribati):	0.01832
+score(Louis XV):	0.01832
+score(1698):	0.01832
+score(Xénophobie):	0.01832
+score(Marsupialia):	0.01832
+score(1641):	0.01832
+score(1631):	0.01832
+score(1625):	0.01832
+score(1617):	0.01832
+score(1585):	0.01832
+score(Trinité-et-Tobago):	0.01832
+score(Samoa):	0.01832
+score(1543):	0.01832
+score(1559):	0.01832
+score(Polonais):	0.01832
+score(Boulogne-sur-Mer):	0.01832
+score(Chambéry):	0.01832
+score(1364):	0.01832
+score(Uranium):	0.01832
+score(Denis Diderot):	0.01832
+score(Arthropode):	0.01832
+score(Nickel):	0.01832
+score(Arsenic):	0.01832
+score(Sébastien Japrisot):	0.01832
+score(Écozone):	0.01832
+score(Kangourou):	0.01832
+score(Serge Gainsbourg):	0.01832
+score(Tennessee Williams):	0.01832
+score(Thomas d'Aquin):	0.01832
+score(John McEnroe):	0.01832
+score(Thuringe):	0.01832
+score(Atlanta):	0.01832
+score(Indianapolis):	0.01832
+score(Harrisburg):	0.01832
+score(Indomalais):	0.01832
+score(Australasien):	0.01832
+score(Maurice Druon):	0.01832
+score(Économie de la France):	0.01832
+score(Maurice Genevoix):	0.01832
+score(William Hogarth):	0.01832
+score(Volt):	0.01832
+score(Fuseau horaire):	0.01832
+score(Lundi):	0.01832
+score(God Save the Queen):	0.01832
+score(Choucroute):	0.01832
+score(General Motors):	0.01832
+score(Association des nations de l'Asie du Sud-Est):	0.01832
+score(Japonais):	0.01832
+score(Sikhisme):	0.01832
+score(Organisation juridictionnelle (France)):	0.01832
+score(Mousson):	0.01832
+score(Antoine Lavoisier):	0.01832
+score(Urée):	0.01832
+score(Métis):	0.01832
+score(Avicenne):	0.01832
+score(The Police):	0.01832
+score(Cidre):	0.01832
+score(Rudyard Kipling):	0.01832
+score(Règle du précédent):	0.01832
+score(David Bowie):	0.01832
+score(Liste alphabétique d'écrivains italiens):	0.01832
+score(Comité international de la Croix-Rouge):	0.01832
+score(Primo Levi):	0.01832
+score(Champagne (AOC)):	0.01832
+score(Décret d'abolition de l'esclavage du 27 avril 1848):	0.01832
+score(Jackie Chan):	0.01832
+score(Claude (empereur romain)):	0.01832
+score(Charlie Chaplin):	0.01832
+score(Maréchal de France):	0.01832
+score(Slovaque):	0.01832
+score(John Lennon):	0.01832
+score(Hard rock):	0.01832
+score(Guerre anglo-américaine de 1812):	0.01832
+score(Scott v. Sandford):	0.01832
+score(Europe (lune)):	0.01832
+score(Croate):	0.01832
+score(Tournoi de Wimbledon):	0.01832
+score(Scandale du Watergate):	0.01832
+score(Canicule européenne de 2003):	0.01832
+score(Autodafé):	0.01832
+score(Projet Manhattan):	0.01832
+score(Dugong):	0.01832
+score(Crétacé):	0.01832
+score(Chou commun):	0.01832
+score(Laine):	0.01832
+score(Edward Jenner):	0.01832
+score(Basse-Terre):	0.01832
+score(Capesterre-Belle-Eau):	0.01832
+score(Solanaceae):	0.01832
+score(Nouvelle-Espagne):	0.01832
+score(Pyramide des besoins):	0.01832
+score(Arbre à pain):	0.01832
+score(Traites négrières):	0.01832
+score(Roquefort (fromage)):	0.01832
+score(Aire urbaine):	0.01832
+score(Chronologie de la Première Guerre mondiale):	0.01832
+score(Corail):	0.01832
+score(Mère Teresa):	0.01832
+score(Ail cultivé):	0.01832
+score(Pompier):	0.01832
+score(Avenue des Champs-Élysées):	0.01832
+score(Brisbane):	0.01832
+score(Queensland):	0.01832
+score(Taïga):	0.01832
+score(Microscopie électronique à balayage):	0.01832
+score(Diamant):	0.01832
+score(Territoire du Nord):	0.01832
+score(Franc-maçonnerie):	0.01832
+score(Gouvernement Jean-Pierre Raffarin (2)):	0.01832
+score(Matière plastique):	0.01832
+score(Coluche):	0.01832
+score(Radio France internationale):	0.01832
+score(Jeux olympiques d'été):	0.01832
+score(Cannes):	0.01832
+score(Yves Montand):	0.01832
+score(Code génétique):	0.01832
+score(Mélanésie):	0.01832
+score(Jean le Rond D'Alembert):	0.01832
+score(Sionisme):	0.01832
+score(Auschwitz):	0.01832
+score(Produit laitier):	0.01832
+score(Palais de l'Élysée):	0.01832
+score(National Basketball Association):	0.01832
+score(The Cure):	0.01832
+score(Premier ministre):	0.01832
+score(Asclépios):	0.01832
+score(Cuisson des aliments):	0.01832
+score(Second Empire):	0.01832
+score(Robert Louis Stevenson):	0.01832
+score(Vanille):	0.01832
+score(São Paulo):	0.01832
+score(Laurent-Désiré Kabila):	0.01832
+score(Jean-Paul Belmondo):	0.01832
+score(Occident):	0.01832
+score(Ballon d'or):	0.01832
+score(Vancouver):	0.01832
+score(Dido):	0.01832
+score(Âge du bronze):	0.01832
+score(Football américain):	0.01832
+score(Viverridae):	0.01832
+score(Gestapo):	0.01832
+score(Créationnisme):	0.01832
+score(Hermann Göring):	0.01832
+score(Référendum):	0.01832
+score(Desmond Morris):	0.01832
+score(Pont):	0.01832
+score(Jean-Christophe Rufin):	0.01832
+score(États généraux (France)):	0.01832
+score(Sol (pédologie)):	0.01832
+score(Rose (fleur)):	0.01832
+score(Institut national de l'audiovisuel):	0.01832
+score(Anne Frank):	0.01832
+score(Liste des animaux d'élevage):	0.01832
+score(Jean-Claude Brialy):	0.01832
+score(Gaullisme):	0.01832
+score(Maltais):	0.01832
+score(Rügen):	0.01832
+score(Interruption volontaire de grossesse):	0.01832
+score(Springfield):	0.01832
+score(Moïse Maïmonide):	0.01832
+score(Eldorado):	0.01832
+score(Production du froid):	0.01832
+score(Canal+):	0.01832
+score(Décibel):	0.01832
+score(McDonnell Douglas F-4 Phantom II):	0.01832
+score(Nicolas Appert):	0.01832
+score(Îles Kerguelen):	0.01832
+score(Transmission):	0.01832
+score(Allèle):	0.01832
+score(Abidjan):	0.01832
+score(Revanchisme):	0.01832
+score(Liste des pays par densité de population):	0.01832
+score(Surpopulation):	0.01832
+score(Rock français):	0.01832
+score(Épône):	0.01832
+score(Salle de cinéma):	0.01832
+score(Herbivore):	0.01832
+score(Vérone):	0.01832
+score(Vélo tout terrain):	0.01832
+score(Alliés):	0.01832
+score(Cracovie):	0.01832
+score(Tahiti):	0.01832
+score(Psychologue):	0.01832
+score(Étang):	0.01832
+score(Chelles):	0.01832
+score(Caoutchouc (matériau)):	0.01832
+score(Blanc):	0.01832
+score(Faim):	0.01832
+score(Traduction génétique):	0.01832
+score(Zeppelin):	0.01832
+score(Auguste Escoffier):	0.01832
+score(Vasco de Gama):	0.01832
+score(Mars 2004):	0.01832
+score(Voie ferrée):	0.01832
+score(Guillotine):	0.01832
+score(Donald Rumsfeld):	0.01832
+score(Échidné):	0.01832
+score(Vietnamien):	0.01832
+score(Médicament générique):	0.01832
+score(Liste des autoroutes de France):	0.01832
+score(Sacrifice):	0.01832
+score(Cerise):	0.01832
+score(Michelin):	0.01832
+score(André Hercule de Fleury):	0.01832
+score(Boston Tea Party):	0.01832
+score(Bataille des Dardanelles):	0.01832
+score(Printemps):	0.01832
+score(Escargot):	0.01832
+score(Gelugpa):	0.01832
+score(Téhéran):	0.01832
+score(Agave):	0.01832
+score(Ivan le Terrible):	0.01832
+score(Chaux (matière)):	0.01832
+score(Canberra):	0.01832
+score(André Citroën):	0.01832
+score(Massacre d'Amritsar):	0.01832
+score(Entomologie):	0.01832
+score(Apt):	0.01832
+score(Prix de Rome):	0.01832
+score(Télévision par satellite):	0.01832
+score(Centre national d'art et de culture Georges-Pompidou):	0.01832
+score(Pittsburgh):	0.01832
+score(Comté des États-Unis):	0.01832
+score(Système éducatif des États-Unis):	0.01832
+score(Corruption):	0.01832
+score(Divine Comédie):	0.01832
+score(Melbourne):	0.01832
+score(Lame basale):	0.01832
+score(Parti socialiste européen):	0.01832
+score(Congo):	0.01832
+score(Amérindien):	0.01832
+score(San Diego):	0.01832
+score(Adénine):	0.01832
+score(Thymine):	0.01832
+score(Pyrimidine):	0.01832
+score(Listeria):	0.01832
+score(Économie de la Corée du Sud):	0.01832
+score(Vaccination préventive):	0.01832
+score(Convention de Ramsar):	0.01832
+score(Odontoceti):	0.01832
+score(Michael Caine):	0.01832
+score(Paul Véronèse):	0.01832
+score(Cyanobacteria):	0.01832
+score(Jules Bordet):	0.01832
+score(Plancton):	0.01832
+score(Yser):	0.01832
+score(Chongqing):	0.01832
+score(ONUSIDA):	0.01832
+score(Dominion):	0.01832
+score(Ouïghour):	0.01832
+score(Amphithéâtre romain):	0.01832
+score(Thermes romains):	0.01832
+score(Eros Ramazzotti):	0.01832
+score(Journaliste):	0.01832
+score(Supertramp):	0.01832
+score(Accueil et traitement des urgences):	0.01832
+score(Éocène):	0.01832
+score(Gonorrhée):	0.01832
+score(Yoko Ono):	0.01832
+score(Noyon):	0.01832
+score(Otton Ier du Saint-Empire):	0.01832
+score(Ivan Rebroff):	0.01832
+score(Thessalonique):	0.01832
+score(Daniel Bovet):	0.01832
+score(Rokh):	0.01832
+score(Maison de Guise):	0.01832
+score(Jeux olympiques d'été de 2004):	0.01832
+score(Gondwana):	0.01832
+score(Animal de compagnie):	0.01832
+score(Ambassade):	0.01832
+score(Pharmacopée européenne):	0.01832
+score(Chasseur-cueilleur):	0.01832
+score(Heure d'or):	0.01832
+score(Glucocorticoïde):	0.01832
+score(Thorax):	0.01832
+score(Camion):	0.01832
+score(Britney Spears):	0.01832
+score(Ghetto):	0.01832
+score(Leyde):	0.01832
+score(Œuf amniotique):	0.01832
+score(Aviron (sport)):	0.01832
+score(Falconidae):	0.01832
+score(Françoise Hardy):	0.01832
+score(Baie de Fundy):	0.01832
+score(Ob):	0.01832
+score(Antananarivo):	0.01832
+score(Jackson Pollock):	0.01832
+score(Suidae):	0.01832
+score(Disco):	0.01832
+score(Lagon):	0.01832
+score(Taux de chômage):	0.01832
+score(Unités de mesure anglo-saxonnes):	0.01832
+score(Botulisme):	0.01832
+score(Histoire de Nauru):	0.01832
+score(Ruée vers l'or):	0.01832
+score(Pâtes alimentaires):	0.01832
+score(Vêtement):	0.01832
+score(Voix):	0.01832
+score(Révolution copernicienne):	0.01832
+score(Jeux olympiques d'hiver de 2010):	0.01832
+score(Henri Salvador):	0.01832
+score(Pétrarque):	0.01832
+score(Classification phylogénétique de Guillaume Lecointre et Hervé Le Guyader):	0.01832
+score(Tetrapoda):	0.01832
+score(César Ritz):	0.01832
+score(Mythologie chinoise):	0.01832
+score(Protection sociale):	0.01832
+score(Crocodile):	0.01832
+score(Victoria (État)):	0.01832
+score(Mont Saint Helens):	0.01832
+score(Elton John):	0.01832
+score(Glaciation de Würm):	0.01832
+score(Destinée manifeste):	0.01832
+score(Herpès):	0.01832
+score(Nérac):	0.01832
+score(Sarah Michelle Gellar):	0.01832
+score(Douleur thoracique):	0.01832
+score(Homme de Florès):	0.01832
+score(Jeux olympiques d'été de 1972):	0.01832
+score(Histoire des Juifs en Algérie):	0.01832
+score(Hamster):	0.01832
+score(Bain):	0.01832
+score(Cliff Richard):	0.01832
+score(Roger Daltrey):	0.01832
+score(Planisphère):	0.01832
+score(Cathay Pacific):	0.01832
+score(Mérens (cheval)):	0.01832
+score(Tears for Fears):	0.01832
+score(Club de Paris):	0.01832
+score(Changement climatique):	0.01832
+score(Myxomatose):	0.01832
+score(Suzanne Flon):	0.01832
+score(Tivoli):	0.01832
+score(1879 en sport):	0.01832
+score(1880 en sport):	0.01832
+score(Francis Willughby):	0.01832
+score(Lymphocyte T):	0.01832
+score(Barbare):	0.01832
+score(Viroïde):	0.01832
+score(Maladie d'Addison):	0.01832
+score(Ligue du Nord):	0.01832
+score(Aaron Klug):	0.01832
+score(Purpura rhumatoïde):	0.01832
+score(Datation des cadavres):	0.01832
+score(Alfred Tennyson):	0.01832
+score(Streptomycine):	0.01832
+score(John Latham):	0.01832
+score(Bon Jovi):	0.01832
+score(2005 au cinéma):	0.01832
+score(Génome mitochondrial humain):	0.01832
+score(Conscription):	0.01832
+score(Barack Obama):	0.01832
+score(Moineau domestique):	0.01832
+score(2005 en santé et médecine):	0.01832
+score(Zone économique exclusive):	0.01832
+score(Shantou):	0.01832
+score(Michel Leiris):	0.01832
+score(Pierre Puget):	0.01832
+score(Hazebrouck):	0.01832
+score(Shakira):	0.01832
+score(Faucon pèlerin):	0.01832
+score(Europe sous domination nazie):	0.01832
+score(Diogène):	0.01832
+score(Likoud):	0.01832
+score(Migration humaine):	0.01832
+score(Jan Smuts):	0.01832
+score(Périartérite noueuse):	0.01832
+score(Maud Fontenoy):	0.01832
+score(Proteobacteria):	0.01832
+score(Mammalogie):	0.01832
+score(Lleyton Hewitt):	0.01832
+score(Aléoutes):	0.01832
+score(Parc national des oiseaux du Djoudj):	0.01832
+score(Zhao Ziyang):	0.01832
+score(Trichinose):	0.01832
+score(Lévrier greyhound):	0.01832
+score(Équipe d'Angleterre de rugby à XV):	0.01832
+score(Luanda):	0.01832
+score(Hockey sur gazon):	0.01832
+score(Hiroshige):	0.01832
+score(Alan Stivell):	0.01832
+score(Kampala):	0.01832
+score(Angiotensine):	0.01832
+score(Fracture):	0.01832
+score(Crampe):	0.01832
+score(Columbia (fleuve)):	0.01832
+score(Liste des pays par émissions de dioxyde de carbone):	0.01832
+score(Méthanal):	0.01832
+score(Ambassadeur):	0.01832
+score(Atrabile):	0.01832
+score(Polymérase):	0.01832
+score(Salon international de l'agriculture):	0.01832
+score(Streptomyces):	0.01832
+score(Felipe Massa):	0.01832
+score(État unitaire):	0.01832
+score(Mont Rainier):	0.01832
+score(Fabian Cancellara):	0.01832
+score(Sérogroupage):	0.01832
+score(Autoclave):	0.01832
+score(Guerre civile russe):	0.01832
+score(Steve Buscemi):	0.01832
+score(Pseudomonas):	0.01832
+score(Plasmodium):	0.01832
+score(Ève mitochondriale):	0.01832
+score(Limites de l'Europe):	0.01832
+score(Mononucléose):	0.01832
+score(Wombat):	0.01832
+score(Mauna Loa):	0.01832
+score(P53):	0.01832
+score(Cigogne blanche):	0.01832
+score(Température corporelle humaine):	0.01832
+score(Chute d'eau):	0.01832
+score(Rickettsia):	0.01832
+score(Aérosol):	0.01832
+score(Robert Aldrich):	0.01832
+score(Manuel diagnostique et statistique des troubles mentaux):	0.01832
+score(Caroline de Monaco):	0.01832
+score(Vitesse de sédimentation):	0.01832
+score(François Viète):	0.01832
+score(Whitney Houston):	0.01832
+score(Troponine):	0.01832
+score(Collagène):	0.01832
+score(Godfried Danneels):	0.01832
+score(Citrus):	0.01832
+score(Interleukine):	0.01832
+score(Vibrio):	0.01832
+score(Conseil d'État (France)):	0.01832
+score(Biocide):	0.01832
+score(Gaz lacrymogène):	0.01832
+score(Adjuvant):	0.01832
+score(Tisza):	0.01832
+score(Zach Braff):	0.01832
+score(Lauren Jackson):	0.01832
+score(Soins de santé):	0.01832
+score(Talk Talk):	0.01832
+score(Saint Antoine):	0.01832
+score(Expectorant):	0.01832
+score(Agranulocytose):	0.01832
+score(Juin 2006):	0.01832
+score(Mont Shasta):	0.01832
+score(Martha Graham):	0.01832
+score(Université nationale australienne):	0.01832
+score(Droit de vote des femmes):	0.01832
+score(William Osler):	0.01832
+score(Brucellose):	0.01832
+score(Cleveland):	0.01832
+score(Dessein intelligent):	0.01832
+score(Vaccine):	0.01832
+score(Variolisation):	0.01832
+score(Fatigue (physiologie)):	0.01832
+score(Snake (rivière)):	0.01832
+score(Elizabeth Montgomery):	0.01832
+score(Traité sur l'Antarctique):	0.01832
+score(Paire de bases):	0.01832
+score(Bioremédiation):	0.01832
+score(Mammifère marin):	0.01832
+score(Chef d'État):	0.01832
+score(Certificat d'aptitude professionnelle):	0.01832
+score(Insomnie):	0.01832
+score(Gaston Ramon):	0.01832
+score(Insuffisance coronarienne):	0.01832
+score(Michael Phelps):	0.01832
+score(Statine):	0.01832
+score(Saignée (médecine)):	0.01832
+score(Créole):	0.01832
+score(Flaviviridae):	0.01832
+score(Chaîne des Cascades):	0.01832
+score(Classification internationale des maladies):	0.01832
+score(Ribozyme):	0.01832
+score(Sirop):	0.01832
+score(Culture française):	0.01832
+score(Élection présidentielle en France):	0.01832
+score(Félix d'Hérelle):	0.01832
+score(Pont-Saint-Esprit):	0.01832
+score(Albert Calmette):	0.01832
+score(Intégrase):	0.01832
+score(Rock):	0.01832
+score(Maladie de Horton):	0.01832
+score(Liste de virus):	0.01832
+score(Iatrogénèse):	0.01832
+score(Cellule dendritique):	0.01832
+score(Serbes):	0.01832
+score(Giants Stadium):	0.01832
+score(Dave):	0.01832
+score(Palais de Westminster):	0.01832
+score(Edward Heath):	0.01832
+score(Samoan):	0.01832
+score(Villers-Bretonneux):	0.01832
+score(Vibrisse):	0.01832
+score(Phénol (groupe)):	0.01832
+score(Souffrance):	0.01832
+score(Pogrom):	0.01832
+score(Oligonucléotide):	0.01832
+score(Charles de Mayenne):	0.01832
+score(Dislocation):	0.01832
+score(Décret de l'Alhambra):	0.01832
+score(Ilya Ilitch Metchnikov):	0.01832
+score(Sterne arctique):	0.01832
+score(Google Earth):	0.01832
+score(Anesthésique local):	0.01832
+score(The Lancet):	0.01832
+score(RMS Lusitania):	0.01832
+score(Pontiques):	0.01832
+score(Protéasome):	0.01832
+score(Spice Girls):	0.01832
+score(John Howard Northrop):	0.01832
+score(Délire):	0.01832
+score(Kalisz):	0.01832
+score(Méthanisation):	0.01832
+score(Traite arabe):	0.01832
+score(Insuffisance rénale aiguë):	0.01832
+score(Mouette tridactyle):	0.01832
+score(Arthrose):	0.01832
+score(The Prodigy):	0.01832
+score(Lac Pontchartrain):	0.01832
+score(Postulats de Koch):	0.01832
+score(Bioaérosol):	0.01832
+score(Facteur de risque):	0.01832
+score(Ampicilline):	0.01832
+score(Architecture aux États-Unis):	0.01832
+score(Taïnos):	0.01832
+score(Territoire britannique d'outre-mer):	0.01832
+score(R. Douglas Reye):	0.01832
+score(Désinfection):	0.01832
+score(Pyramide des âges):	0.01832
+score(Glomérulonéphrite):	0.01832
+score(Martin Waldseemüller):	0.01832
+score(United States Pacific Command):	0.01832
+score(Hépatomégalie):	0.01832
+score(Ligue nationale pour la liberté des vaccinations):	0.01832
+score(Hématophage):	0.01832
+score(Ronny Turiaf):	0.01832
+score(Elio Petri):	0.01832
+score(Elikia M'Bokolo):	0.01832
+score(Peste aviaire):	0.01832
+score(Exception culturelle):	0.01832
+score(Streptococcus):	0.01832
+score(Joan Crawford):	0.01832
+score(Felix Hoffmann):	0.01832
+score(Blocus de Berlin):	0.01832
+score(Mer d'Okhotsk):	0.01832
+score(Université de Melbourne):	0.01832
+score(Jean Siméon Chardin):	0.01832
+score(Combattant varié):	0.01832
+score(Cincle plongeur):	0.01832
+score(Ergotisme):	0.01832
+score(Psychrophile):	0.01832
+score(Alvin Ailey):	0.01832
+score(Autorité européenne de sécurité des aliments):	0.01832
+score(Bophuthatswana):	0.01832
+score(Sébastien Chabal):	0.01832
+score(Gaz toxique):	0.01832
+score(Aisselle):	0.01832
+score(Régime alimentaire):	0.01832
+score(Enregistrement, évaluation et autorisation des produits chimiques):	0.01832
+score(Substitution électrophile aromatique):	0.01832
+score(Porteur sain):	0.01832
+score(Gaël Clichy):	0.01832
+score(Circumnavigation):	0.01832
+score(Héros):	0.01832
+score(Boxing Day):	0.01832
+score(Mort subite du nourrisson):	0.01832
+score(Machine à laver le linge):	0.01832
+score(Agence européenne des médicaments):	0.01832
+score(Rattus norvegicus):	0.01832
+score(Franjo Tuđman):	0.01832
+score(Echinococcus granulosus):	0.01832
+score(Entérite):	0.01832
+score(Connaissance technique):	0.01832
+score(ReGenesis):	0.01832
+score(Surpêche):	0.01832
+score(Philibert Orry):	0.01832
+score(Feu bactérien):	0.01832
+score(Comprimé):	0.01832
+score(Couleur de la peau humaine):	0.01832
+score(Manu Dibango):	0.01832
+score(Hypertension artérielle pulmonaire):	0.01832
+score(Télomérase):	0.01832
+score(Colonie de peuplement):	0.01832
+score(Mascate):	0.01832
+score(Arzew):	0.01832
+score(James Earl Jones):	0.01832
+score(Anastacia):	0.01832
+score(Charles Ier d'Aumale):	0.01832
+score(Hyperventilation):	0.01832
+score(Liste des archevêques de Narbonne):	0.01832
+score(Ion I. C. Brătianu):	0.01832
+score(Gélose):	0.01832
+score(Anhydride acétique):	0.01832
+score(Michael Hutchence):	0.01832
+score(Lough Neagh):	0.01832
+score(Chiralité (chimie)):	0.01832
+score(Marronnage (animaux)):	0.01832
+score(Taufa'ahau Tupou IV):	0.01832
+score(Amitié franco-allemande):	0.01832
+score(Najoua Belyzel):	0.01832
+score(1995 en science):	0.01832
+score(Ruanda-Urundi):	0.01832
+score(Miklós Horthy):	0.01832
+score(Hirudothérapie):	0.01832
+score(Dette publique de la France):	0.01832
+score(Kaiser Wilhelm II):	0.01832
+score(ANZUS):	0.01832
+score(Bataille de Khe Sanh):	0.01832
+score(Hyperlaxie):	0.01832
+score(Adenoviridae):	0.01832
+score(Ouidah):	0.01832
+score(EDTA):	0.01832
+score(Togaviridae):	0.01832
+score(Autorité des marchés financiers (Québec)):	0.01832
+score(Puffin fuligineux):	0.01832
+score(Hémaglutinine):	0.01832
+score(Lait de poule):	0.01832
+score(Victor Anicet):	0.01832
+score(Nutriment):	0.01832
+score(Refroidissement éolien):	0.01832
+score(Fondation Rockefeller):	0.01832
+score(Ouragan Katrina):	0.01832
+score(Kali'na):	0.01832
+score(Pasteurella):	0.01832
+score(Gabriel Koenigs):	0.01832
+score(Babe, le cochon devenu berger):	0.01832
+score(Adrien Maurice de Noailles):	0.01832
+score(The Beatles):	0.01832
+score(Ion Antonescu):	0.01832
+score(Peste pneumonique):	0.01832
+score(Adénovirus):	0.01832
+score(Naturopathie):	0.01832
+score(Épidémie de choléra):	0.01832
+score(État fédéral):	0.01832
+score(Polluant):	0.01832
+score(Max Delbrück):	0.01832
+score(Fauconnerie):	0.01832
+score(Kilobase):	0.01832
+score(Tératogenèse):	0.01832
+score(Afro-Américains):	0.01832
+score(Labyrinthite):	0.01832
+score(Lapin de Pâques):	0.01832
+score(Rhume de hanche):	0.01832
+score(Structure primaire):	0.01832
+score(Hygiène du corps):	0.01832
+score(Système monétaire international):	0.01832
+score(Psychomotricité):	0.01832
+score(Jamelia):	0.01832
+score(Duncan Edwards):	0.01832
+score(Histoire des Juifs en Pologne):	0.01832
+score(World Community Grid):	0.01832
+score(INXS):	0.01832
+score(Gorge (anatomie)):	0.01832
+score(Nouvelle-Guinée occidentale):	0.01832
+score(Girls Aloud):	0.01832
+score(Streptocoques):	0.01832
+score(Antoine le Grand):	0.01832
+score(Antijudaïsme):	0.01832
+score(Diamant mandarin):	0.01832
+score(Glutathion):	0.01832
+score(Glaçon):	0.01832
+score(Dallas):	0.01832
+score(Canard à oreilles roses):	0.01832
+score(Comportements-barrières):	0.01832
+score(Bithérapie):	0.01832
+score(Hakka):	0.01832
+score(Martin triste):	0.01832
+score(James Blunt):	0.01832
+score(Réparation de l'ADN):	0.01832
+score(Comté de Westchester):	0.01832
+score(Hémoculture):	0.01832
+score(Accident d'exposition au sang):	0.01832
+score(Pluie d'animaux):	0.01832
+score(Zacharias Janssen):	0.01832
+score(Transplantation cardiaque):	0.01832
+score(Camille Alphonse Trézel):	0.01832
+score(Claude Ropartz):	0.01832
+score(Service de santé des armées):	0.01832
+score(Sarcome):	0.01832
+score(Philippe-Emmanuel de Lorraine):	0.01832
+score(John Huxham):	0.01832
+score(Élie Reclus):	0.01832
+score(Iatrogénèse systémique):	0.01832
+score(Jacques Marin):	0.01832
+score(Surabaya):	0.01832
+score(Découverte de la pénicilline):	0.01832
+score(Pink Floyd):	0.01832
+score(Goutte (maladie)):	0.01832
+score(Mode dégradé):	0.01832
+score(Assassinat de John F. Kennedy):	0.01832
+score(NAMRU):	0.01832
+score(Grippe aviaire et chasse):	0.01832
+score(Interleukine 1):	0.01832
+score(Makassar (ville)):	0.01832
+score(Mucolytique):	0.01832
+score(Liste des races de poules):	0.01832
+score(Pou):	0.01832
+score(Théorie cellulaire):	0.01832
+score(Les Fils de l'homme (film)):	0.01832
+score(Peter Medawar):	0.01832
+score(Anders Nordström):	0.01832
+score(Diagnostics et prophylaxie de la grippe aviaire):	0.01832
+score(Infecter):	0.01832
+score(Rhizosphère):	0.01832
+score(Actes de capitulation du Japon):	0.01832
+score(Commonwealth des Philippines):	0.01832
+score(Crapaud):	0.01832
+score(Spasme):	0.01832
+score(Interféron bêta-1a):	0.01832
+score(Déclaration de guerre):	0.01832
+score(Lysogénie):	0.01832
+score(Séquence biologique):	0.01832
+score(Surprescription):	0.01832
+score(Cocarde):	0.01832
+score(Martin O'Malley):	0.01832
+score(Weegee):	0.01832
+score(Ségrégation raciale):	0.01832
+score(Insuffisance hépatique aiguë):	0.01832
+score(Réseau écologique):	0.01832
+score(Julius Axelrod):	0.01832
+score(Han (ethnie)):	0.01832
+score(Cacatoès rosalbin):	0.01832
+score(Déficit immunitaire):	0.01832
+score(Amdo):	0.01832
+score(Forêt de guerre):	0.01832
+score(Stérilisation):	0.01832
+score(Native American Graves Protection and Repatriation Act):	0.01832
+score(Stéphane Meca):	0.01832
+score(Intelligence animale):	0.01832
+score(Ibn Khaldoun):	0.01832
+score(Martin Luther King Day):	0.01832
+score(Locked-in syndrome):	0.01832
+score(Liste des ponts de Rome):	0.01832
+score(Liste des présidents des États-Unis):	0.01832
+score(Marsupium):	0.01832
+score(Maladies nosocomiales):	0.01832
+score(Syndrome des antiphospholipides):	0.01832
+score(Édouard Balladur):	0.01832
+score(Partage de l'Afrique):	0.01832
+score(Golfe de Gascogne):	0.01832
+score(Coalition militaire en Irak):	0.01832
+score(Bataille d'Arras (1917)):	0.01832
+score(James Domengeaux):	0.01832
+score(Cassotte):	0.01832
+score(Administration centrale tibétaine):	0.01832
+score(Mouvement afro-américain des droits civiques):	0.01832
+score(Invasion (écologie)):	0.01832
+score(Edgar Faure):	0.01832
+score(Polythérapie):	0.01832
+score(Deuxième expédition du Kamtchatka):	0.01832
+score(Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers):	0.01832
+score(Ornithose):	0.01832
+score(Virus humain):	0.01832
+score(Rash (médecine)):	0.01832
+score(Boiga irregularis):	0.01832
+score(Commonwealth War Graves Commission):	0.01832
+score(Dialogue Asie-Europe):	0.01832
+score(Comptoir):	0.01832
+score(Bec):	0.01832
+score(Robert Laffont):	0.01832
+score(Acide N-acétylneuraminique):	0.01832
+score(Arabes):	0.01832
+score(Mosaïque (pathologie végétale)):	0.01832
+score(Phillips):	0.01832
+score(Charles Darwin):	0.01832
+score(Sulfanilamide):	0.01832
+score(Chimiokine):	0.01832
+score(Terminalia ferdinandiana):	0.01832
+score(Chair de poule):	0.01832
+score(Août 2007):	0.01832
+score(Suxaméthonium):	0.01832
+score(Howard Hughes):	0.01832
+score(Laurasiatheria):	0.01832
+score(Art rupestre):	0.01832
+score(Acétylation):	0.01832
+score(Grippe du chien):	0.01832
+score(Juan de Garay):	0.01832
+score(Fuite des cerveaux):	0.01832
+score(Paradoxe de la valeur C):	0.01832
+score(Porte-avions):	0.01832
+score(Corridor climatique):	0.01832
+score(Péplos):	0.01832
+score(Arteriviridae):	0.01832
+score(Aix-en-Provence):	0.01832
+score(Maladie de Gumboro):	0.01832
+score(Sens de circulation (route)):	0.01832
+score(Céphalée de tension):	0.01832
+score(Offensive des Cent-Jours):	0.01832
+score(Chlordécone):	0.01832
+score(Joshua Lederberg):	0.01832
+score(Accusation d'empoisonnement des puits contre les Juifs):	0.01832
+score(Encéphalite de la Murray Valley):	0.01832
+score(Traralgon):	0.01832
+score(Enterrement):	0.01832
+score(Inhibiteur de la pompe à protons):	0.01832
+score(Programme génétique):	0.01832
+score(Che Guevara):	0.01832
+score(Vaccins):	0.01832
+score(Peine de mort en France):	0.01832
+score(République populaire de Pologne):	0.01832
+score(Salicyline):	0.01832
+score(Écureuil):	0.01832
+score(Maladies émergentes):	0.01832
+score(Daytona):	0.01832
+score(Azouz Begag):	0.01832
+score(Rock alternatif):	0.01832
+score(Bade-Wurtemberg):	0.01832
+score(Perruche ondulée):	0.01832
+score(Marcel Proust):	0.01832
+score(Théorie des humeurs):	0.01832
+score(Coxiella burnetii):	0.01832
+score(Kelly Chen):	0.01832
+score(Gentilés des États-Unis):	0.01832
+score(Mars (planète)):	0.01832
+score(Patient zéro):	0.01832
+score(Littoral français):	0.01832
+score(G8):	0.01832
+score(Génotype):	0.01832
+score(Ma Ying-jeou):	0.01832
+score(Algie vasculaire de la face):	0.01832
+score(James Lind):	0.01832
+score(Poultrygeist: Night of the Chicken Dead):	0.01832
+score(Virémie):	0.01832
+score(Hépatite F):	0.01832
+score(Pont du Gard):	0.01832
+score(Microbiologie médicale):	0.01832
+score(Université de médecine et d'odontologie du New Jersey):	0.01832
+score(Sorbose):	0.01832
+score(Partis politiques tunisiens):	0.01832
+score(Rhodésie du Nord):	0.01832
+score(Virus de l'hépatite B):	0.01832
+score(John Snow):	0.01832
+score(Infection virale):	0.01832
+score(Badiane japonaise):	0.01832
+score(Dicistroviridae):	0.01832
+score(Automobile):	0.01832
+score(Port Fairy):	0.01832
+score(Lavage de mains):	0.01832
+score(Glycocalyx):	0.01832
+score(CIM-10 Chapitre 10 : Maladies de l'appareil respiratoire):	0.01832
+score(Pays impliqués dans la Première Guerre mondiale):	0.01832
+score(Équipement de protection individuelle):	0.01832
+score(Amphithéâtre):	0.01832
+score(Inoculation):	0.01832
+score(Fromage):	0.01832
+score(Désert):	0.01832
+score(Indice d’abondance des populations d’oiseaux communs):	0.01832
+score(Président du Sénat français):	0.01832
+score(Épilepsie):	0.01832
+score(Héroïne):	0.01832
+score(Miel):	0.01832
+score(Compagnie de Guinée):	0.01832
+score(Froid industriel):	0.01832
+score(Sédition):	0.01832
+score(Guerre des Gaules):	0.01832
+score(Forcalquier):	0.01832
+score(Nestorianisme):	0.01832
+score(Neuroleptique):	0.01832
+score(Hugues Krafft):	0.01832
+score(Lactoferrine):	0.01832
+score(Traité de Whitehall):	0.01832
+score(Cocaïne):	0.01832
+score(Pseudonœud):	0.01832
+score(Sam Worthington):	0.01832
+score(McDonald's):	0.01832
+score(Histoire du vol spatial):	0.01832
+score(Endogène):	0.01832
+score(Conservation des aliments):	0.01832
+score(Joseph Bologne de Saint-George):	0.01832
+score(Biohygiéniste):	0.01832
+score(H1N2):	0.01832
+score(H3N1):	0.01832
+score(Édith Piaf):	0.01832
+score(Masques chirurgicaux):	0.01832
+score(Semaine européenne de la vaccination):	0.01832
+score(ANZAC):	0.01832
+score(Blastomycose):	0.01832
+score(Syndrome de fatigue chronique):	0.01832
+score(Neurasthénie):	0.01832
+score(Récif corallien):	0.01832
+score(Jean-Marie Le Pen):	0.01832
+score(Paris Hilton):	0.01832
+score(Métopimazine):	0.01832
+score(Perpignan):	0.01832
+score(Huile de palme):	0.01832
+score(Risque nosocomial):	0.01832
+score(Évolution du génome):	0.01832
+score(Thogotovirus):	0.01832
+score(Classement mondial des grandes nations du sport):	0.01832
+score(Quatre éléments):	0.01832
+score(Gouvernement d'unité nationale (Hongrie)):	0.01832
+score(Baxter International):	0.01832
+score(Le Dernier des Templiers):	0.01832
+score(Virus de l'encéphalite équine vénézuelienne):	0.01832
+score(Arthur Streeton):	0.01832
+score(Souche pure):	0.01832
+score(Circus Maximus):	0.01832
+score(Bataille de Pozières):	0.01832
+score(MF59):	0.01832
+score(Thrombopénie):	0.01832
+score(Grippe A (H1N1) de 2009-2010 en France):	0.01832
+score(Pacte civil de solidarité):	0.01832
+score(Maladies de la pomme de terre):	0.01832
+score(Épidémie de méningite en Afrique de l'Ouest de 2009-2010):	0.01832
+score(Sécurité sanitaire):	0.01832
+score(Théophile Delcassé):	0.01832
+score(Psychiatrie):	0.01832
+score(Céline Dion):	0.01832
+score(Francesco Borghèse):	0.01832
+score(Recensement de la population en France):	0.01832
+score(1781 aux États-Unis):	0.01832
+score(Hypothiocyanite):	0.01832
+score(1791 aux États-Unis):	0.01832
+score(Surf):	0.01832
+score(Les Aventures de Bernard et Bianca):	0.01832
+score(Johnny Hallyday):	0.01832
+score(Marie Curie):	0.01832
+score(75e division d'infanterie (États-Unis)):	0.01832
+score(Pfizer):	0.01832
+score(Immunologie mucosale):	0.01832
+score(Deepwater Horizon):	0.01832
+score(Opération Torch):	0.01832
+score(Traité de paix sino-tibétain de 783):	0.01832
+score(Fimbriae (bactériologie)):	0.01832
+score(Comprimé effervescent):	0.01832
+score(Chypre du Nord):	0.01832
+score(Roms):	0.01832
+score(Furovirus):	0.01832
+score(Pomovirus):	0.01832
+score(Abeille):	0.01832
+score(Enfer (Divine Comédie)):	0.01832
+score(Luteoviridae):	0.01832
+score(Tombusviridae):	0.01832
+score(Mots japonais d'origine néerlandaise):	0.01832
+score(René Dujarric de la Rivière):	0.01832
+score(Brigitte Bardot):	0.01832
+score(Pathogène émergent):	0.01832
+score(Prévention quaternaire):	0.01832
+score(Simon Petlioura):	0.01832
+score(Porteurs asymptomatiques):	0.01832
+score(Valladolid):	0.01832

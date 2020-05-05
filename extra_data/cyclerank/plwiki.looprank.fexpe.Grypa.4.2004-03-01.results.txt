@@ -1,0 +1,23 @@
+score(Grypa):	0.82814
+score(Choroby zakaźne):	0.34996
+score(Pandemia):	0.24523
+score(Medycyna):	0.15968
+score(Choroba Heinego-Medina):	0.14653
+score(1889):	0.14653
+score(1918):	0.10989
+score(Szczepionka):	0.10989
+score(Choroba):	0.10473
+score(1919):	0.07326
+score(Wirusy):	0.0681
+score(Jonas Salk):	0.05495
+score(1900):	0.03663
+score(1886):	0.03663
+score(28 października):	0.03663
+score(Ospa prawdziwa):	0.03663
+score(Lekarz chorób zakaźnych):	0.01832
+score(XIX wiek):	0.01832
+score(1908):	0.01832
+score(1888):	0.01832
+score(20 listopada):	0.01832
+score(Nozologia):	0.01832
+score(Symptomatologia):	0.01832

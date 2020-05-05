@@ -1,0 +1,62 @@
+score(Grypa):	6.9309
+score(1900):	0.73278
+score(1918):	0.73278
+score(1957):	0.73278
+score(1889):	0.73278
+score(1968):	0.63321
+score(1919):	0.58342
+score(Pandemia):	0.53363
+score(Epidemia):	0.48384
+score(Ptasia grypa):	0.43406
+score(Szczepionka):	0.33448
+score(Skok antygenowy):	0.33448
+score(XX wiek):	0.29872
+score(1958):	0.24894
+score(Filowirusy):	0.24894
+score(Oseltamiwir):	0.23491
+score(Przesunięcie antygenowe):	0.23491
+score(1977):	0.19915
+score(Jan Paweł II):	0.19915
+score(1978):	0.19915
+score(Amantadyna):	0.18512
+score(Hemaglutynina):	0.18512
+score(Zapalenie osierdzia):	0.18512
+score(1970):	0.14936
+score(1891):	0.14936
+score(Zapalenie):	0.14936
+score(Droga szerzenia się zakażenia):	0.13534
+score(I wojna światowa):	0.09957
+score(Lata 50. XX wieku):	0.09957
+score(Lata 80. XX wieku):	0.09957
+score(Medycyna):	0.09957
+score(Ospa prawdziwa):	0.09957
+score(Hipokrates):	0.09957
+score(Broń biologiczna):	0.09957
+score(Cukrzyca):	0.09957
+score(Neuraminidaza):	0.09957
+score(Enzymy):	0.09957
+score(Zapalenie płuc):	0.09957
+score(Bolesław Bierut):	0.04979
+score(Lata 60. XX wieku):	0.04979
+score(Ptaki):	0.04979
+score(Stany Zjednoczone):	0.04979
+score(1833):	0.04979
+score(1580):	0.04979
+score(Śmierć):	0.04979
+score(Wirusy):	0.04979
+score(Gorączka):	0.04979
+score(POChP):	0.04979
+score(Przewlekła obturacyjna choroba płuc):	0.04979
+score(Leczenie):	0.04979
+score(Zespół Downa):	0.04979
+score(Urszula Kochanowska):	0.04979
+score(Otępienie):	0.04979
+score(Adamantan):	0.04979
+score(Materiał genetyczny):	0.04979
+score(Gorączka krwotoczna Ebola):	0.04979
+score(Szczepionki DNA):	0.04979
+score(Oskrzeliki):	0.04979
+score(Grypa azjatycka):	0.04979
+score(Drgawki gorączkowe):	0.04979
+score(Borelioza):	0.04979
+score(Astma oskrzelowa):	0.04979

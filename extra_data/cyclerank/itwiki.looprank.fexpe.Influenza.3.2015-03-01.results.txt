@@ -1,0 +1,110 @@
+score(Influenza):	12.77772
+score(Raffreddore comune):	1.13108
+score(Pandemia):	0.98172
+score(Orthomyxoviridae):	0.93193
+score(Epidemia):	0.84638
+score(Polmonite):	0.69702
+score(Pandemia influenzale):	0.68299
+score(Cefalea):	0.68299
+score(Influenzavirus A):	0.59744
+score(AIDS):	0.59744
+score(Zoonosi):	0.58342
+score(Virus parainfluenzali umani):	0.58342
+score(Influenza di Hong Kong):	0.53363
+score(Virus a RNA):	0.53363
+score(Influenza asiatica):	0.48384
+score(Influenza spagnola):	0.48384
+score(Dengue):	0.44808
+score(Difterite):	0.44808
+score(Bronchite):	0.43406
+score(Faringite):	0.43406
+score(Influenza suina):	0.43406
+score(Vaccinazione):	0.3983
+score(Zanamivir):	0.38427
+score(Sindrome di Reye):	0.33448
+score(Emoagglutinina):	0.33448
+score(Nausea):	0.29872
+score(Apparato respiratorio):	0.29872
+score(Enzima):	0.24894
+score(Periodo di incubazione):	0.24894
+score(Vaiolo):	0.24894
+score(Zinco):	0.24894
+score(Tonsillite):	0.23491
+score(Influenzavirus C):	0.23491
+score(XIX secolo):	0.19915
+score(Febbre):	0.19915
+score(Peste nera):	0.19915
+score(Espettorato):	0.19915
+score(Tosse):	0.19915
+score(Morbillo):	0.19915
+score(Acido acetilsalicilico):	0.14936
+score(Influenza aviaria):	0.14936
+score(Oseltamivir):	0.14936
+score(Mialgia):	0.14936
+score(Croup):	0.14936
+score(Inghilterra):	0.14936
+score(Antivirale):	0.14936
+score(Epatite A):	0.14936
+score(Meningite):	0.14936
+score(SARS):	0.14936
+score(Pandemia influenzale del 2009):	0.14936
+score(Vaccino antinfluenzale):	0.14936
+score(Prima guerra mondiale):	0.09957
+score(Oceano Pacifico):	0.09957
+score(XVIII secolo):	0.09957
+score(2005):	0.09957
+score(Peste):	0.09957
+score(Yasser Arafat):	0.09957
+score(George Washington):	0.09957
+score(Poliomielite):	0.09957
+score(Leptospirosi):	0.09957
+score(Vitamina D):	0.09957
+score(Bronchite acuta):	0.09957
+score(Febbre tifoide):	0.09957
+score(Evoluzione):	0.09957
+score(Cheratite):	0.09957
+score(Rinite):	0.09957
+score(Acido sialico):	0.09957
+score(Italia):	0.09957
+score(Königsberg):	0.09957
+score(Dottrina miasmatico-umorale):	0.09957
+score(Virus respiratorio sinciziale umano):	0.09957
+score(Vietnam):	0.04979
+score(1918):	0.04979
+score(2004):	0.04979
+score(Bacteria):	0.04979
+score(New Jersey):	0.04979
+score(Epidemiologia):	0.04979
+score(Sclerosi multipla):	0.04979
+score(Organizzazione mondiale della sanità):	0.04979
+score(Paracetamolo):	0.04979
+score(Tifo esantematico):	0.04979
+score(Antrace):	0.04979
+score(Malattia infettiva):	0.04979
+score(Toxoplasma gondii):	0.04979
+score(Malattia di Lyme):	0.04979
+score(Damiano de Veuster):	0.04979
+score(Febbre Q):	0.04979
+score(Malattia):	0.04979
+score(Epatite C):	0.04979
+score(Réseau Sentinelles):	0.04979
+score(Contagiosità):	0.04979
+score(Seni paranasali):	0.04979
+score(Isola di Pasqua):	0.04979
+score(Starnuto):	0.04979
+score(Endo-alfa-sialidasi):	0.04979
+score(Edmund Allenby):	0.04979
+score(Mohammed Abdullah Hassan):	0.04979
+score(Quadro clinico):	0.04979
+score(Omeopatia):	0.04979
+score(Neoplasia):	0.04979
+score(Febbre suina):	0.04979
+score(Selezione naturale):	0.04979
+score(Tosse post-virale):	0.04979
+score(Ipoclorito di sodio):	0.04979
+score(Tahiti):	0.04979
+score(Rinofaringite):	0.04979
+score(Mineral Miracle Solution):	0.04979
+score(Vaccino influenza stagionale):	0.04979
+score(Vaccino influenzale):	0.04979
+score(Sindrome influenzale):	0.04979

@@ -1,0 +1,49 @@
+score(Grypa):	5.30827
+score(1957):	0.73278
+score(1918):	0.68299
+score(1889):	0.58342
+score(1919):	0.53363
+score(1968):	0.53363
+score(Pandemia):	0.48384
+score(Epidemia):	0.48384
+score(Ptasia grypa):	0.43406
+score(Szczepionka):	0.33448
+score(Skok antygenowy):	0.33448
+score(XX wiek):	0.29872
+score(Jan Paweł II):	0.24894
+score(Przesunięcie antygenowe):	0.23491
+score(Choroby zakaźne):	0.19915
+score(1958):	0.19915
+score(Filowirusy):	0.19915
+score(Hemaglutynina):	0.18512
+score(1900):	0.14936
+score(1977):	0.14936
+score(1978):	0.14936
+score(I wojna światowa):	0.09957
+score(Lata 80. XX wieku):	0.09957
+score(Medycyna):	0.09957
+score(1970):	0.09957
+score(1891):	0.09957
+score(Zapalenie):	0.09957
+score(Broń biologiczna):	0.09957
+score(Zapalenie osierdzia):	0.09957
+score(Borelioza):	0.09957
+score(Lata 50. XX wieku):	0.04979
+score(Lata 60. XX wieku):	0.04979
+score(Ptaki):	0.04979
+score(1997):	0.04979
+score(1833):	0.04979
+score(1580):	0.04979
+score(Śmierć):	0.04979
+score(Hipokrates):	0.04979
+score(Wirusy):	0.04979
+score(Leczenie):	0.04979
+score(Urszula Kochanowska):	0.04979
+score(Materiał genetyczny):	0.04979
+score(Gorączka krwotoczna Ebola):	0.04979
+score(Oseltamiwir):	0.04979
+score(Neuraminidaza):	0.04979
+score(Szczepionki DNA):	0.04979
+score(Oskrzeliki):	0.04979
+score(Grypa azjatycka):	0.04979
+score(Astma oskrzelowa):	0.04979

@@ -1,0 +1,11 @@
+score(Griep):	0.88985
+score(Virus (biologie)):	0.33448
+score(Oseltamivir):	0.23491
+score(Vaccin):	0.13534
+score(Spaanse griep):	0.13534
+score(Vogelpest):	0.09957
+score(SARS):	0.09957
+score(Diabetes mellitus):	0.04979
+score(Opportunistische infectie):	0.04979
+score(Wereldgezondheidsorganisatie):	0.04979
+score(Symptoom):	0.04979

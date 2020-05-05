@@ -1,0 +1,33 @@
+score(Influenza):	3.96402
+score(Pandemie):	0.58342
+score(Spanische Grippe):	0.48384
+score(Virusinfektion):	0.48384
+score(1918):	0.48384
+score(Tröpfcheninfektion):	0.43406
+score(Epidemie):	0.38427
+score(Geflügelpest):	0.38427
+score(Infektion):	0.34851
+score(Neuraminidase-Hemmer):	0.33448
+score(Zanamivir):	0.2847
+score(Grippeimpfung):	0.23491
+score(Tamiflu):	0.23491
+score(Lungenentzündung):	0.14936
+score(1919):	0.14936
+score(1920):	0.14936
+score(Influenzapandemie):	0.13534
+score(Krankheitserreger):	0.09957
+score(Infektionskrankheit):	0.09957
+score(Husten):	0.09957
+score(Virostatikum):	0.09957
+score(Masern):	0.09957
+score(1969):	0.04979
+score(Myxoviren):	0.04979
+score(Orthomyxoviren):	0.04979
+score(Tollwut):	0.04979
+score(Erkältung):	0.04979
+score(Allen Welsh Dulles):	0.04979
+score(Johannes Paul II.):	0.04979
+score(Myokarditis):	0.04979
+score(Hongkong-Grippe):	0.04979
+score(HIV):	0.04979
+score(Meningitis):	0.04979

@@ -1,0 +1,51 @@
+score(Influensa):	5.7283
+score(Pandemi):	0.83235
+score(Fågelinfluensa):	0.73278
+score(Virus):	0.68299
+score(Spanska sjukan):	0.68299
+score(Asiaten):	0.48384
+score(Hongkonginfluensan):	0.48384
+score(Influensavirus typ A):	0.48384
+score(Svininfluensa):	0.48384
+score(1957):	0.43406
+score(Epidemi):	0.33448
+score(Influensavirus typ B):	0.33448
+score(Lunginflammation):	0.29872
+score(H1N1-utbrottet 2009):	0.29872
+score(Förkylning):	0.2847
+score(Inkubationstid):	0.23491
+score(Ryska snuvan):	0.18512
+score(Zoonos):	0.14936
+score(Infektion):	0.14936
+score(Hosta):	0.14936
+score(Fåglar):	0.09957
+score(Hund):	0.09957
+score(Enzym):	0.09957
+score(Aerosol):	0.09957
+score(Hjärnhinneinflammation):	0.09957
+score(Orthomyxoviridae):	0.09957
+score(2002):	0.04979
+score(Marsvin):	0.04979
+score(Hjalmar Branting):	0.04979
+score(1918):	0.04979
+score(Protein):	0.04979
+score(1970):	0.04979
+score(1958):	0.04979
+score(1920):	0.04979
+score(Smitta):	0.04979
+score(Feber):	0.04979
+score(Hippokrates):	0.04979
+score(Mutation):	0.04979
+score(Syfilis):	0.04979
+score(Legionella pneumophila):	0.04979
+score(Slem):	0.04979
+score(Nysning):	0.04979
+score(Streptokocker):	0.04979
+score(Gråsparv):	0.04979
+score(Pneumokocker):	0.04979
+score(2009):	0.04979
+score(Hundsjukdomar):	0.04979
+score(Q-feber):	0.04979
+score(Den nya influensan):	0.04979
+score(Rotavirus):	0.04979
+score(Droppinfektion):	0.04979

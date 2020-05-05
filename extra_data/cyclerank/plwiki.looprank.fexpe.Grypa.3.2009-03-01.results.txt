@@ -1,0 +1,73 @@
+score(Grypa):	9.29262
+score(1918):	0.93193
+score(1900):	0.78257
+score(1957):	0.78257
+score(1889):	0.78257
+score(1919):	0.73278
+score(Ptasia grypa):	0.63321
+score(1968):	0.58342
+score(Epidemia):	0.58342
+score(Szczepionka):	0.53363
+score(Pandemia):	0.53363
+score(Przewlekła obturacyjna choroba płuc):	0.53363
+score(Wirusy):	0.48384
+score(XX wiek):	0.3983
+score(Skok antygenowy):	0.33448
+score(Choroby zakaźne):	0.29872
+score(1922):	0.29872
+score(Zapalenie):	0.29872
+score(Oseltamiwir):	0.2847
+score(1958):	0.24894
+score(1977):	0.24894
+score(Zapalenie mięśnia sercowego):	0.24894
+score(Enzymy):	0.24894
+score(Przesunięcie antygenowe):	0.23491
+score(Zapalenie osierdzia):	0.23491
+score(1927):	0.19915
+score(1891):	0.19915
+score(Jan Paweł II):	0.19915
+score(1978):	0.19915
+score(Filowirusy):	0.19915
+score(Zapalenie opon mózgowo-rdzeniowych):	0.19915
+score(Borelioza):	0.19915
+score(Amantadyna):	0.18512
+score(Hemaglutynina):	0.18512
+score(Antybiotyki):	0.14936
+score(I wojna światowa):	0.14936
+score(1970):	0.14936
+score(Broń biologiczna):	0.14936
+score(Haemophilus influenzae):	0.14936
+score(Zapalenie płuc):	0.14936
+score(Droga szerzenia się zakażenia):	0.13534
+score(Lata 50. XX wieku):	0.09957
+score(Lata 80. XX wieku):	0.09957
+score(Ospa prawdziwa):	0.09957
+score(Cukrzyca):	0.09957
+score(Materiał genetyczny):	0.09957
+score(Neuraminidaza):	0.09957
+score(Zapalenie mózgu):	0.09957
+score(Bolesław Bierut):	0.04979
+score(Kwasy rybonukleinowe):	0.04979
+score(Lata 60. XX wieku):	0.04979
+score(Paracetamol):	0.04979
+score(Ptaki):	0.04979
+score(1833):	0.04979
+score(Śmierć):	0.04979
+score(SARS):	0.04979
+score(Hipokrates):	0.04979
+score(Malaria):	0.04979
+score(Gorączka):	0.04979
+score(Zespół Downa):	0.04979
+score(Adamantan):	0.04979
+score(Światłowstręt):	0.04979
+score(Ból głowy):	0.04979
+score(Kleszczowe zapalenie mózgu):	0.04979
+score(Gorączka krwotoczna Ebola):	0.04979
+score(Kaszel):	0.04979
+score(Szczepionki DNA):	0.04979
+score(Grypa azjatycka):	0.04979
+score(John Bodkin Adams):	0.04979
+score(Drgawki gorączkowe):	0.04979
+score(Kanał jonowy):	0.04979
+score(Zarostowe zapalenie oskrzelików):	0.04979
+score(Astma oskrzelowa):	0.04979
